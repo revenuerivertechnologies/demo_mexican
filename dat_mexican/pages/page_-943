@@ -1,0 +1,39 @@
+vtpos 0 26
+Receipts_&_Disbursements P////////xR D S A A A D F K J A K B A C A D/ C G
+j
+G Cash_Receipts_Journal A CM FA EM Y F E D D9 A A C D/ B A C D/ B A A B A
+G Cash_Disbursement_Journal A CI o EM Y F E D D9 A A C D/ B A C D/ B A A B A
+G General_Checking_Account_#1010 A CI BE EM Y F E D D9 A A C D/ B A C D/ B A A B A
+G Cash_Receipt_Account_#9010 A CM Fc EM Y F E D D9 A A C D/ B A C D/ B A A B A
+G Received_From:_Whomever A M Gg DU Y F E D D9 A A C D/ B A C D/ B A A B A
+G Reference_99999 A I GE CE Y F E D D9 A A C D/ B A C D/ B A A B A
+G Explanation A I G8 CY Y F E D D9 A A C D/ B A C D/ B A A B A
+G $_9,999,999.99 A GY G8 Bw Y F E D D9 A A C D/ B A C D/ B A A B A
+G Check_#_9999 A Gc GE Bs Y F E D D9 A A C D/ B A C D/ B A A B A
+G September_31,_2000 A F0 Gg CY Y F E D D9 A A C D/ B A C D/ B A A B A
+G Reference_99999 A M Bs CE Y F E D D9 A A C D/ B A C D/ B A A B A
+G Explanation A M Ck CY Y F E D D9 A A C D/ B A C D/ B A A B A
+G $_9,999,999.99 A GY Ck Bw Y F E D D9 A A C D/ B A C D/ B A A B A
+G Check_#_9999 A GU Bs Bs Y F E D D9 A A C D/ B A C D/ B A A B A
+G Pay_To:_Whomever A M CI CY Y F E D D9 A A C D/ B A C D/ B A A B A
+G September_31,_2000 A F0 CI CY Y F E D D9 A A C D/ B A C D/ B A A B A
+B ~ A OQ GQ Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ Hs Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ JI Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B Edit_Name A OQ B8 Bs Bc C A D D9 S A K D9 C A K A B A EA B A A ~ A ~ A
+B Inactivate_Account A OQ g Bs Bc E A D D9 T A K D9 C A K A B A EA B A A DELETE A ~ A
+B Add_New_Account A OQ DY Bs Bc C A D D9 U A K D9 C A K A B A EA B A A NEW A ~ A
+B Find A OQ E0 Bs Bc C A D D9 Q A K D9 C A K A B A EA B A A ~ A ~ A
+J ~ A OQ g Bs Kk C E K A A A K B B A K A B A EA B A A A
+J CR/CD A GA LE CA 4 A A K D9 R A K D9 C A K A B A EA B A A A
+J ~ A E E4 IQ EM C E K A A A K B B A K A B A EA B A A A
+J ~ A E k IQ EM C E K A A A K B B A K A B A EA B A A A
+J General_Ledger A A LE CA 4 A A D D9 G A K D9 C A K A B A EA B C P////////xU A
+J Chart_of_Accounts A CA LE CA 4 A A D D9 U A K D9 C A K A B A EA B C P////////xT A
+J General_Journal A EA LE CA 4 A A D D9 T A K D9 C A K A B A EA B C P////////xS A
+J Payables_Ledger A IA LE CA 4 A A D D9 M A K D9 C A K A B A EA B C P////////xQ A
+J Receivables_Ledger A KA LE CA 4 A A D D9 S A K D9 C A K A B A EA B C P////////xP A
+J Fixed_Assets A MA LE CA 4 A A D D9 P A K D9 C A K A B A EA B C P////////xM A
+B Return A OA LE CA 4 C A D D9 Q A K D9 C A K A B A EA B D A save A ~ A
+J ~ A A LE QA 4 C E B D/ A A K B B A K A B A EA B A A A
+A 

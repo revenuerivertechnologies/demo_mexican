@@ -1,0 +1,64 @@
+vtpos 0 26
+HH_Wells RQ K E P////////+e D A D J K N M U S F C A D/ C A
+w
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+J Split_Check A Lk J4 CI CI C J K N M A U S F A K A B A EA D B P////////+4 A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+BU Rebuild_or\Delete A Eo J8 CI CE C J K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C J K N J A K B Q A U S F A A D A
+J Beverages A E8 k DM BA C M K U J A B D/ D+ A B D/ D+ A EA B C GV A
+J Vodka A E8 Bs DM BA C M K U J A B D/ D+ A B D/ D+ A EA B C Rg A
+J Rum A E8 C0 DM BA C M K U J A B D/ D+ A B D/ D+ A EA B C Rh A
+J Gin A E8 D8 DM BA C M K U J A B D/ D+ A B D/ D+ A EA B C Ri A
+J Tequila A E8 FE DM BA C M K U J A B D/ D+ A B D/ D+ A EA B C Rj A
+J Bourbon A E8 GM DM BA C M K U J A B D/ D+ A B D/ D+ A EA B C Rk A
+J Whiskey A E8 HU DM BA C M K U J A B D/ D+ A B D/ D+ A EA B B Rl A
+J Next_>> A E8 Id DM BA C J K B L A B D/ D+ A B D/ D+ A EA B C RV A
+J Cocktails A YC l Ck BU C J K N C A B D/ D+ A B D/ D+ A EA B B RZ A
+J Modifiers A am l C8 BU C J K N C A B D/ D+ A B D/ D+ A EA B B Rs A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A ag CM DM CE C A K N Q A U S F A B D/ D+ A EA D A A See_the_Server ~ A
+B Restart A U PI Cw B4 A J K N D A U S F A K A B A EA D E A cancel A ~ A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K N B A U S F A K A B A A D A
+BT Increase A GE PI Cw B4 C J K N B A K B Q A U S F A A D A
+z ~ A I8 PI Cw B4 C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A L0 PI Cw B4 C J K N D A U S F A C D/ D9 A A D B A
+D Item_Printer_Targets A Pc PE DQ B8 A A K N J A U S F A C D/ K A EA D supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K N B A U S F A C D/ D9 A A D A
+D Ordering_is_Complete A X4 PI DY B4 C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+J Seat\Magic A bY PI Cw B4 C J K N M A U S F A K A B A EA D B P////////+4 A
+J Home A JD l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B B A
+J Beer A Kc l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RX A
+J Liquor A L1 l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RW A
+J Cocktails A NO l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RZ A
+J Wine A On l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rv A
+J Modifiers A On Bq BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rs A
+C ~ A Oo Cs BU 8 C M K N Q A U S F A B D/ D+ A EA B A A See_the_Server ~ A
+J Breakfast A Oo Dt BU 8 C M K N M A U S F A B D/ D+ A EA B B HW A
+J HH_Food A Oo Eu BU 8 C M K N M A U S F A B D/ D+ A EA B B RN A
+J HH_Drinks A Oo Fv BU 8 C M K N M A U S F A B D/ D+ A EA B B RO A
+C ~ A IQ Bo B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A Margarita ~ A
+C ~ A IQ Ch B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A Bloody_Mary ~ A
+C ~ A IQ Da B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A Screwdriver ~ A
+C ~ A KQ Cg B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A Rum_&_Soda ~ A
+C ~ A KQ DZ B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A Gin_&_Soda ~ A
+C ~ A KQ ES B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A Vodka_&_Soda ~ A
+C ~ A IQ ET B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A Martini ~ A
+C ~ A IQ FM B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A Gin_&_Juice ~ A
+C ~ A IQ GF B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A Vodka_&_Juice ~ A
+C ~ A KQ Bn B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Whiskey_&_Soda ~ A
+M BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Margarita ~ ~ A H0 A A A A A A D U A B A A A A
+B ~ A ~ BOq Bloody_Mary ~ ~ A H0 A A A A A A D U A B A A A A
+B ~ A ~ BOq Screwdriver ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BOq Rum_&_Soda ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BOq Gin_&_Soda ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BOq Vodka_&_Soda ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BOq Martini ~ ~ A H0 A A A A A A D U A B A A A A
+B ~ A ~ BOq Gin_&_Juice ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BOq Vodka_&_Juice ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BOq Whiskey_&_Soda ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ 

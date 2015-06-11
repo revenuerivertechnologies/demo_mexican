@@ -1,0 +1,116 @@
+vtpos 0 26
+Sand_&_Cup_of_Soup_Mod_2 KG S E P////////+e D A I J K A A K B A C A D/ C A
+Ba
+J Home F Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B JY A
+J Dessert F HM Jm FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B Jp A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+J Sandwiches G HM Bs FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B Ji A
+J Side_Order G HM GI FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B Jm A
+J Kids_Meal F HM HQ FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B Jn A
+J Pickles G HM Id FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B Jo A
+J Salads G HM FA FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B Jl A
+J Soups G HM D8 FU BA C J r A A A B D/ D+ A B D/ D+ A EA B B Jk A
+J Beverages F HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C Jd A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Daily_Specials G HM C0 FU BE C J r A F A B D/ D+ A B D/ D+ A EA B B Jj A
+C ~ G M4 H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH B.L.T._DS ~ A
+C ~ G M4 CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Turkey_Avocado_Cream_Cheese_DS ~ A
+C ~ G M4 Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Angel_on_a_Haystack_DS ~ A
+C ~ G M4 FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Cranky_Turkey_DS ~ A
+C ~ G M4 Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Club_DS ~ A
+C ~ G M4 JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Ham_&_Swiss_DS ~ A
+C ~ G M4 Ku DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Smoked_Turkey_DS ~ A
+C ~ G QV CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Corned_Beef_DS ~ A
+C ~ G QV Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Chicken_Avocado_DS ~ A
+C ~ G QV FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Outback_DS ~ A
+C ~ G QV Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Chicken_Ranch_DS ~ A
+C ~ G QV H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Cream_CHeese_Vegetarian_DS ~ A
+C ~ G QV JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Grilled_Cheese_DS ~ A
+C ~ G QV Ku DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Smoke_Stack_DS ~ A
+C ~ G Ty CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Italian_Beef_&_Provolone_DS ~ A
+C ~ G Ty Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Wild_Turkey_Jack_DS ~ A
+C ~ G Ty FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Reuben_DS ~ A
+C ~ G Ty Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Smoked_Beef_&_Cheddar_DS ~ A
+C ~ G Ty H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Chicken_Salad_DS ~ A
+C ~ G Ty JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Tuna_Salad_DS ~ A
+C ~ G Ty Ku DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B KH Egg_Salad_DS ~ A
+W BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BUz B.L.T._DS B.L.T. ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Turkey_Avocado_Cream_Cheese_DS Turkey_Avocado_Cream_Cheese ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Angel_on_a_Haystack_DS Angel_on_a_Haystack ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Cranky_Turkey_DS Cranky_Turkey ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Club_DS Club ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Ham_&_Swiss_DS Ham_&_Swiss ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Smoked_Turkey_DS Smoked_Turkey ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Corned_Beef_DS Corned_Beef ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Chicken_Avocado_DS Chicken_Avocado ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Outback_DS Outback ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Chicken_Ranch_DS Chicken_Ranch ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Cream_CHeese_Vegetarian_DS Cream_Cheese_Vegetarian ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Grilled_Cheese_DS Grilled_Cheese ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Smoke_Stack_DS Smoke_Stack ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Italian_Beef_&_Provolone_DS Italian_Beef_&_Provolone ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Wild_Turkey_Jack_DS Wild_Turkey_Jack ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Reuben_DS Reuben ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Smoked_Beef_&_Cheddar_DS Smoked_Beef_&_Cheddar ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Chicken_Salad_DS Chicken_Salad ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Tuna_Salad_DS Tuna_Salad ~ B A A A A A A A A F A A A A A A
+B ~ A ~ BUz Egg_Salad_DS Egg_Salad ~ B A A A A A A A A F A A A A A A
+B ~ A ~ 

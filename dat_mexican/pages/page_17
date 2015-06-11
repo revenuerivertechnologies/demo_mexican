@@ -1,0 +1,26 @@
+vtpos 0 26
+Kebab_Sides R H Q P////////+f E A I J K J A r B C C A D/ C J
+N
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Modifiers A Ko F4 DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B B B4 A
+C ~ A OA F4 DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+C ~ A RY F8 DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Container_Deposit ~ A
+C ~ A HQ F4 DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A To_Go ~ A
+J No,_Thank_You A Ro KM Ds CE C A B D/ Q A B D/ D+ A B D/ D+ A EA B D A A
+C ~ A HU KM DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C S Small_Green_Salad ~ A
+C ~ A Kw KM DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C S Cup_of_Soup ~ A
+C ~ A OM KM DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C S Today's_Side ~ A
+J Any_1_for_$3.00,_Any_2_for_$5.00 A HU Jg KE o F E D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+C ~ A Ks Mc DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C S Cup_of_Avgolemono ~ A
+C ~ A Ks Ok DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C S Cup_of_Chili ~ A
+C ~ A OA Ok DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C S Cup_of_T_Chili ~ A
+J BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq Container_Deposit ~ Side:_Chips_PG A Z A A A A A A Bj X A A A A A A
+B ~ A ~ BOq To_Go ~ ******To_Go****** A P/////////O A A A A A A A X A A A A A A
+B ~ A ~ BOq Small_Green_Salad ~ Sm_Green_Salad B Es A A A A A A A H A A A A A A
+B ~ A ~ BOq Cup_of_Soup ~ ~ B Es A A A A A A A H A A A A A A
+B ~ A ~ BOq Today's_Side ~ ~ B Es A A A A A A A H A A A A A A
+B ~ A ~ BOq Cup_of_Avgolemono ~ ~ B Es A A A A A A A H A A A A A A
+B ~ A ~ BOq Cup_of_Chili ~ ~ B F3 A A A A A A A H A A A A A A
+B ~ A ~ BOq Cup_of_T_Chili ~ ~ B GQ A A A A A A A H A A A A A A
+B ~ A ~ 

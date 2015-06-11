@@ -1,0 +1,56 @@
+vtpos 0 26
+IHOP_Steak,_Egg_Mod_1 Fb S E P////////+e D A I J K A A K B A C A D/ C A
+o
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+J Continue_Ordering A Xg Oo DQ CE C J B O Q A B D/ D+ A B D/ D+ A EA B G A A
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+J Pancakes A HM D4 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C E2 A
+J Omelettes A HM FA FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C E3 A
+J Breakfast_Combos A HM GI FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C E4 A
+J Belgian_Waffles A HM IV FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B E6 A
+J Crepes A HM Je FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B E7 A
+J Griddle_Melts A HM Kr FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B E8 A
+J Sandwiches A HM L4 FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B E9 A
+J Appetizers A HM Bt FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C FH A
+J Featured_Items A HM Cy FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C FJ A
+J >>_NEXT_>> A HM NF FU BI C J o K Q A B D/ D+ A B D/ D+ A EA B B Et A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B Es A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C BE A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B Es A
+J French_Toast A HM HM FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C E5 A
+C ~ A M4 CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Sunny_Side_Up ~ A
+C ~ A M4 Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Over_Easy ~ A
+C ~ A M4 FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Over_Medium ~ A
+C ~ A M4 Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Over_Hard ~ A
+C ~ A M4 H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Scrambled ~ A
+C ~ A M4 JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Soft_Boiled ~ A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C Ex A
+M BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Sunny_Side_Up ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Over_Easy ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Over_Medium ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Over_Hard ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Scrambled ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Soft_Boiled ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ 

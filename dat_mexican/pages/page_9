@@ -1,0 +1,75 @@
+vtpos 0 26
+Lunch_Soup,_Salad J S Q P////////+e D A I J K J A r B C C A D/ C J
+s
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Modifiers A as Kg DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B B B4 A
+J Pita_Combinations A HU Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C G A
+C ~ A ao w DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Coffee A WA M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B o A
+C ~ A UM Kg DE CE C A B D/ Q A B D/ D+ A B D/ D+ A EA B A A Spinach_&_Strawberry_Salad ~ A
+C ~ A Q8 Kg DE CE C A B D/ Q A B D/ D+ A B D/ D+ A EA B A A Greek_Villager ~ A
+C ~ A Kc Fo DE CE C A B D/ U A B D/ D+ A B D/ D+ A EA B A A Oil_&_Vinegar ~ A
+C ~ A Ns Fo DE CE C A B D/ U A B D/ D+ A B D/ D+ A EA B A A Balsamic ~ A
+C ~ A Q8 Fo DE CE C A B D/ U A B D/ D+ A B D/ D+ A EA B A A Greek ~ A
+C ~ A UM Fo DE CE C A B D/ U A B D/ D+ A B D/ D+ A EA B A A Honey_Mustard ~ A
+C ~ A Xc Fo DE CE C A B D/ U A B D/ D+ A B D/ D+ A EA B A A Czar ~ A
+J Baked_Goods_&_Desserts A Zs M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B L A
+J Salads_Specials A SU M4 Dc B0 C G r B D A B D/ D+ A B D/ D+ A EA B A A A
+J Breakfast_Pita_&_Sandwiches A LA M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B D A
+C ~ A Ns Kg DE CE C A B D/ Q A B D/ D+ A B D/ D+ A EA B A A Falafel_Salad ~ A
+C ~ A Ns IE DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Steve's_Dressing ~ A
+C ~ A ao DM DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A To_Go ~ A
+C ~ A as IE DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A Sub_GF_Bread ~ A
+C ~ A Xc IE DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Cup_Soup_and_Small_Green ~ A
+C ~ A c Mw DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Quiche ~ A
+C ~ A Kg IE DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Quiche_&_Small_Green ~ A
+C ~ A Xc w DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Shut_Up_&_Eat_It ~ A
+C ~ A Do Mw DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Quiche_Sml_Grn_Cup_Soup ~ A
+C ~ A Kc Kg DE CE C A B D/ Q A B D/ D+ A B D/ D+ A EA B A A Namaste_Quinoa ~ A
+C ~ A Xc DM DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Chicken_Kebab_BB_Soup ~ A
+C ~ A Nw DM DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A SpnkptaCpSoupSmlSal ~ A
+C ~ A UM IE DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B R Asian_Chix_Salad ~ A
+C ~ A as Fo DE CE C A B D/ Q A B D/ D+ A B D/ D+ A EA B A A Wild_Alaskan_Fish_Pitas ~ A
+J Kebabs_Sandwiches_Soups A Oo M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B F A
+C ~ A Xc Kg DE CE C A B D/ Q A B D/ D+ A B D/ D+ A EA B A A Grilled_Wild_Alaskan_Czar ~ A
+C ~ A Kc DM DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A w/_Cup_of_Soup ~ A
+C ~ A Q8 IE DE CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Bread_Loaf ~ A
+C ~ A RE DM DE CE C A B D/ C A B D/ D+ A B D/ D+ A EA B B B4 THE_veggie_SPECIAL ~ A
+C ~ A UM DM DE CE C A B D/ C A B D/ D+ A B D/ D+ A EA B B B4 THE_chix_SPECIAL ~ A
+b BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Spinach_&_Strawberry_Salad ~ Spinach_Salad A Rl A A A A A A A C A A A A A A
+B ~ A ~ BOq Greek_Villager ~ ~ A TJ A A A A A A A C A A A A A A
+B ~ A ~ BOq Oil_&_Vinegar ~ ~ B A A A A A A A A C A A A A A A
+B ~ A ~ BOq Balsamic ~ ~ B A A A A A A A A C A A A A A A
+B ~ A ~ BOq Greek ~ ~ B A A A A A A A A C A A A A A A
+B ~ A ~ BOq Honey_Mustard ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Czar ~ ~ B A A A A A A A A C A A A A A A
+B ~ A ~ BOq Falafel_Salad ~ ~ A Ti A A A A A A A C A A A A A A
+B ~ A ~ BOq Steve's_Dressing ~ ~ A JY A A A A A A Bj C A A A A A A
+B ~ A ~ BOq To_Go ~ ******To_Go****** A P/////////O A A A A A A A X A A A A A A
+B ~ A ~ BOq Sub_GF_Bread ~ ~ A Bk A A A A A A A X A A A A A A
+B ~ A ~ BOq Cup_Soup_and_Small_Green ~ ~ A KK A A A A A A A C A A A A A A
+B ~ A ~ BOq GF_Quiche ~ ~ A Kj A A A A A A A C A A A A A A
+B ~ A ~ BOq Quiche_&_Small_Green ~ ~ A OE A A A A A A A C A A A A A A
+B ~ A ~ BOq Shut_Up_&_Eat_It ~ ~ A Ti A A A A A A A C A A A A A A
+B ~ A ~ BOq GF_Quiche_Sml_Grn_Cup_Soup ~ ~ A Qz A A A A A A A C A A A A A A
+B ~ A ~ BOq Namaste_Quinoa ~ Namaste A T7 A A A A A A A C A A A A A A
+B ~ A ~ BOq Chicken_Kebab_BB_Soup ~ ~ A Qz A A A A A A A C A A A A A A
+B ~ A ~ BOq SpnkptaCpSoupSmlSal ~ ~ A Qa A A A A A A A C A A A A A A
+B ~ A ~ BOq Asian_Chix_Salad ~ ~ A Ti A A A A A A A C A A A A A A
+B ~ A ~ BOq Wild_Alaskan_Fish_Pitas ~ Grilled_Fish_Pita A T7 A A A A A A A C A A A A A A
+B ~ A ~ BOq Grilled_Wild_Alaskan_Czar ~ Grilled_Czar_Sal A Wq A A A A A A A C A A A A A A
+B ~ A ~ BOq w/_Cup_of_Soup ~ ~ A Es A A A A A A A H A A A A A A
+B ~ A ~ BOq GF_Bread_Loaf ~ ~ A Po A A A A A A Bj C A A A A A A
+B ~ A ~ BOq THE_veggie_SPECIAL ~ ~ A Rl A A A A A A A C A A A A A A
+B ~ A ~ BOq THE_chix_SPECIAL ~ ~ A Rl A A A A A A A C A A A A A A
+B ~ A ~ 

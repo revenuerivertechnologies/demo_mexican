@@ -1,0 +1,45 @@
+vtpos 0 26
+Beverage GV K E P////////+e D A D J K A A U S F C A D/ C A
+l
+C ~ A Oo Cs BU 8 C M K N Q A U S F A B D/ D+ A EA B A A See_the_Server ~ A
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+J Cocktails A YC l Ck BU C J K N C A B D/ D+ A B D/ D+ A EA B B RZ A
+J Modifiers A am l C8 BU C J K N C A B D/ D+ A B D/ D+ A EA B B Rs A
+J Lunch_Combos E E8 IZ DM BE C I K U D A U S F A B D/ D+ A EA B B Gg A
+J Appetizers F E8 Bo DM BE C I K U C A U S F A B D/ D+ A EA B C Ga A
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B C GV A
+J Pizza E E8 Cw DM BE C I K U J A U S F A B D/ D+ A EA B C Gb A
+J Sandwiches E E8 D4 DM BA C I K U J A U S F A B D/ D+ A EA B C Gc A
+J Wings E E8 E8 DM BE C I K U J A U S F A B D/ D+ A EA B C Gd A
+J Salads E E8 GE DM BE C I K U J A U S F A B D/ D+ A EA B C Ge A
+J Pasta E E8 HM DM BI C I K U J A U S F A B D/ D+ A EA B B Gf A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A ag CM DM CE C A K N Q A U S F A B D/ D+ A EA D A A See_the_Server ~ A
+B Restart A U PI Cw B4 A J K N D A U S F A K A B A EA D E A cancel A ~ A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K N B A U S F A K A B A A D A
+BT Increase A GE PI Cw B4 C J K N B A K B Q A U S F A A D A
+z ~ A I8 PI Cw B4 C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A L0 PI Cw B4 C J K N D A U S F A C D/ D9 A A D B A
+D Item_Printer_Targets A Pc PE DQ B8 A A K N J A U S F A C D/ K A EA D supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K N B A U S F A C D/ D9 A A D A
+D Ordering_is_Complete A X4 PI DY B4 C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+J Seat\Magic A bY PI Cw B4 C J K N M A U S F A K A B A EA D B P////////+4 A
+J Home A JD l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B B A
+J Beer A Kc l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RX A
+J Liquor A L1 l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RW A
+J Cocktails A NO l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RZ A
+J Wine A On l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rv A
+J Modifiers A On Bq BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rs A
+J Split_Check A Lk J4 CI CI C J K N M A U S F A K A B A EA D B P////////+4 A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+C ~ F IQ Ch B8 4 C M K N P A B D/ D+ A B D/ D+ A EA B A A Iced_Tea ~ A
+C ~ F IQ Bk B8 4 C M K N P A B D/ D+ A B D/ D+ A EA B A A Fountain_Drink ~ A
+BU Rebuild_or\Delete A Eo J8 CI CE C J K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C J K N J A K B Q A U S F A A D A
+E BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Iced_Tea ~ ~ A B9 A A A A A A B B A A A A A A
+B ~ A ~ BSj Fountain_Drink ~ ~ A CW A A A A A A B B A A A A A A
+B ~ A ~ 

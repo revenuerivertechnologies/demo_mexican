@@ -1,0 +1,73 @@
+vtpos 0 26
+Bottled_Beer CN S E P////////+e D A I F K A A K B A C A D/ C A
+s
+J Modifiers A am l C8 BU C J t E B A t D/ D+ A B D/ D+ A EA B B B4 A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B E A
+J Beer A Tw l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CA A
+J Wine A V5 l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CB A
+J Liquor A Rp l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B B/ A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+C ~ A M4 CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Anchor_Steam ~ A
+C ~ A M4 Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Blvd_Pale_Ale ~ A
+C ~ A M4 E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Moose_Drool ~ A
+C ~ A M4 GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Bucker_N/A ~ A
+C ~ A M4 Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Bud_Light ~ A
+C ~ A M4 It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Des_Fresh_Squeezed_IPA ~ A
+C ~ A M4 J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Framboise ~ A
+C ~ A M4 LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Franziskaner ~ A
+C ~ A Pl CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Sophie ~ A
+C ~ A Pl Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Colette ~ A
+C ~ A Pl E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Guinness ~ A
+C ~ A Pl GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Lagunitas_PILS ~ A
+C ~ A Pl Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A La_Fin_du_Mond ~ A
+C ~ A Pl It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Leffe_Blonde ~ A
+C ~ A Pl J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Magner's_Cider ~ A
+C ~ A Pl LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Mich_Ultra ~ A
+C ~ A SS CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Snapshot ~ A
+C ~ A SS Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Easy_Street_Wheat ~ A
+C ~ A SS E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Pacifico ~ A
+C ~ A SS GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A St._Peter's_Porter ~ A
+C ~ A SS Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Stella_Artois ~ A
+C ~ A SS It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Stone_IPA ~ A
+C ~ A SS J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A TG_Oasis_ESB ~ A
+C ~ A SS LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Widmer_Alchemy ~ A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C BE A
+J Bottled_Beer A HM C0 FU BE C J r A F A B D/ D+ A B D/ D+ A EA B C CN A
+J Draft_Beer A HM Bs FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C CM A
+C ~ A ag CM DM CE C J U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Cocktails A YC l Ck BU C J t E B A t D/ D+ A B D/ D+ A EA B B CT A
+Z BOq Anchor_Steam ~ ~ A K8 A A A A A A D R A B A A A A
+B ~ A ~ BOq Blvd_Pale_Ale ~ ~ A JY A A A A A A D R A B A A A A
+B ~ A ~ BOq Moose_Drool ~ ~ A K8 A A A A A A D R A B A A A A
+B ~ A ~ BOq Bucker_N/A ~ ~ A H0 A A A A A A D R A B A A A A
+B ~ A ~ BOq Bud_Light ~ ~ B A A A A A A A D R A B A A A A
+B ~ A ~ BOq Des_Fresh_Squeezed_IPA ~ ~ A K8 A A A A A A D R A B A A A A
+B ~ A ~ BOq Framboise ~ ~ A Sw A A A A A A D R A B A A A A
+B ~ A ~ BOq Franziskaner ~ ~ A JY A A A A A A D R A B A A A A
+B ~ A ~ BOq Sophie ~ ~ A RM A A A A A A D R A B A A A A
+B ~ A ~ BOq Colette ~ ~ A Mg A A A A A A D R A B A A A A
+B ~ A ~ BOq Guinness ~ ~ A Mg A A A A A A D R A B A A A A
+B ~ A ~ BOq Lagunitas_PILS ~ ~ A JY A A A A A A D R A B A A A A
+B ~ A ~ BOq La_Fin_du_Mond ~ ~ A Po A A A A A A D R A B A A A A
+B ~ A ~ BOq Leffe_Blonde ~ ~ A JY A A A A A A D R A B A A A A
+B ~ A ~ BOq Magner's_Cider ~ ~ A Mg A A A A A A D R A B A A A A
+B ~ A ~ BOq Mich_Ultra ~ ~ A H0 A A A A A A D R A B A A A A
+B ~ A ~ BOq Snapshot ~ ~ A JY A A A A A A D R A B A A A A
+B ~ A ~ BOq Easy_Street_Wheat ~ ~ A K8 A A A A A A D R A B A A A A
+B ~ A ~ BOq Pacifico ~ ~ A JY A A A A A A D R A B A A A A
+B ~ A ~ BOq St._Peter's_Porter ~ ~ A OE A A A A A A D R A B A A A A
+B ~ A ~ BOq Stella_Artois ~ ~ A JY A A A A A A D R A B A A A A
+B ~ A ~ BOq Stone_IPA ~ ~ A K8 A A A A A A D R A B A A A A
+B ~ A ~ BOq TG_Oasis_ESB ~ ~ A OE A A A A A A D R A B A A A A
+B ~ A ~ BOq Widmer_Alchemy ~ ~ A JY A A A A A A D R A B A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ 

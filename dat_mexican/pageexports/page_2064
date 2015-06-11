@@ -1,0 +1,37 @@
+vtpos 0 26
+GS_Combos gQ K E P////////+e D A D F K N A K S F C A D/ C A
+Z
+J Modifiers F IQ j Cc 8 C I K U I A B D/ D+ A B D/ D+ A EA B B gM A
+J Kids_Meal E E8 HB DM BA C I K U E A U S F A B D/ D+ A EA B B gS A
+J Catering E E8 IG DM BA C I K U E A U S F A B D/ D+ A EA B B gT A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B P////////// final A ~ A
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B B fV A
+J Appetizers E E8 Bp DM BA C I K U E A U S F A B D/ D+ A EA B B fa A
+J Soups E E8 Cu DM BA C I K U E A U S F A B D/ D+ A EA B B ff A
+J Entrees E E8 Dy DM BA C I K U E A U S F A B D/ D+ A EA B B fj A
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+BU Rebuild_or\Delete A Eo J8 CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C I K N J A K B Q A U S F A A D A
+D Send_&_Stay A Ln J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B gQ final A ~ A
+C ~ F IQ Bk Cc BI C I K N J A B D/ D+ A B D/ D+ A EA B B gU Almond_Chicken_Combo ~ A
+C ~ F IQ Cx Cc BI C I K N J A B D/ D+ A B D/ D+ A EA B B gU Snow_Whote_Chiken_Combo ~ A
+C ~ F IQ D+ Cc BI C I K N J A B D/ D+ A B D/ D+ A EA B B gU Sweet_&_Sour_Chicken_Combo ~ A
+C ~ F IQ FL Cc BI C I K N J A B D/ D+ A B D/ D+ A EA B B gU Sweet_&_Sour_Pork_Combo ~ A
+C ~ F IQ GY Cc BI C I K N J A B D/ D+ A B D/ D+ A EA B B gU Chicken_Chow_Mein_Combo ~ A
+C ~ F IQ Hl Cc BI C I K N C A B D/ D+ A B D/ D+ A EA B B gU Princess_Chicken_Combo ~ A
+C ~ F Kx Bk Cc BI C I K N J A B D/ D+ A B D/ D+ A EA B B gU Broccoli_Beef_Combo ~ A
+C ~ F Kx Cx Cc BI C I K N J A B D/ D+ A B D/ D+ A EA B B gU Vegetable_Deluxe_Combo ~ A
+J Combos E E8 F7 DM BA C I K B C A U S F A B D/ D+ A EA B B gQ A
+J More_Entrees E E8 E3 DM BA C I K U E A U S F A B D/ D+ A EA B B fk A
+I BSj Almond_Chicken_Combo Almond_Chicken ~ A Jr A A A A A A B L A A A A A A
+B ~ A ~ BSj Snow_Whote_Chiken_Combo Snow_White_Chicken ~ A Jr A A A A A A B L A A A A A A
+B ~ A ~ BSj Sweet_&_Sour_Chicken_Combo Sweet_&_Sour_Chicken ~ A Jr A A A A A A B L A A A A A A
+B ~ A ~ BSj Sweet_&_Sour_Pork_Combo Sweet_&_Sour_Pork ~ A Jr A A A A A A B L A A A A A A
+B ~ A ~ BSj Chicken_Chow_Mein_Combo Chicken_Chow_Mein ~ A Jr A A A A A A B L A A A A A A
+B ~ A ~ BSj Princess_Chicken_Combo Princess_Chicken ~ A Jr A A A A A A B L A A A A A A
+B ~ A ~ BSj Broccoli_Beef_Combo Broccoli_Beef ~ A Jr A A A A A A B L A A A A A A
+B ~ A ~ BSj Vegetable_Deluxe_Combo Vegetable_Deluxe ~ A Jr A A A A A A B L A A A A A A
+B ~ A ~ 

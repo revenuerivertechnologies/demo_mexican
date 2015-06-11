@@ -1,0 +1,71 @@
+vtpos 0 26
+Beverage Hh K E P////////+e D A D J K U A U S F C A D/ C A
+u
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+J Split_Check A Lk J4 CI CI C J K N M A U S F A K A B A EA D B P////////+4 A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+BU Rebuild_or\Delete A Eo J8 CI CE C J K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C J K N J A K B Q A U S F A A D A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A Oo Cs BU 8 C M K N Q A U S F A B D/ D+ A EA B A A See_the_Server ~ A
+J Home A JD l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B HW A
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B B Hh A
+J Sides A E8 Bp DM BA C I K U H A B D/ D+ A B D/ D+ A EA B C HX A
+J Pancakes A E8 Cw DM BA C I K U D A B D/ D+ A B D/ D+ A EA B C HY A
+J Belgian_Waffles A E8 D1 DM BA C I K U J A B D/ D+ A B D/ D+ A EA B B HZ A
+J French_Toast A E8 E8 DM BA C I K U I A B D/ D+ A B D/ D+ A EA B C Ha A
+J Crepes A E8 GC DM BE C I K U C A B D/ D+ A B D/ D+ A EA B B Hb A
+J Omelettes A E8 HM DM BA C I K U N A B D/ D+ A B D/ D+ A EA B C Hc A
+J Next_>> A E8 IR DM BA C J K B L A B D/ D+ A B D/ D+ A EA B C HV A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A Oo Cs BU 8 C M K N Q A U S F A B D/ D+ A EA B A A See_the_Server ~ A
+J Griddle_Melts A E8 Bn DM BE C I K U O A B D/ D+ A B D/ D+ A EA B B Hd A
+J Featured_Items A E8 Cu DM BA C I K U T A B D/ D+ A B D/ D+ A EA B C He A
+J Breakfast_Combos A E8 Dw DM BA C I K U U A B D/ D+ A B D/ D+ A EA B C Hf A
+J Kids A E8 E0 DM BE C I K U R A B D/ D+ A B D/ D+ A EA B B Hg A
+J <<_Back A E8 F9 DM BA C J K B L A B D/ D+ A B D/ D+ A EA B C HW A
+J Home A JD l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B HW A
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B B Hh A
+C ~ A IQ DW B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Iced_Coffee ~ A
+C ~ A IQ EP B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Hot_Tea ~ A
+C ~ A IQ FI B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Iced_Tea ~ A
+C ~ A IQ GB B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Lemonade ~ A
+C ~ A IQ G6 B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Fruit_Punch ~ A
+C ~ A IQ Hz B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A 2%_Milk_Reg ~ A
+C ~ A IQ Is B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A 2%_Milk_Lg ~ A
+C ~ A KR DX B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Orange_Juice_Reg ~ A
+C ~ A KR EQ B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Orange_Juice_Lg ~ A
+C ~ A KR FJ B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Aplle_Juice_Reg ~ A
+C ~ A KR GC B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Apple_Juice_Lg ~ A
+C ~ A KR G7 B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Tomato_Juice_Reg ~ A
+C ~ A KR H0 B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Tomato_Juice_Lg ~ A
+C ~ A MQ Bl B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Grapefruit_Juice_Reg ~ A
+C ~ A MQ Ce B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Grapefruit_Juice_Lg ~ A
+C ~ A KR Ce B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Chocolate_Milk_Lg ~ A
+C ~ A KR Bl B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Chocolate_Milk_Reg ~ A
+C ~ A IQ Cd B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Demo_Large_Soda ~ A
+C ~ A IQ Bk B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Demo_Regular_Soda ~ A
+V BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Iced_Coffee ~ ~ A Dl A A A A A A A B A A A A A A
+B ~ A ~ BOq Hot_Tea ~ ~ A Bk A A A A A A B B A A A A A A
+B ~ A ~ BOq Iced_Tea ~ ~ A B9 A A A A A A B B A A A A A A
+B ~ A ~ BO8 Lemonade ~ ~ A CB A A A A A A A B A A A A A A
+B ~ A ~ BOq Fruit_Punch ~ ~ A Db A A A A A A A B A A A A A A
+B ~ A ~ BOq 2%_Milk_Reg ~ ~ A Cp A A A A A A A B A A A A A A
+B ~ A ~ BOq 2%_Milk_Lg ~ ~ A Dl A A A A A A A B A A A A A A
+B ~ A ~ BOq Orange_Juice_Reg ~ ~ A Cp A A A A A A A B A A A A A A
+B ~ A ~ BOq Orange_Juice_Lg ~ ~ A Dl A A A A A A A B A A A A A A
+B ~ A ~ BOq Aplle_Juice_Reg ~ ~ A Cp A A A A A A A B A A A A A A
+B ~ A ~ BOq Apple_Juice_Lg ~ ~ A Dl A A A A A A A B A A A A A A
+B ~ A ~ BOq Tomato_Juice_Reg ~ ~ A Cp A A A A A A A B A A A A A A
+B ~ A ~ BOq Tomato_Juice_Lg ~ ~ A Dl A A A A A A A B A A A A A A
+B ~ A ~ BOq Grapefruit_Juice_Reg ~ ~ A Cp A A A A A A A B A A A A A A
+B ~ A ~ BOq Grapefruit_Juice_Lg ~ ~ A Dl A A A A A A A B A A A A A A
+B ~ A ~ BOq Chocolate_Milk_Lg ~ ~ A Dl A A A A A A A B A Bg A A A A
+B ~ A ~ BOq Chocolate_Milk_Reg ~ ~ A Cp A A A A A A A B A Bg A A A A
+B ~ A ~ BOq Demo_Large_Soda Large_Soda ~ A DH A A A A A A A B A A A A A A
+B ~ A ~ BOq Demo_Regular_Soda Regular_Soda ~ A Cp A A A A A A A B A A A A A A
+B ~ A ~ 

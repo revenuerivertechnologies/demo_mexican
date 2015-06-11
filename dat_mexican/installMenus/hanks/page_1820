@@ -1,0 +1,54 @@
+vtpos 0 26
+Appitizers cc K E P////////+e D A D F K N A U S F C A D/ C A
+k
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B B final A ~ A
+D Send_&_Stay A Ln J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+J Modifiers F OR Bk Bo 4 C F K N P A B D/ D+ A B D/ D+ A EA B B cZ A
+J Home A IL l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B B A
+J Home A IL l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B B A
+J Beer A Jg l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B ZD A
+J Liqour A K1 l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B ZE A
+J Cocktails A MK l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B ZF A
+J Wine A Nf l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B ZG A
+J Salads E E8 Cu DM BA C I K U E A U S F A B D/ D+ A EA B B cT A
+J Fries E E8 Dz DM BA C I K U E A U S F A B D/ D+ A EA B B cU A
+J Burgers E E8 E4 DM BA C I K U E A U S F A B D/ D+ A EA B B cV A
+J Sandwiches E E8 F9 DM BA C I K U E A U S F A B D/ D+ A EA B B cW A
+J Other_Goodies E E8 HC DM BA C I K U E A U S F A B D/ D+ A EA B B cX A
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+BU Rebuild_or\Delete A Eo J8 CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C I K N J A K B Q A U S F A A D A
+C ~ F IQ Bk Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Chips_&_Salsa ~ A
+C ~ F IQ Cx Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Cheese_Sticks ~ A
+C ~ F IQ FL Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Mini_Tacos ~ A
+C ~ F IQ D+ Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Breaded_Mushrooms ~ A
+C ~ F IQ GY Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Mini_Corndogs ~ A
+C ~ F IQ Hl Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Fried_Pickle_Chips ~ A
+C ~ F Kx Bk Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Texas_Toothpicks ~ A
+C ~ F Kx Cx Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Cheddar_Cheese_Poppers ~ A
+C ~ F Kx FL Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Nachos ~ A
+C ~ F Kx GY Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Onion_RIngs ~ A
+C ~ F Kx Hl Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Spicy_Cheeseballs ~ A
+C ~ F NS D+ Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Ranch ~ A
+C ~ F Kx D+ Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Hot_Wings ~ A
+C ~ F NS FL Cc BI C F K N P A B D/ D+ A B D/ D+ A EA B A A Blue_Cheese ~ A
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B B ZI A
+J Appetizers E E8 Bp DM BA C I K B C A U S F A B D/ D+ A EA B B cS A
+O BSj Chips_&_Salsa ~ ~ A Es A A A A A A B A A A A A A A
+B ~ A ~ BSj Cheese_Sticks ~ ~ A GQ A A A A A A B A A A A A A A
+B ~ A ~ BSj Mini_Tacos ~ ~ A FF A A A A A A B A A A A A A A
+B ~ A ~ BSj Breaded_Mushrooms ~ ~ A Fe A A A A A A B A A A A A A A
+B ~ A ~ BSj Mini_Corndogs ~ ~ A FF A A A A A A B A A A A A A A
+B ~ A ~ BSj Fried_Pickle_Chips Pickle_Chips ~ A Gp A A A A A A B A A A A A A A
+B ~ A ~ BSj Texas_Toothpicks ~ ~ A Es A A A A A A B A A A A A A A
+B ~ A ~ BSj Cheddar_Cheese_Poppers Cheese_Poppers ~ A FF A A A A A A B A A A A A A A
+B ~ A ~ BSj Nachos ~ ~ A K8 A A A A A A B A A A A A A A
+B ~ A ~ BSj Onion_Rings ~ ~ A FF A A A A A A B A A A A A A A
+B ~ A ~ BSj Spicy_Cheeseballs ~ ~ A Gp A A A A A A B A A A A A A A
+B ~ A ~ BSj Ranch ~ ~ B Z A A A A A A B X A A A A A A
+B ~ A ~ BSj Hot_Wings ~ ~ A Fe A A A A A A B A A A A A A A
+B ~ A ~ BSj Blue_Cheese ~ ~ B Z A A A A A A B X A A A A A A
+B ~ A ~ 

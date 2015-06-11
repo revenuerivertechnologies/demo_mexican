@@ -1,0 +1,38 @@
+vtpos 0 26
+Soup_Size_1 Ba S E P////////+e D A I F K A A K B A C A D/ C A
+f
+J Modifiers A am l C8 BU C J t E B A t D/ D+ A B D/ D+ A EA B B B4 A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B E A
+J Beer A Tw l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CA A
+J Wine A V5 l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CB A
+J Liquor A Rp l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B B/ A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C BE A
+J Sandwiches A HM C0 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C BH A
+J Salad A HM FA FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C BJ A
+J Soup_/_Salad_Combo A HM GI FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C BK A
+J Soup_/_Sand_Combo A HM HQ FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B BL A
+J Entrees A HM Id FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B BM A
+J Kids A HM Jm FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B BN A
+J Dessert A HM MA FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B BP A
+J Appetizers A HM Bs FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C BG A
+J Side_Items A HM Kz FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B BO A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J A A K B G A K D/ G A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A K D/ G A E B B A
+BA ~ A UY PI DY B4 C J K J Q A K B Q A K D/ G A E B A
+J Soup A HM D8 FU BA C J r A F A B D/ D+ A B D/ D+ A EA B C BI A
+C ~ A M4 CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Tomato_Soup_Bowl ~ A
+C ~ A M4 Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Tomato_Soup_Cup ~ A
+J >>_NEXT_>> A HM NN FU BI C J o K Q A B D/ D+ A B D/ D+ A EA B B BF A
+C ~ A ag CM DM CE C J U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Cocktails A YC l Ck BU C J t E B A t D/ D+ A B D/ D+ A EA B B CT A
+D BOq Tomato_Soup_Bowl ~ ~ A Po A A A A A A B N A A A A A A
+B ~ A ~ BOq Tomato_Soup_Cup Tomato_Soup ~ B A A A A A A A A N A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ 

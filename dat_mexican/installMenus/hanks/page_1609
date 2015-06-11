@@ -1,0 +1,77 @@
+vtpos 0 26
+QB_Bev_Mod ZJ K E P////////+e D A D F K N A U S F C A D/ C A
+w
+D Send_&_Stay A KX J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+C ~ A I8 Di B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A Mai_Tai ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Modifiers A Os JZ BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZJ ~ A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Food A Os Bz BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B cI ~ A ~ A
+B Beverage A Os i BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZI ~ A ~ A
+B Beer A Os DE BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZD ~ A ~ A
+B Liquor A Os EV BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZE ~ A ~ A
+B Cocktails A Os Fm BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZF ~ A ~ A
+B Wine A Os G3 BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZG ~ A ~ A
+B Specials A Os II BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZC ~ A ~ A
+D Send_Order A MY J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 B B final A ~ A
+z ~ A GM J8 CA CA C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A IQ J8 CA CA C J K N D A U S F A C D/ D9 A A D B A
+H ~ A E4 g Bs 0 A M B S M A B D/ F A B D/ D+ A EA B A A B A
+H ~ A Lo g Bs 0 A M B S M A B D/ F A B D/ D+ A EA B A A C A
+H ~ A IQ g Bs 0 A M B S M A B D/ F A B D/ D+ A EA B A A Q A
+H ~ A Gk g Bs 0 A M B S M A B D/ F A B D/ D+ A EA B A A I A
+H ~ A J8 h Bs 0 A M B S M A B D/ F A B D/ D+ A EA B A A E A
+C ~ A G9 H/ B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Club_Soda ~ A
+C ~ A G9 HG B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Orange_Soda ~ A
+C ~ A G9 FU B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Dr._Pepper ~ A
+C ~ A E8 FT B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Sour ~ A
+C ~ A E8 Dh B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Orange_Juice ~ A
+C ~ A E8 Co B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Neat ~ A
+C ~ A E8 GM B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Tonic_Water ~ A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A E8 Ea B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Cranberry_Juice ~ A
+B Restart A A J8 CA CA A J K N D A U S F A K A B A EA D G A cancel A ~ A
+BT Increase A CE J8 CA CA C I K N R A K B Q A U S F A A D A
+C ~ A G9 Bw B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Pepsi ~ A
+C ~ A G9 Cp B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Diet_Pepsi ~ A
+C ~ A G9 Di B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Mt._Dew ~ A
+C ~ A G9 Eb B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Root_Beer ~ A
+C ~ A G9 GN B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B D A Sprite ~ A
+BU Rebuild_or\Delete A EI J8 CA CA C I K N S A U S F A K A B A A D A
+C ~ A I8 GN B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B R3 Tequila_Sunrise ~ A
+C ~ A I8 HG B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A White_Russian ~ A
+C ~ A I8 H/ B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A Manhattan ~ A
+C ~ A I8 FU B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A Mojito ~ A
+C ~ A I8 Eb B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A Martini ~ A
+C ~ A I8 Cp B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A Bloody_Mary ~ A
+C ~ A I8 Bw B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A Margarita ~ A
+C ~ A K9 Bw B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A Old_Fashioned ~ A
+C ~ A K9 Cp B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A Fuzzy_Navel ~ A
+C ~ A K9 Di B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A Long_Island ~ A
+C ~ A E8 Bx B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rp Shot ~ A
+Z BOq Mai_Tai ~ ~ B A A A A A A A A U A B A A A A
+B ~ A ~ BaQ Club_Soda ~ ~ B A A A A A A A A I A B A A A A
+B ~ A ~ BOq Orange_Soda ~ ~ B A A A A A A A A I A B A A A A
+B ~ A ~ BOq Dr._Pepper ~ ~ B A A A A A A A B B A A A A A A
+B ~ A ~ BaQ Sour ~ ~ B A A A A A A A A I A B A A A A
+B ~ A ~ BOq Orange_Juice ~ ~ B A A A A A A A A I A B A A A A
+B ~ A ~ BOq Neat ~ ~ B A A A A A A A A I A B A A A A
+B ~ A ~ BaQ Tonic_Water ~ ~ B A A A A A A A A I A B A A A A
+B ~ A ~ BaQ Cranberry_Juice Cran_Juice ~ B A A A A A A A A I A B A A A A
+B ~ A ~ BOq Pepsi ~ ~ B A A A A A A A D I A A A A A A
+B ~ A ~ BOq Diet_Pepsi ~ ~ B A A A A A A A D I A A A A A A
+B ~ A ~ BaQ Mt._Dew ~ ~ B A A A A A A A D I A A A A A A
+B ~ A ~ BaQ Root_Beer ~ ~ B A A A A A A A D I A A A A A A
+B ~ A ~ BOq Sprite ~ ~ B A A A A A A A D I A A A A A A
+B ~ A ~ BOq Tequila_Sunrise ~ ~ B A A A A A A A A U A B A A A A
+B ~ A ~ BOq White_Russian ~ ~ B A A A A A A A A U A B A A A A
+B ~ A ~ BOq Manhattan ~ ~ B A A A A A A A A U A B A A A A
+B ~ A ~ BOq Mojito ~ ~ B A A A A A A A A U A B A A A A
+B ~ A ~ BOq Martini ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BOq Bloody_Mary ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BOq Margarita ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BOq Old_Fashioned ~ ~ B A A A A A A A A U A B A A A A
+B ~ A ~ BOq Fuzzy_Navel ~ ~ B A A A A A A A A U A B A A A A
+B ~ A ~ BOq Long_Island ~ ~ B A A A A A A A D U A B A A A A
+B ~ A ~ BaU Shot ~ ~ B A A A A A A A A U A B A A A A
+B ~ A ~ 

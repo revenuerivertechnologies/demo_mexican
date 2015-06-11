@@ -1,0 +1,83 @@
+vtpos 0 26
+Misc._Cocktails CR S E P////////+e D A I F K A A K B A C A D/ C A
+x
+J Modifiers A am l C8 BU C J t E B A t D/ D+ A B D/ D+ A EA B B B4 A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B E A
+J Beer A Tw l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CA A
+J Wine A V5 l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CB A
+J Liquor A Rp l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B B/ A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+C ~ A M4 CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Appletini ~ A
+C ~ A M4 Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Lemondrop ~ A
+C ~ A M4 E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Pomegranate ~ A
+C ~ A M4 GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Chocolate_Martini ~ A
+C ~ A M4 Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Cosmopolitan ~ A
+C ~ A M4 It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Irish_Coffee ~ A
+C ~ A M4 J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A French_Martini ~ A
+C ~ A M4 LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Sidecar ~ A
+C ~ A M4 Mg Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Bloody_Mary ~ A
+C ~ A Pl CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Amaretto_Sour ~ A
+C ~ A Pl Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Fuzzy_Navel ~ A
+C ~ A Pl E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Grasshopper ~ A
+C ~ A Pl GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Harvey_Wallbanger ~ A
+C ~ A Pl Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Kir ~ A
+C ~ A Pl It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Kir_Royale ~ A
+C ~ A Pl J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Mint_Julep ~ A
+C ~ A Pl LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Mojito ~ A
+C ~ A SS CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Moscow_Mule ~ A
+C ~ A SS Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Long_Island_Tea ~ A
+C ~ A SS E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Rob_Roy ~ A
+C ~ A SS GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Salty_Dog ~ A
+C ~ A SS Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Negroni ~ A
+C ~ A SS It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Virgin_Bloody ~ A
+C ~ A SS J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Mocktail ~ A
+C ~ A SS LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Aviation ~ A
+C ~ A SS Mg Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Rusty_Nail ~ A
+C ~ A Pl Mg Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Colorado_Bulldog ~ A
+C ~ A U/ Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Black_Russian ~ A
+C ~ A U/ CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A White_Russian ~ A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C BE A
+C ~ A aw CM DM CE C J U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Misc._Cocktails A HM C0 FU BE C J r A F A B D/ D+ A B D/ D+ A EA B C CR A
+J Craft_Cocktails A HM Bs FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C CQ A
+J Cocktails A YC l Ck BU C J t E B A t D/ D+ A B D/ D+ A EA B B CT A
+e BOq Appletini ~ ~ A Mg A A A A A A D U A B A A A A
+B ~ A ~ BOq Lemondrop ~ ~ A OE A A A A A A D U A B A A A A
+B ~ A ~ BOq Pomegranate ~ ~ A OE A A A A A A D U A B A A A A
+B ~ A ~ BOq Chocolate_Martini ~ ~ A Mh A A A A A A D U A B A A A A
+B ~ A ~ BOq Cosmopolitan ~ ~ A OE A A A A A A D U A B A A A A
+B ~ A ~ BOq Irish_Coffee ~ ~ A Mg A A A A A A D U A B A A A A
+B ~ A ~ BOq French_Martini ~ ~ A Po A A A A A A D U A B A A A A
+B ~ A ~ BOq Sidecar ~ ~ A Po A A A A A A D U A B A A A A
+B ~ A ~ BOq Bloody_Mary ~ ~ A H0 A A A A A A A U A B A A A A
+B ~ A ~ BOq Amaretto_Sour ~ ~ A K8 A A A A A A D U A B A A A A
+B ~ A ~ BOq Fuzzy_Navel ~ ~ A H0 A A A A A A A U A B A A A A
+B ~ A ~ BOq Grasshopper ~ ~ A RM A A A A A A D U A B A A A A
+B ~ A ~ BOq Harvey_Wallbanger ~ ~ A Mg A A A A A A D U A B A A A A
+B ~ A ~ BOq Kir ~ ~ A OE A A A A A A D U A B A A A A
+B ~ A ~ BOq Kir_Royale ~ ~ A OE A A A A A A D U A B A A A A
+B ~ A ~ BOq Mint_Julep ~ ~ A Mg A A A A A A D U A B A A A A
+B ~ A ~ BOq Mojito ~ ~ A H0 A A A A A A A U A B A A A A
+B ~ A ~ BOq Moscow_Mule ~ ~ A Mg A A A A A A D U A B A A A A
+B ~ A ~ BOq Long_Island_Tea ~ ~ A OE A A A A A A D U A B A A A A
+B ~ A ~ BOq Rob_Roy ~ ~ A Po A A A A A A D U A B A A A A
+B ~ A ~ BOq Salty_Dog ~ ~ A K8 A A A A A A D U A B A A A A
+B ~ A ~ BOq Negroni ~ ~ A Po A A A A A A D U A B A A A A
+B ~ A ~ BOq Virgin_Bloody ~ ~ A GQ A A A A A A D U A B A A A A
+B ~ A ~ BOq Mocktail ~ ~ A GQ A A A A A A D U A B A A A A
+B ~ A ~ BOq Aviation ~ ~ A Po A A A A A A D U A B A A A A
+B ~ A ~ BOq Rusty_Nail ~ ~ A RM A A A A A A D U A B A A A A
+B ~ A ~ BOq Colorado_Bulldog ~ ~ A OE A A A A A A D U A B A A A A
+B ~ A ~ BOq Black_Russian ~ ~ A OE A A A A A A D U A B A A A A
+B ~ A ~ BOq White_Russian ~ ~ A H0 A A A A A A A U A B A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ 

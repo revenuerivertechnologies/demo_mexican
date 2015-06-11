@@ -1,0 +1,40 @@
+vtpos 0 26
+GS_Entrees fj K E P////////+e D A D F K N A K S F C A D/ C A
+j
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B B fV A
+J Appetizers E E8 Bp DM BA C I K U E A U S F A B D/ D+ A EA B B fa A
+J Combos E E8 E3 DM BA C I K U E A U S F A B D/ D+ A EA B B f4 A
+J Sides E E8 F8 DM BA C I K U E A U S F A B D/ D+ A EA B B gC A
+J Kids_Meal E E8 HB DM BA C I K U E A U S F A B D/ D+ A EA B B gM A
+J Catering E E8 IG DM BA C I K U E A U S F A B D/ D+ A EA B B cX A
+J Soups E E8 Cu DM BA C I K U E A U S F A B D/ D+ A EA B B ff A
+J Entrees E E8 Dy DM BA C I K U E A U S F A B D/ D+ A EA B B fj A
+J Almond_Meal F IQ Cx Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fl A
+C ~ F IQ Bk Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B A A GS_Todays_Special ~ A
+J Broccoli_Meal F IQ D+ Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fm A
+J Cashew_Meal F IQ FL Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fn A
+J Chow_Mein F IQ GY Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fo A
+J Curry F IQ Hl Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fp A
+J Egg_Fu_Yun F Kx Bk Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fq A
+J Fried_Rice F Kx Cx Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fr A
+J Garlic F Kx D+ Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fs A
+J Honey F Kx FL Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B ft A
+J Hot_Braised F Kx GY Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fu A
+J Hunan F Kx Hl Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fv A
+J Kung_Pao F NS Bk Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fw A
+J Jalapeno F NS Cx Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fx A
+J Lemon F NS D+ Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fy A
+J Lo_Mein F NS FL Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B fz A
+J Mein_Fun F NS GY Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B f0 A
+J Mongolian F NS Hl Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B B f1 A
+J More F Ny n B8 4 C I K S C A B D/ D+ A B D/ D+ A EA B B fj A
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+BU Rebuild_or\Delete A Eo J8 CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C I K N J A K B Q A U S F A A D A
+D Send_&_Stay A Ln J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 G A final A ~ A
+B BSj GS_Todays_Special Todays_Special ~ A ID A A A A A A B L A A A A A A
+B ~ A ~ 

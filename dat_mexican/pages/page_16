@@ -1,0 +1,24 @@
+vtpos 0 26
+Second_Kebab Q H Q P////////+f E A I J K J A r B C C A D/ C J
+Q
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Modifiers A Ko F4 DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B B B4 A
+C ~ A OE F4 DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+C ~ A HQ F4 DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A To_Go ~ A
+C ~ A Hg KM C0 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C R Chicken_Kebab_+ ~ A
+C ~ A K4 KM C0 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C R Veggie_Kebab_+ ~ A
+J No,_Thank_You A Ro KM Ds CE C A B D/ Q A B D/ D+ A B D/ D+ A EA B C R A
+E BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq To_Go ~ ******To_Go****** A P/////////O A A A A A A A X A A A A A A
+B ~ A ~ BOq Chicken_Kebab_+ ~ ~ A Gp A A A A A A A C A A A A A A
+B ~ A ~ BOq Veggie_Kebab_+ ~ ~ A Gp A A A A A A A C A A A A A A
+B ~ A ~ 

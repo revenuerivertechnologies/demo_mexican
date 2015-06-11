@@ -1,0 +1,25 @@
+vtpos 0 26
+Breakfast_Sandwich_Extras Y H Q P////////+f E A I J K J A r B C C A D/ C J
+N
+J Modifiers A ak Ds DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B B B4 A
+C ~ A Oo M4 DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Container_Deposit ~ A
+C ~ A Hs IM DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Sausage_Patty ~ A
+C ~ A Oo IM DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Biscuit ~ A
+C ~ A LM IM DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Fruit_Salad ~ A
+C ~ A Hs Kk DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Paleo_Hollandaise ~ A
+C ~ A LM Kk DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Breakfast_Potatoes ~ A
+C ~ A VY KE DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C X Second_Egg ~ A
+J First,_make_any_choices_here A JI HQ Go o F F D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+J Then A WU JY BI o F F D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+J Or A WY MM BI g F F D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+B Show_how_the_Egg_is_prepared A U4 Mw Ek CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B C X ~ A ~ A
+C ~ A Oo Kk DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Gluten_Free ~ A
+I BOq Container_Deposit ~ Side:_Chips_PG A Z A A A A A A Bj X A A A A A A
+B ~ A ~ BOq Sausage_Patty ~ ~ B CW A A A A A A A H A A A A A A
+B ~ A ~ BOq Biscuit ~ ~ B CW A A A A A A A H A A A A A A
+B ~ A ~ BOq Fruit_Salad ~ ~ B CW A A A A A A A H A A A A A A
+B ~ A ~ BOq Paleo_Hollandaise ~ ~ B CW A A A A A A A H A A A A A A
+B ~ A ~ BOq Breakfast_Potatoes ~ Potatoes B Cv A A A A A A A H A A A A A A
+B ~ A ~ BOq Second_Egg ~ ~ B DI A A A A A A A H A A A A A A
+B ~ A ~ BOq Gluten_Free ~ GF B CW A A A A A A A H A A A A A A
+B ~ A ~ 

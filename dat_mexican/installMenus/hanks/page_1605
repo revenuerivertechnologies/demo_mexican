@@ -1,0 +1,44 @@
+vtpos 0 26
+Cocktails ZF K E P////////+e D A D F K N A U S F C A D/ C A
+d
+D Send_&_Stay A KX J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Modifiers A Os JZ BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZJ ~ A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Food A Os Bz BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B cI ~ A ~ A
+B Beverage A Os i BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZI ~ A ~ A
+B Beer A Os DE BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZD ~ A ~ A
+B Liquor A Os EV BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZE ~ A ~ A
+B Cocktails A Os Fm BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZF ~ A ~ A
+B Wine A Os G3 BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZG ~ A ~ A
+B Specials A Os II BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZC ~ A ~ A
+D Send_Order A MY J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 B B final A ~ A
+B Restart A A J8 CA CA A J K N D A U S F A K A B A EA D G A cancel A ~ A
+z ~ A GM J8 CA CA C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A IQ J8 CA CA C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+BT Increase A CE J8 CA CA C I K N R A K B Q A U S F A A D A
+BU Rebuild_or\Delete A EI J8 CA CA C I K N S A U S F A K A B A A D A
+C ~ A E8 Eb B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B ZX CTL_Martini ~ A
+C ~ A G9 Cp B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A CTL_Fuzzy_Navel ~ A
+C ~ A G9 Di B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B A A CTL_Long_Island ~ A
+C ~ A E8 Bw B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B ZO CTL_Margarita ~ A
+C ~ A E8 GN B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B ZO CTL_Tequila_Sunrise ~ A
+C ~ A E8 Di B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B ZW CTL_Mai_Tai ~ A
+C ~ A E8 Cp B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B ZV CTL_Bloody_Mary ~ A
+C ~ A E8 FU B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B ZW CTL_Mojito ~ A
+C ~ A E8 HG B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B ZV CTL_White_Russian ~ A
+C ~ A E8 H/ B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B Za CTL_Manhattan ~ A
+C ~ A G9 Bw B8 0 C M K D/ L A B D/ D+ A B D/ D+ A EA B B ZZ CTL_Old_Fashioned ~ A
+L BOq CTL_Martini Martini ~ A JY A A A A A A D U A B A A A A
+B ~ A ~ BOq CTL_Fuzzy_Navel Fuzzy_Navel ~ A JY A A A A A A A U A B A A A A
+B ~ A ~ BOq CTL_Long_Island Long_Island ~ A JY A A A A A A D U A B A A A A
+B ~ A ~ BOq CTL_Margarita Margartia ~ A JY A A A A A A D U A B A A A A
+B ~ A ~ BOq CTL_Tequila_Sunrise Tequila_Sunrise ~ A JY A A A A A A A U A B A A A A
+B ~ A ~ BOq CTL_Mai_Tai Mai_Tai ~ A JY A A A A A A A U A B A A A A
+B ~ A ~ BOq CTL_Bloody_Mary Bloody_Mary ~ A JY A A A A A A D U A B A A A A
+B ~ A ~ BOq CTL_Mojito Mojito ~ A JY A A A A A A A U A B A A A A
+B ~ A ~ BOq CTL_White_Russian White_Russian ~ A JY A A A A A A A U A B A A A A
+B ~ A ~ BOq CTL_Manhattan Manhattan ~ A JY A A A A A A A U A B A A A A
+B ~ A ~ BOq CTL_Old_Fashioned Old_Fashioned ~ A JY A A A A A A A U A B A A A A
+B ~ A ~ 

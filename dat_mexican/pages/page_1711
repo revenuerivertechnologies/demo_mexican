@@ -1,0 +1,30 @@
+vtpos 0 26
+14_Burgers av K E P////////+e D A D F K N A U S F C A D/ C A
+V
+J Home A IX l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B ak A
+J Merchandise E E8 HC DM BA C I K U E A U S F A B D/ D+ A EA B B a0 A
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+J Split_Check A Lk J4 CI CI C J K N M A U S F A K A B A EA D B P////////+4 A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+BU Rebuild_or\Delete A Eo J8 CI CE C J K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C J K N J A K B Q A U S F A A D A
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B B ap A
+J Appitizers E E8 Bp DM BA C I K U E A U S F A B D/ D+ A EA B B au A
+J Hot_Dogs E E8 Dz DM BA C I K U E A U S F A B D/ D+ A EA B B aw A
+J Sandwiches E E8 E4 DM BA C I K U E A U S F A B D/ D+ A EA B B ax A
+J Entrees E E8 F9 DM BA C I K U E A U S F A B D/ D+ A EA B B ay A
+C ~ F IQ Bk B8 4 C M K N P A B D/ D+ A B D/ D+ A EA B A A 1/3_Pound_Burger ~ A
+C ~ F IQ Ch B8 4 C M K N P A B D/ D+ A B D/ D+ A EA B A A 2/3_Pound_Double_Burger ~ A
+C ~ F IQ De B8 4 C M K N P A B D/ D+ A B D/ D+ A EA B A A Exit_14_Burger ~ A
+C ~ F IQ Eb B8 4 C M K N P A B D/ D+ A B D/ D+ A EA B A A Exit_14_Pavement_Pounder ~ A
+C ~ F IQ FY B8 4 C M K N P A B D/ D+ A B D/ D+ A EA B A A Hamburger_Sliders ~ A
+J Burgers E E8 Cu DM BA C I K B C A U S F A B D/ D+ A EA B B av A
+F BSj 1/3_Pound_Burger Hamburger ~ A Ge A A A A A A B C A A A A A A
+B ~ A ~ BSj 2/3_Pound_Double_Burger Double_Burger ~ A Jm A A A A A A B C A A A A A A
+B ~ A ~ BSj Exit_14_Burger Exit_14_Hamburger ~ A OS A A A A A A B C A A A A A A
+B ~ A ~ BSj Exit_14_Pavement_Pounder Pavement_Pounder ~ A WG A A A A A A B C A A A A A A
+B ~ A ~ BSj Hamburger_Sliders Sliders ~ A DW A A A A A A B C A A A A A A
+B ~ A ~ 

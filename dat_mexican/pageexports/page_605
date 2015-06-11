@@ -1,0 +1,25 @@
+vtpos 0 27
+Beverages Jd K E P////////+e D A G F K N A K S F C A D/ C A
+R
+J Modifiers E FP f CM BI C I K U M A U S F A B D/ D+ A EA B B Js A
+J Appetizers E FP Cx CM BI C I K U M A U S F A B D/ D+ A EA B B Je A
+J Specialties E FP D6 CM BI C I K U M A U S F A B D/ D+ A EA B B Jf A
+J Sides E FP FD CM BI C I K U M A U S F A B D/ D+ A EA B B Jg A
+J Salads E FP GM CM BI C I K U M A U S F A B D/ D+ A EA B B Jh A
+J Tacos E FP HV CM BI C I K U M A U S F A B D/ D+ A EA B B Ji A
+C ~ F N3 Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Large_Fountain_Drink ~ A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+e ~ A A g FQ JE A K K U A A q D B A K A B A A B 2 A
+C ~ F Hc Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Small_Fountain_Drink ~ A
+C ~ F Lu Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Large_Fountain_Drink ~ A
+D Send_&_Stay A Ln Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Jd final A ~ A
+D Send_Order A N4 Jk CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Hz final A ~ A
+C ~ F Jl Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Medium_Fountain_Drink ~ A
+J Beverages E FP Bo CM BI C I K B C A U S F A B D/ D+ A EA B B Jd A
+E BSj Large_Fountain_Drink Large_Pop ~ A ~ January_1,_2015 100 100 Adult C9 A A A A A A D I A A A A A A
+B ~ A ~ BSj Small_Fountain_Drink Small_Pop ~ A ~ January_1,_2015 100 100 Adult C9 A A A A A A B F A A A A A A
+B ~ A ~ BSj Large_Fountain_Drink Large_Pop ~ A ~ January_1,_2015 100 100 Adult C9 A A A A A A D I A A A A A A
+B ~ A ~ BSj Medium_Fountain_Drink Medium_Pop ~ A ~ January_1,_2015 100 100 Adult Cf A A A A A A D I A A A A A A
+B ~ A ~ 

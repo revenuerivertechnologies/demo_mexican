@@ -1,0 +1,41 @@
+vtpos 0 26
+Chart_of_Accounts P////////xT D S A A A E F K A A K B A C A D/ C A
+l
+G Cost_of_Sales_-_Inventory_Replenish:_5000_-_5999 B II Gw H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Short_Term_Notes_Payable:_2010_-_2199 A II D8 H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Gift_Certificate_Redemption:_2000_-_2009 A II Do H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Notes_Receivable:_1900_-_1999 B II DU H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Leasehold_Improvements:_1810_-_1899 B II DA H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Accumulated_Depreciation:_1800_-_1809 B II Cs H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Equity_Account:_3000_-_3009 B II FM H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Capital_Reserve_Account:_3600_-_3699 B II GI H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Retained_Earnings_Account:_3500_-_3599 B II F0 H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Shareholders:_3010_-_3499 B II Fg H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Accrued_Payroll_Taxes:_2500_-_2899 B II Ek H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Other_Accrued_Taxes:_2901_-_2999 B II E4 H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Balancing_Account:_9999 B II IU H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Other_Income:_9500_-_9998 B II IA H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Other_Expenses:_9000_-_9499 B II Hs H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Operating_Expenses:_7000_-_8999 B II HY H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Payroll_Expenses:_6000_-_6999 B II HE H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Revenue_Families:_4000_-_4999 B II Gc H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Long_Term_Notes_Payable:_2200-2499 B II EQ H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Fixed_Assets:_1500_-_1999 B II CY H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Current_Assets:_Inventory:_1100_-_1199 B II CE H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Current_Assets:_Checking_Account:_1000 B II Bc H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Current_Assets:_Cash,_etc.:_1010_-_1099 B II Bw H4 Y F E D D9 A A C D/ B A C D/ B A A B A
+B Chart_of_Accounts A Cg Os Cg BU A A B D/ U A D D9 C A K A B A EA B A A ~ A ~ A
+BS Test_Chart_Of_Accounts A A g IA OI C E K A D+ A B D/ D+ A B D/ D+ A EA B A
+J General_Journal A FA Os Cg BU A A B D/ T A K D9 C A K A B A EA B C P////////xS A
+J CR/CD A Hg Os Cg BU A A B D/ R A K D9 C A K A B A EA B C P////////xR A
+J Payables_Ledger A KA Os Cg BU A A B D/ M A K D9 C A K A B A EA B C P////////xQ A
+J Receivables_Ledger A Mg Os Cg BU A A B D/ S A K D9 C A K A B A EA B C P////////xP A
+J Fixed_Assets A PA Os Cg BU A A B D/ P A K D9 C A K A B A EA B C P////////xM A
+B Inactivate_Account A Rk g Cc CI E A B D/ T A K D/ C A K A B A EA B A A DELETE A ~ A
+B Find A Rk G4 Cc CI C A B D/ Q A K D/ C A K A B A EA B A A ~ A ~ A
+B Return A Rg Os Cg BU C A B D/ Q A K D9 C A K A B A EA B D A save A ~ A
+J General_Ledger A A Os Cg BU A A B D/ G A K D9 C A K A B A EA B C P////////xU A
+B Add_New_Account A Rk Ew Cc CI C A B D/ U A K D/ C A K A B A EA B A A new A ~ A
+B Change_View A Rk Co Cc CI C A B D/ S A K D/ C A K A B A EA B A A change_view A ~ A
+J ~ A IE g IA OI A E K A A A K B B A K A B A EA B A A A
+A 

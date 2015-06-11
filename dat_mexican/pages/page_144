@@ -1,0 +1,47 @@
+vtpos 0 26
+Craft_Cocktails CQ S E P////////+e D A I F K A A K B A C A D/ C A
+f
+J Modifiers A am l C8 BU C J t E B A t D/ D+ A B D/ D+ A EA B B B4 A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B E A
+J Beer A Tw l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CA A
+J Wine A V5 l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CB A
+J Liquor A Rp l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B B/ A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+C ~ A M4 CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A 801_Manhattan ~ A
+C ~ A M4 Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Beer_Cocktale ~ A
+C ~ A M4 E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Derby_Tea ~ A
+C ~ A M4 GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Gin_&_Jam ~ A
+C ~ A M4 Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Irish_Daisy ~ A
+C ~ A M4 It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A I_Say_Tomato ~ A
+C ~ A M4 J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Lavender_Sparkler ~ A
+C ~ A M4 LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Local_Pickle ~ A
+C ~ A Pl CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Orange_Blossom ~ A
+C ~ A Pl Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Reposado_Old_Fash ~ A
+C ~ A Pl E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Sailor's_Remedey ~ A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C BE A
+C ~ A aw CM DM CE C J U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Craft_Cocktails A HM Bs FU BE C J r A F A B D/ D+ A B D/ D+ A EA B C CQ A
+J Misc._Cocktails A HM C0 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C CR A
+J Cocktails A YC l Ck BU C J t E B A t D/ D+ A B D/ D+ A EA B B CT A
+M BOq 801_Manhattan ~ ~ A Sw A A A A A A D U A B A A A A
+B ~ A ~ BOq Beer_Cocktale ~ ~ A Mg A A A A A A D U A B A A A A
+B ~ A ~ BOq Derby_Tea ~ ~ A Sw A A A A A A D U A B A A A A
+B ~ A ~ BOq Gin_&_Jam ~ ~ A RM A A A A A A D U A B A A A A
+B ~ A ~ BOq Irish_Daisy ~ ~ A Sw A A A A A A D U A B A A A A
+B ~ A ~ BOq I_Say_Tomato ~ ~ A Sw A A A A A A D U A B A A A A
+B ~ A ~ BOq Lavender_Sparkler ~ ~ A V4 A A A A A A D U A B A A A A
+B ~ A ~ BOq Local_Pickle ~ ~ A Po A A A A A A D U A B A A A A
+B ~ A ~ BOq Orange_Blossom ~ ~ A OE A A A A A A D U A B A A A A
+B ~ A ~ BOq Reposado_Old_Fash ~ ~ A UU A A A A A A D U A B A A A A
+B ~ A ~ BOq Sailor's_Remedey ~ ~ A Po A A A A A A D U A B A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ 

@@ -1,0 +1,35 @@
+vtpos 0 27
+GS_Beverages fV K E P////////+e D A G F K N A K S F C A D/ C A
+W
+J Apps_&_Soups E Dn Cx B0 BI C I K U M A U S F A B D/ D+ A EA B B fa A
+J Modifiers E Dn f B0 BI C I K U M A U S F A B D/ D+ A EA B B gM A
+J Entrees E Dn D6 B0 BI C I K U M A U S F A B D/ D+ A EA B B fi A
+J Combos E Dn FD B0 BI C I K U M A U S F A B D/ D+ A EA B B gQ A
+J Kids E Dn GM B0 BI C I K U M A U S F A B D/ D+ A EA B B gS A
+J Catering E Dn HV B0 BI C I K U M A U S F A B D/ D+ A EA B B gT A
+D Send_Order A N4 Jk CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B fP final A ~ A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+C ~ F Fc Bo Bw BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Small_Drink ~ A
+C ~ F Fc Cx Bw BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Large_Drink ~ A
+C ~ F Fc D6 Bw BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Bottle_Water ~ A
+C ~ F Fc FD Bw BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Bottle_Drink ~ A
+C ~ F Fc GM Bw BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Coffee ~ A
+C ~ F Fc HV Bw BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Hot_Tea ~ A
+C ~ F HN Bo Bw BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Small_Refill ~ A
+C ~ F HN Cx Bw BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Large_Refill ~ A
+C ~ F HN D6 Bw BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Cream_Tea ~ A
+D Send_&_Stay A Ln Jk CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B fV final A ~ A
+e ~ A A g Do JE A K K U A A q D B A K A B A A B 2 A
+J Beverages E Dn Bo B0 BI C I K B M A U S F A B D/ D+ A EA B B fV A
+J BSj Small_Drink ~ ~ A ~ January_1,_2015 100 100 Adult Cb A A A A A A D I A A A A A A
+B ~ A ~ BSj Large_Drink ~ ~ A ~ January_1,_2015 100 100 Adult Cv A A A A A A D I A A A A A A
+B ~ A ~ BSj Bottle_Water ~ ~ A ~ January_1,_2015 100 100 Adult Bj A A A A A A D I A A A A A A
+B ~ A ~ BSj Bottle_Drink ~ ~ A ~ January_1,_2015 100 100 Adult CH A A A A A A D I A A A A A A
+B ~ A ~ BSj Coffee ~ ~ A ~ January_1,_2015 100 100 Adult CH A A A A A A D I A A A A A A
+B ~ A ~ BSj Hot_Tea ~ ~ A ~ January_1,_2015 100 100 Adult CH A A A A A A D I A A A A A A
+B ~ A ~ BSj Small_Refill ~ ~ A ~ January_1,_2015 100 100 Adult CR A A A A A A D I A A A A A A
+B ~ A ~ BSj Large_Refill ~ ~ A ~ January_1,_2015 100 100 Adult Cl A A A A A A D I A A A A A A
+B ~ A ~ BSj Cream_Tea ~ ~ A ~ January_1,_2015 100 100 Adult CH A A A A A A D I A A A A A A
+B ~ A ~ 

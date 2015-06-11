@@ -1,0 +1,44 @@
+vtpos 0 26
+IHOP_Grabbable_Favorites E/ S E P////////+e D A I J K A A K B A C A D/ C A
+h
+J Hamburger_Bar A HM Bt FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C E+ A
+J Signature_Favorites A HM HM FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C FD A
+J Soups_&_Salads A HM D4 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C FA A
+J Kids A HM Je FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B FF A
+J <<_BACK_<< A HM NF FU BI C J o K P A B D/ D+ A B D/ D+ A EA B B Es A
+J Desserts A HM GI FU BA C J r A A A B D/ D+ A B D/ D+ A EA B B FC A
+J Simple_&_FIT A HM IV FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B FE A
+J 55+ A HM Kr FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B FG A
+J Sides A HM L4 FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B FI A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B Es A
+C ~ A M4 JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B FZ Monster_Mozza_Sticks ~ A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C Ex A
+J Modifiers A Rq l C8 BU C J t E B A t D/ D+ A B D/ D+ A EA B B Fj A
+J Dinner_Classics A HM FA FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B FB A
+C ~ A M4 H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Crispy_Chicken_Strips_&_Fries ~ A
+C ~ A M4 Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Chicken_&_Three_Cheese_Quesadilla ~ A
+C ~ A M4 FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Chicken_&_Chorizo_Burrito ~ A
+C ~ A M4 Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Buttermilk-Battered_Fish_&_Chips ~ A
+C ~ A M4 CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Es Appetizer_Sampler ~ A
+J Grabbable_Favorites A HM Cy FU BA C J r A F A B D/ D+ A B D/ D+ A EA B C E/ A
+H BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Monster_Mozza_Sticks ~ ~ A Il A A A A A A B H A A A A A A
+B ~ A ~ BOq Crispy_Chicken_Strips_&_Fries ~ ~ A MB A A A A A A B H A A A A A A
+B ~ A ~ BOq Chicken_&_Three_Cheese_Quesadilla ~ ~ A JX A A A A A A B H A A A A A A
+B ~ A ~ BOq Chicken_&_Chorizo_Burrito ~ ~ A JX A A A A A A B H A A A A A A
+B ~ A ~ BOq Buttermilk-Battered_Fish_&_Chips Fish_&_Chips ~ A K7 A A A A A A B H A A A A A A
+B ~ A ~ BOq Appetizer_Sampler ~ ~ A Mf A A A A A A B H A A A A A A
+B ~ A ~ 

@@ -1,0 +1,31 @@
+KeyValueInputFile::Open error 2 for /usr/viewtouch/dat/.viewtouch_config
+VT_DATA:  /usr/viewtouch/dat/vt_data
+Opening Remote Display 'Tablet'
+Opening Remote Display 'Tablet'
+Opening Remote Display 'Support'
+Attempting to load file employee.dat...
+employee.dat OK
+Attempting to load file menu.dat...
+menu.dat OK
+Attempting to load file exception.dat...
+exception.dat OK
+Attempting to load file inventory.dat...
+inventory.dat OK
+ViewTouch [14129]: Freeing 'black' XftColor
+ViewTouch [14129]: Freeing 'white' XftColor
+ViewTouch [14129]: Freeing XftDraw *
+ViewTouch [14129]: Closing Xft loader font
+ViewTouch [14129]: Closing X display
+KeyValueInputFile::Open error 2 for /usr/viewtouch/bin/.viewtouch_command_file
+TermError: Can't load font '-adobe-times-medium-r-normal--20-*-iso8859-15' on display ':0.0'
+TermError: Can't open display 'localhost:10.0'
+TermError:   Looking for alternative font...
+TermError:   Unable to find alternative!!
+TermError: Can't open display '192.168.1.60:0'
+TermError: Can't open display '192.168.1.63:0'
+All terminals lost - shutting down system
+EndSystem:  Normal shutdown.
+Starting system:  via1680
+Skipping License Check
+Machine ID:  01093A610764615FD4F7FF7A9494BF23847727D6
+You have 30 days left on your license

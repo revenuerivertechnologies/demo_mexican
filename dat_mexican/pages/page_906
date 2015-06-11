@@ -1,0 +1,16 @@
+vtpos 0 26
+Beverage_Mod_1 OK S E P////////+e D A I J K A A K B A C A D/ C A
+G
+C ~ A M4 Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OJ BWW_Diet_Pepsi ~ A
+C ~ A M4 FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OJ BWW_Mountain_Dew ~ A
+C ~ A M4 Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OJ BWW_Diet_Mountain_Dew ~ A
+C ~ A M4 H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OJ BWw_Dr_Pepper ~ A
+C ~ A M4 JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OJ BWW_Diet_Dr_Pepper ~ A
+C ~ A M4 CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OJ BWW_Pepsi ~ A
+G BOq BWW_Diet_Pepsi Diet_Pepsi ~ A DH A A A A A A A B A A A A A A
+B ~ A ~ BOq BWW_Mountain_Dew Mountain_Dew ~ A DH A A A A A A A B A A A A A A
+B ~ A ~ BOq BWW_Diet_Mountain_Dew Diet_Mountain_Dew ~ A DH A A A A A A A B A A A A A A
+B ~ A ~ BOq BWw_Dr_Pepper Dr_Pepper ~ A DH A A A A A A A B A A A A A A
+B ~ A ~ BOq BWW_Diet_Dr_Pepper Diet_Dr_Pepper ~ A DH A A A A A A A B A A A A A A
+B ~ A ~ BOq BWW_Pepsi Pepsi ~ A DH A A A A A A A B A A A A A A
+B ~ A ~ 

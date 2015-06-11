@@ -1,0 +1,52 @@
+vtpos 0 26
+Beer ZD K E P////////+e D A D F K N A U S F C A D/ C A
+i
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Modifiers A Os JZ BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZJ ~ A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Food A Os Bz BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B cI ~ A ~ A
+B Beverage A Os i BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZI ~ A ~ A
+B Beer A Os DE BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZD ~ A ~ A
+B Liquor A Os EV BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZE ~ A ~ A
+B Cocktails A Os Fm BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZF ~ A ~ A
+B Wine A Os G3 BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZG ~ A ~ A
+B Specials A Os II BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZC ~ A ~ A
+D Send_Order A MY J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 B B final A ~ A
+z ~ A GM J8 CA CA C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A IQ J8 CA CA C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+B Restart A A J8 CA CA A J K N D A U S F A K A B A EA D G A cancel A ~ A
+BT Increase A CE J8 CA CA C I K N R A K B Q A U S F A A D A
+C ~ A E8 Bs B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Bud_Light_Draft ~ A
+C ~ A E8 Cp B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Budwiser_Draft ~ A
+C ~ A E8 Dm B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Miller_Light_Draft ~ A
+C ~ A E8 Ej B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Coors_Light_Draft ~ A
+C ~ A E8 Fg B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Shock_Top_Draft ~ A
+C ~ A E8 Gd B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Sam_Adams_Draft ~ A
+C ~ A E8 Ha B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A IPA_Draft ~ A
+C ~ A I+ Bs B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Bud_Light_Bottle ~ A
+J Drafts A E8 BH B8 g C M K F C A B D/ D+ A B D/ D+ A EA B A A A
+J Bottles A I9 BH B8 g C M K F C A B D/ D+ A B D/ D+ A EA B A A A
+C ~ A I+ Cp B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Budwiser_Bottle ~ A
+C ~ A I+ Dm B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Miller_Light_Bottle ~ A
+C ~ A I+ Ej B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Coors_Light_Bottle ~ A
+C ~ A I+ Fg B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Coors_Bottle ~ A
+C ~ A I+ Gd B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Sam_Adams_Bottle ~ A
+C ~ A I+ Ha B8 4 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Tank_7 ~ A
+BU Rebuild_or\Delete A EI J8 CA CA C I K N S A U S F A K A B A A D A
+D Send_&_Stay A KX J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+O BOq Bud_Light_Draft Bud_Light ~ A Fe A A A A A A E R A B A A A A
+B ~ A ~ BOq Budwiser_Draft Budwiser ~ A Fe A A A A A A E R A B A A A A
+B ~ A ~ BOq Miller_Light_Draft Miller_Light ~ A Fe A A A A A A E R A B A A A A
+B ~ A ~ BOq Coors_Light_Draft Coors_Light ~ A Fe A A A A A A E R A B A A A A
+B ~ A ~ BOq Shock_Top_Draft Shock_Top ~ A Fe A A A A A A E R A B A A A A
+B ~ A ~ BOq Sam_Adams_Draft Sam_Adams ~ A Fe A A A A A A E R A B A A A A
+B ~ A ~ BOq IPA_Draft IPA ~ A Fe A A A A A A E R A B A A A A
+B ~ A ~ BOq Bud_Light_Bottle Bud_Light ~ A Es A A A A A A E R A B A A A A
+B ~ A ~ BOq Budwiser_Bottle Budwiser ~ A Es A A A A A A E R A B A A A A
+B ~ A ~ BOq Miller_Light_Bottle Miller_Light ~ A Es A A A A A A E R A B A A A A
+B ~ A ~ BOq Coors_Light_Bottle Coors_Light ~ A Es A A A A A A E R A B A A A A
+B ~ A ~ BOq Coors_Bottle Coors ~ A Es A A A A A A E R A B A A A A
+B ~ A ~ BOq Sam_Adams_Bottle Sam_Adams ~ A GQ A A A A A A E R A B A A A A
+B ~ A ~ BOq Tank_7 ~ ~ A GQ A A A A A A E R A B A A A A
+B ~ A ~ 

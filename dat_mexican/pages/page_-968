@@ -1,0 +1,14 @@
+vtpos 0 26
+Basic_Accounting_Facts P////////w4 O S A A A D F K A A K B A C A D/ C G
+K
+G Ledgers_list_summarized_effects_of_transactions_upon_accounts_values.__The_summaries_are_filtered,_linear_transactional_views,_focusing_upon_asset_types_such_as_cash_or_inventory. B E Jk NU BQ F A K A A A C D/ B A C D/ B A EA B A
+G Journals_are_chronological_records_describing_specific_types_of_transactions_in_balanced_format,_including_verbose_explanations_and_form_the_basis_for_subsequent_creation_of_the_General_Ledger. B E Is P4 4 F A K A A A C D/ B A C D/ B A EA B A
+G The_Retained_Income_account_is_the_container_for_the_growth_of_Assets_-_the_amount_received_for_preparing_and_delivering_the_business's_inventory_to_customers_minus_the_expense_of_doing_so.__This_account_is_the_link_between_the_income_and_expense_accounts_and_the_owner_equity_accounts.__The_amount_in_it_is_available_for_expanding_or_increasing_the_business's_ability_to_deliver_inventory_to_customers_and/or_to_pay_dividends_to_stockholders. B E Eg P4 CA F A K A A A C D/ B A C D/ B A EA B A
+G The_two_basic_types_of_equity_are_paid-in_capital_and_retained_income,_in_3000_-_3999. B E B0 P4 4 F A K A A A C D/ B A C D/ B A EA B A
+G Owner_(shareholder)_equity_is_the_sum_of_paid_in_capital_and_retained_income_(growth_of_the_business's_assets). B E Cs P4 4 F A K A A A C D/ B A C D/ B A EA B A
+G The_basic_rule_of_accounting:_A_business's_assets_must_be_equal_to_its_Equities._Equities_include_liabilities_(amounts_owed_to_non-owners)_and_owner_equity.__Liability_accounts_are_in_2000_-_2999.__Owner_equity_accounts_are_in_3000_-_3999.__All_other_accounts_are_asset_accounts. B E k P4 BQ F A K A A A C D/ B A C D/ B A EA B A
+G Purchases_and_Sales_of_Inventory_on_deferred_payment_terms_are_transactions_which_DO_affect_the_balance_of_assets_and_equities_because_they_are_recorded_in_the_accounts_payable_and_accounts_receivable_ranges. B E HY P4 BQ F A K A A A C D/ B A C D/ B A EA B A
+G Purchases_of_Inventory_for_Cash_and_Sales_of_Inventory_for_Cash_are_not_transactions_which_affect_the_balance_of_assets_and_equities.__Instead,_they_affect_the_distribution_of_value_within_the_asset_accounts. B E Gg P4 4 F A K A A A C D/ B A C D/ B A EA B A
+G Assets_are_cash_on_hand_(1000_-_1099),_accounts_receivable_(1100_-_1399),_inventory_(1400_-_1499),_fixed_assets_(1500_-_1899)_and_deposits_(1900_-_1999). B E Dk P4 8 F A K A A A C D/ B A C D/ B A EA B A
+B Return A Nc KU Cc Bk C I t I Q A z I C A K A B A EA B D A save A ~ A
+A 

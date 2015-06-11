@@ -1,0 +1,83 @@
+vtpos 0 26
+BBQ_Combo_Lunch_Mods IT S E P////////+d C A I J K A A K B A C A D/ C A
+BF
+J Beverages F HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C H5 A
+J >>_NEXT_>> F HM NN FU BI C A o K Q A B D/ D+ A B D/ D+ A EA B B H1 A
+J Food F Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B H0 A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Begginings F HM Bs FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B H+ A
+J Soups_&_Salads F HM C0 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B H/ A
+J Sandwiches F HM D8 FU BA C J r A A A B D/ D+ A B D/ D+ A EA B B IA A
+J BBQ_Dinners F HM GI FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B IC A
+J BBQ_Combos F HM HQ FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B ID A
+J Signature_BBQ_Items F HM Id FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B IE A
+J Prime_Rib F HM Jm FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B IF A
+J Steaks_&_Chops F HM Kz FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B IG A
+J Grilled_Fish F HM MA FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B IH A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Wood_Fired_Chicken F HM Bs FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B II A
+J Sides F HM C0 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B IJ A
+J Desserts F HM D8 FU BA C J r A A A B D/ D+ A B D/ D+ A EA B B IK A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Wood_Fired_Chicken F HM Bs FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B II A
+J Sides F HM C0 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B IJ A
+J Desserts F HM D8 FU BA C J r A A A B D/ D+ A B D/ D+ A EA B B IK A
+C ~ F M4 CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Burnt_Ends ~ A
+C ~ F M4 Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Bone-In_Chicken ~ A
+C ~ F M4 FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Beef_Ribs ~ A
+J Sliced_Meats F M4 Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B IU A
+C ~ F M4 H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Pork_Spare_Ribs ~ A
+C ~ F M4 JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Lamb_Ribs ~ A
+C ~ F M4 Ku DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Crown_Prime_Beef_Ribs ~ A
+C ~ F M4 MH DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Pork_Baby_Back_Ribs ~ A
+J Lunch_Plates F HM FA FU BE C J r A F A B D/ D+ A B D/ D+ A EA B B IB A
+K BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Burnt_Ends ~ ~ B A A A A A A A B C A A A A A A
+B ~ A ~ BOq Bone-In_Chicken ~ ~ B A A A A A A A B C A A A A A A
+B ~ A ~ BOq Beef_Ribs ~ ~ B A A A A A A A B C A A A A A A
+B ~ A ~ BOq Pork_Spare_Ribs ~ ~ B A A A A A A A B C A A A A A A
+B ~ A ~ BOq Lamb_Ribs ~ ~ B A A A A A A A B C A A A A A A
+B ~ A ~ BOq Crown_Prime_Beef_Ribs ~ ~ B Mg A A A A A A B C A A A A A A
+B ~ A ~ BOq Pork_Baby_Back_Ribs ~ ~ B En A A A A A A B C A A A A A A
+B ~ A ~ 

@@ -1,0 +1,24 @@
+vtpos 0 26
+Accounts_Receivable_Ledger P////////xP D S A A A D F K J A K B A C A D/ C G
+U
+G House_Accounts_owed_by_customers:_range_1200_-_1499 B HY Ko G4 c F E K A A A C D/ B A C D/ B A A B A
+B ~ A OQ GQ Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ Hs Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ JI Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B Inactivate_Account A OQ g Bs Bc E A D D9 T A K D9 C A K A B A EA B A A DELETE A ~ A
+B Add_New_Account A OQ DY Bs Bc C A D D9 U A K D9 C A K A B A EA B A A NEW A ~ A
+B Find A OQ E0 Bs Bc C A D D9 Q A K D9 C A K A B A EA B A A ~ A ~ A
+B Edit_Name A OQ B8 Bs Bc C A D D9 S A K D9 C A K A B A EA B A A ~ A ~ A
+J ~ A OQ g Bs Kk C E K A A A K B B A K A B A EA B A A A
+J Receivable_Account_Detailer A Fc g IE Jw A E K A A A K B B A K A B A EA B A A A
+J Receivable_Accounts A E g FY Jw A E K A A A K B B A K A B A EA B A A A
+J Receivables_Ledger A KA LE CA 4 A A K D9 S A K D9 C A K A B A EA B A A A
+J General_Ledger A A LE CA 4 A A D D9 G A K D9 C A K A B A EA B C P////////xU A
+J Chart_of_Accounts A CA LE CA 4 A A D D9 U A K D9 C A K A B A EA B C P////////xT A
+J General_Journal A EA LE CA 4 A A D D9 T A K D9 C A K A B A EA B C P////////xS A
+J CR/CD A GA LE CA 4 A A D D9 R A K D9 C A K A B A EA B C P////////xR A
+J Payables_Ledger A IA LE CA 4 A A D D9 M A K D9 C A K A B A EA B C P////////xQ A
+J Fixed_Assets A MA LE CA 4 A A D D9 P A K D9 C A K A B A EA B C P////////xM A
+B Return A OA LE CA 4 C A D D9 Q A K D9 C A K A B A EA B D A save A ~ A
+J ~ A A LE QA 4 C E B D/ A A K B B A K A B A EA B A A A
+A 

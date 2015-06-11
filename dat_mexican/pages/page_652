@@ -1,0 +1,90 @@
+vtpos 0 26
+Sand_&_Bowl_of_Soup_Mod_3 KM S E P////////+e D A I J K A A K B A C A D/ C A
+BN
+J Home F Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B JY A
+J Dessert F HM Jm FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B Jp A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+J Sandwiches G HM Bs FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B Ji A
+J Side_Order G HM GI FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B Jm A
+J Kids_Meal F HM HQ FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B Jn A
+J Pickles G HM Id FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B Jo A
+J Salads G HM FA FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B Jl A
+J Soups G HM D8 FU BA C J r A A A B D/ D+ A B D/ D+ A EA B B Jk A
+J Beverages F HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C Jd A
+C ~ G M4 Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Clam_Chowder_Cup ~ A
+C ~ G M4 FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Tomato_Soup_Cup ~ A
+C ~ G M4 H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Baja_Chicken_Enchilada_Soup_Cup ~ A
+C ~ G M4 JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Cream_of_Brocoli_Cup ~ A
+C ~ G M4 Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Potato_Au_Gratin_Soup_Cup ~ A
+C ~ G M4 Ku DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Wisconsin_Cheese_Soup_Cup ~ A
+C ~ G M4 CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Potato_&_Bacon ~ A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+C ~ G M4 MH DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Chicken_Noodle_Cup ~ A
+J Daily_Specials G HM C0 FU BE C J r A F A B D/ D+ A B D/ D+ A EA B B Jj A
+J BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BU+ Clam_Chowder_Cup Clam_Chowder ~ B A A A A A A A B N A A A A A A
+B ~ A ~ BOq Tomato_Soup_Cup Tomato_Soup ~ B A A A A A A A A N A A A A A A
+B ~ A ~ BU+ Baja_Chicken_Enchilada_Soup_Cup Baja_Chicken_Enchilada_Soup ~ B A A A A A A A A N A A A A A A
+B ~ A ~ BU+ Cream_of_Brocoli_Cup Cream_of_Brocoli ~ B A A A A A A A B N A A A A A A
+B ~ A ~ BU+ Potato_Au_Gratin_Soup_Cup Potato_Au_Gratin_Soup ~ B A A A A A A A A N A A A A A A
+B ~ A ~ BU+ Wisconsin_Cheese_Soup_Cup Wisconsin_Cheese_Soup ~ B A A A A A A A A N A A A A A A
+B ~ A ~ BU+ Potato_&_Bacon ~ ~ B A A A A A A A B N A A A A A A
+B ~ A ~ BU+ Chicken_Noodle_Cup Chicken_Noodle ~ B A A A A A A A B N A A A A A A
+B ~ A ~ 

@@ -1,0 +1,28 @@
+vtpos 0 26
+Table_Page_2 z K E A A A D F K N A U S F C A D/ C A
+Y
+D Payment_Settlement A NE Kc C8 Bk A J B N Q A U S F A K N D9 A EA B settle_>_0 H P/////////s ~ A ~ A
+J Split_Check A A Kc C8 Bk A J K N T A B D/ D+ A K A B A EA B B P////////+4 A
+B Return_To_Start A A I4 C8 Bk A J K N C A K S F A K A B A EA B A A logout A ~ b
+D Transfer_Tables A C8 Kc C8 Bk C J K N S A B D/ D+ A K A B A EA B supervisor_>_0 H P////////+o Hello A ~ A
+J Server_Report A KJ Kc C8 Bk C J K N D A B D/ D+ A K A B A EA B B P/////////X A
+J Kitchen_Display A NG I3 C8 Bk C J K N M A B D/ D+ A K A B A EA B B P////////x7 A
+f check_list A Lk g Ec IU A E K U D+ A q D B A K A B A EA B 2 A
+y Check_Detail A A g EQ IU A E B S F A q D D A K A B A EA B H 1 B B A A A
+F T20 A Ew Bh Cg BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T21 A Ew DG Cg BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T22 A Ew Er Cg BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T23 A Ew GQ Cg BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T26 A IN Fx BI BE C I K N A A B D/ D+ A B D/ D+ A EA D B A
+F T25 A IN D4 BI BE C I K N A A B D/ D+ A B D/ D+ A EA D B A
+F T24 A IJ CL BI BE C I K N A A B D/ D+ A B D/ D+ A EA D B A
+F T27 A J4 8 BU BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T28 A J4 CV BU BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T29 A J4 Du BU BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T30 A J4 FH BU BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T31 A J4 Gg BU BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+B More A KX Hp BM 4 C I K S P A U S F A B D/ D+ A EA B B y ~ A ~ A
+J Guest_Checks A KJ I3 C8 Bk C J K N I A B D/ D+ A K A B A EA B B P////////+w A
+V ~ A F4 I4 EQ DI A J K N Q A K B C A K A B A EA B A
+D Manager_Reports A C9 I4 C8 Bk C J K N G A B D/ D+ A K A B A EA B supervisor_>_0 H P////////9q Hello A ~ A
+A 

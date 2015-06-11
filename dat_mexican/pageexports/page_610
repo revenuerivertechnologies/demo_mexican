@@ -1,0 +1,24 @@
+vtpos 0 27
+Tacos Ji K E P////////+e D A G F K N A K S F C A D/ C A
+R
+J Modifiers E FP f CM BI C I K U M A U S F A B D/ D+ A EA B B Js A
+J Appetizers E FP Cx CM BI C I K U M A U S F A B D/ D+ A EA B B Je A
+J Specialties E FP D6 CM BI C I K U M A U S F A B D/ D+ A EA B B Jf A
+J Sides E FP FD CM BI C I K U M A U S F A B D/ D+ A EA B B Jg A
+J Salads E FP GM CM BI C I K U M A U S F A B D/ D+ A EA B B Jh A
+J Beverages E FP Bo CM BI C I K U M A U S F A B D/ D+ A EA B B Jd A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+e ~ A A g FQ JE A K K U A A q D B A K A B A A B 2 A
+D Send_&_Stay A Ln Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Jd final A ~ A
+D Send_Order A N4 Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Hz final A ~ A
+C ~ F Hc Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Beef_Taco ~ A
+C ~ F Jl Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Chicken_Taco ~ A
+C ~ F Lu Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Monterrey_Tacos ~ A
+J More E FP Ie CM BI C I K R A A U S F A B D/ D+ A EA B B Ji A
+J Tacos E FP HV CM BI C I K B C A U S F A B D/ D+ A EA B B Ji A
+D BSj Beef_Taco ~ ~ A ~ January_1,_2015 100 100 Adult GP A A A A A A B H A A A A A A
+B ~ A ~ BSj Chicken_Taco ~ ~ A ~ January_1,_2015 100 100 Adult GP A A A A A A B H A A A A A A
+B ~ A ~ BSj Monterrey_Tacos ~ ~ A ~ January_1,_2015 100 100 Adult OD A A A A A A B H A A A A A A
+B ~ A ~ 

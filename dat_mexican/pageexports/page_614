@@ -1,0 +1,29 @@
+vtpos 0 27
+Enchiladas Jm K E P////////+e D A G F K N A K S F C A D/ C A
+T
+J Modifiers E FP f CM BI C I K U M A U S F A B D/ D+ A EA B B Js A
+J More E FP Ie CM BI C I K R A A U S F A B D/ D+ A EA B B Ji A
+J Tostadas E FP D6 CM BI C I K U M A U S F A B D/ D+ A EA B B Jn A
+J Fajitas E FP FD CM BI C I K U M A U S F A B D/ D+ A EA B B Jo A
+J American E FP GN CM BI C I K U M A U S F A B D/ D+ A EA B B Ji A
+J Burritos E FP Bo CM BI C I K U M A U S F A B D/ D+ A EA B B Jl A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+e ~ A A g FQ JE A K K U A A q D B A K A B A A B 2 A
+D Send_&_Stay A Ln Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Jd final A ~ A
+D Send_Order A N4 Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Hz final A ~ A
+C ~ F Jl Bn CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Two_Cheese_Enchiladas ~ A
+C ~ F Lu Bn CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Beef_Enchilada ~ A
+C ~ F Hc Bn CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Cheese_Enchilada ~ A
+C ~ F N3 Bn CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Two_Beef_Enchiladas ~ A
+C ~ F Hc Cw CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Chicken_Enchilada ~ A
+C ~ F Jl Cw CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Two_Chicken_Enchiladas ~ A
+J Enchiladas E FP Cx CM BI C I K B C A U S F A B D/ D+ A EA B B Jm A
+G BSj Two_Cheese_Enchiladas ~ ~ A ~ January_1,_2015 100 100 Adult Il A A A A A A B Y A A A A A A
+B ~ A ~ BSj Beef_Enchilada ~ ~ A ~ January_1,_2015 100 100 Adult Gt A A A A A A B Y A A A A A A
+B ~ A ~ BSj Cheese_Enchilada ~ ~ A ~ January_1,_2015 100 100 Adult Er A A A A A A B Y A A A A A A
+B ~ A ~ BSj Two_Beef_Enchiladas ~ ~ A ~ January_1,_2015 100 100 Adult M9 A A A A A A B Y A A A A A A
+B ~ A ~ BSj Chicken_Enchilada ~ ~ A ~ January_1,_2015 100 100 Adult Gt A A A A A A B L A A A A A A
+B ~ A ~ BSj Two_Chicken_Enchiladas ~ ~ A ~ January_1,_2015 100 100 Adult M9 A A A A A A B Y A A A A A A
+B ~ A ~ 

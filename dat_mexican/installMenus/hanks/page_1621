@@ -1,0 +1,51 @@
+vtpos 0 26
+Vodka_2 ZV K E P////////+e D A D J K N F U S F C A D/ C A
+h
+D Send_&_Stay A KX J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Modifiers A Os JZ BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZJ ~ A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Food A Os Bz BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B cI ~ A ~ A
+B Beverage A Os i BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZI ~ A ~ A
+B Beer A Os DE BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZD ~ A ~ A
+B Liquor A Os EV BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZE ~ A ~ A
+B Cocktails A Os Fm BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZF ~ A ~ A
+B Wine A Os G3 BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZG ~ A ~ A
+B Specials A Os II BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZC ~ A ~ A
+D Send_Order A MY J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 B B final A ~ A
+z ~ A GM J8 CA CA C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A IQ J8 CA CA C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+B Restart A A J8 CA CA A J K N D A U S F A K A B A EA D G A cancel A ~ A
+BT Increase A CE J8 CA CA C I K N R A K B Q A U S F A A D A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A FA IE B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Grey_Goose ~ A
+C ~ A FA HL B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Cooper's_Chase ~ A
+C ~ A FA GR B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Belvedere ~ A
+C ~ A FA FY B8 0 C L K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Absolute_Vanilla ~ A
+C ~ A FA Ef B8 0 C L K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Absolute_Pepper ~ A
+C ~ A FA Dm B8 0 C L K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Absolute_Mandarin ~ A
+C ~ A FA Ct B8 0 C L K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Absolute_Citron ~ A
+C ~ A HA Cs B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Absolute ~ A
+C ~ A HB B0 B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Ketel_One ~ A
+C ~ A HB Dm B8 0 C L K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Square_One_Basil ~ A
+C ~ A FB B1 B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Pearl_(well) ~ A
+C ~ A HB Ef B8 0 C L K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Square_One_Cucumber ~ A
+C ~ A HB FY B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Stoli ~ A
+C ~ A HB GR B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Titos ~ A
+BU Rebuild_or\Delete A EI J8 CA CA C I K N S A U S F A K A B A A D A
+O BOq 1Grey_Goose Grey_Goose ~ B H0 A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Cooper's_Chase Cooper's_Chase ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Belvedere Belvedere ~ B H0 A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Absolute_Vanilla Absolute_Vanilla ~ B DI A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Absolute_Pepper Absolute_Pepper ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Absolute_Mandarin Absolute_Mandrin ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Absolute_Citron Absolute_Citron ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Absolute Absolute ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Ketel_One Ketel_One ~ B GQ A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Square_One_Basil Square_One_Basil ~ B GQ A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Pearl_(well) Pearl_(well) ~ B A A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Square_One_Cucumber Square_One_Cucumber ~ B GQ A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Stoli Stoli ~ B Es A A A A A A B B A A A A A A
+B ~ A ~ BOq 1Titos Titos ~ B Es A A A A A A B B A A A A A A
+B ~ A ~ 

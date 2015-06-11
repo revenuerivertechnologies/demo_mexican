@@ -1,0 +1,77 @@
+vtpos 0 26
+Calzone_Specialties Gy K E P////////+e D A D J K N A U S F C A D/ C A
+1
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+J Split_Check A Lk J4 CI CI C J K N M A U S F A K A B A EA D B P////////+4 A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+BU Rebuild_or\Delete A Eo J8 CI CE C J K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C J K N J A K B Q A U S F A A D A
+J Cocktails A YC l Ck BU C J K N C A B D/ D+ A B D/ D+ A EA B B RZ A
+J Modifiers A am l C8 BU C J K N C A B D/ D+ A B D/ D+ A EA B B Rs A
+J Lunch_Combos E E8 IZ DM BE C I K U D A U S F A B D/ D+ A EA B B Gg A
+J Appetizers F E8 Bo DM BE C I K U C A U S F A B D/ D+ A EA B C Ga A
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B C GV A
+J Pizza E E8 Cw DM BE C I K U J A U S F A B D/ D+ A EA B C Gb A
+J Sandwiches E E8 D4 DM BA C I K U J A U S F A B D/ D+ A EA B C Gc A
+J Wings E E8 E8 DM BE C I K U J A U S F A B D/ D+ A EA B C Gd A
+J Salads E E8 GE DM BE C I K U J A U S F A B D/ D+ A EA B C Ge A
+J Pasta E E8 HM DM BI C I K U J A U S F A B D/ D+ A EA B B Gf A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A ag CM DM CE C A K N Q A U S F A B D/ D+ A EA D A A See_the_Server ~ A
+B Restart A U PI Cw B4 A J K N D A U S F A K A B A EA D E A cancel A ~ A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K N B A U S F A K A B A A D A
+BT Increase A GE PI Cw B4 C J K N B A K B Q A U S F A A D A
+z ~ A I8 PI Cw B4 C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A L0 PI Cw B4 C J K N D A U S F A C D/ D9 A A D B A
+D Item_Printer_Targets A Pc PE DQ B8 A A K N J A U S F A C D/ K A EA D supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K N B A U S F A C D/ D9 A A D A
+D Ordering_is_Complete A X4 PI DY B4 C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+J Seat\Magic A bY PI Cw B4 C J K N M A U S F A K A B A EA D B P////////+4 A
+J Home A JD l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B B A
+J Beer A Kc l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RX A
+J Liquor A L1 l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RW A
+J Cocktails A NO l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RZ A
+J Wine A On l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rv A
+J Modifiers A On Bq BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rs A
+C ~ A Oo Cs BU 8 C M K N Q A U S F A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ E IQ Ch B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Meaty_&_Beefy ~ A
+C ~ E IQ Da B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Veggie_Delight ~ A
+C ~ E IQ ET B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Margherita ~ A
+C ~ E IQ FM B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_The_Zeus ~ A
+C ~ E IQ GF B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Flyin_Hawaiian ~ A
+C ~ E IQ G+ B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Rocky_Balboa ~ A
+C ~ E KR Da B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Dinasaur_BBQ ~ A
+C ~ E KR ET B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Flavor_Country ~ A
+C ~ E KR FM B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Green_Thumb ~ A
+C ~ E KR GF B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_The_Colbert ~ A
+C ~ E KR G+ B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_St._Nick's ~ A
+C ~ E KR H3 B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_BLTO_Pizza ~ A
+C ~ E MS Bo B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Ranchzilla ~ A
+C ~ E MS Ch B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Capriccio ~ A
+C ~ E IQ Bo B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_The_Italian_American ~ A
+C ~ E KR Bo B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Speedy_Gonzalez ~ A
+C ~ E KR Ch B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Bacon_Racheros ~ A
+C ~ E IQ H3 B8 0 C M K D/ P A B D/ D+ A B D/ D+ A EA B A A SP_Chicken_Parm_Pie ~ A
+U BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BWa SP_Meaty_&_Beefy Meaty_&_Beefy ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Veggie_Delight Veggie_Delight ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Margherita Margherita ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_The_Zeus The_Zeus ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Flyin_Hawaiian Flyin_Hawaiian ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Rocky_Balboa Rocky_Balboa ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Dinasaur_BBQ Dinasaur_BBQ ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Flavor_Country Flavor_Country ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Green_Thumb Green_Thumb ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_The_Colbert The_Colbert ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_St._Nick's St._Nick's ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_BLTO_Pizza BLTO_Pizza ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Ranchzilla Ranchzilla ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Capriccio Capriccio ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_The_Italian_American Italian_Am ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Speedy_Gonzalez Speedy_Gonz ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Bacon_Racheros Bacon_Ranch ~ B A A A A A A A B O A A A A A A
+B ~ A ~ BWa SP_Chicken_Parm_Pie Chicken_Parm ~ B A A A A A A A B O A A A A A A
+B ~ A ~ 

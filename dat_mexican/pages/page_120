@@ -1,0 +1,46 @@
+vtpos 0 26
+Modifiers B4 S E P////////+f E A I J K J A r B C C A D/ C J
+e
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+J Continue_Ordering A Xg Oo DQ CE C J B O Q A B D/ D+ A B D/ D+ A EA B G A A
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+C ~ A d8 P////////+A Dg CE C A B D/ R A B D/ D+ A B D/ D+ A EA B C R No_Bread ~ A
+H ~ A Nc k DE BA A A B A M A B D/ I A B D/ D+ A EA B A A B A
+H ~ A Zk k DE BA A A B A M A B D/ I A B D/ D+ A EA B A A C A
+H ~ A Tg k DE BA A A B A M A B D/ I A B D/ D+ A EA B A A Q A
+H ~ A Qg k DA BA A A B A M A B D/ I A B D/ D+ A EA B A A I A
+H ~ A Wl k DA BA A A B A M A B D/ I A B D/ D+ A EA B A A E A
+J Dont_'_Make A HJ Kv FU BI C A z K A A B D/ D+ A B D/ D+ A EA B B p A
+J See_Server A HJ L8 FU BI C A z K A A B D/ D+ A B D/ D+ A EA B B p A
+J Dipping_Sauce A HJ FA FU BE C A t I A A B D/ D+ A B D/ D+ A EA B C B9 A
+J Protiens A HJ GI FU BE C A t I A A B D/ D+ A B D/ D+ A EA B C B+ A
+J Dressings A HJ D8 FU BA C A t I A A B D/ D+ A B D/ D+ A EA B C B8 A
+J Breads A HJ C0 FU BE C A t I A A B D/ D+ A B D/ D+ A EA B C B7 A
+J Veggies A HJ Bs FU BE C A t I A A B D/ D+ A B D/ D+ A EA B C B6 A
+J Fruits A HJ o FU BA C A t I A A B D/ D+ A B D/ D+ A EA B C B5 A
+C ~ A M4 CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Tomato_Soup ~ A
+C ~ A M4 Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Cauliflower_Soup ~ A
+C ~ A M4 GN Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Side_of_Fries ~ A
+C ~ A M4 He Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Side_of_Gnoochi ~ A
+C ~ A M4 Iv Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Side_of_Brussels ~ A
+C ~ A M4 KA Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Side_of_Cauliflower ~ A
+C ~ A M4 E8 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Side_of_Mac_N'_Cheese ~ A
+M BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BPS No_Bread ~ ~ B A A A A A A A A A A A A A A A
+B ~ A ~ BOq Tomato_Soup ~ ~ B Es A A A A A A A N A A A A A A
+B ~ A ~ BOq Cauliflower_Soup ~ ~ B Es A A A A A A A N A A A A A A
+B ~ A ~ BOq Side_of_Fries ~ ~ B Es A A A A A A A M A A A A A A
+B ~ A ~ BOq Side_of_Gnoochi ~ ~ B Es A A A A A A A M A A A A A A
+B ~ A ~ BOq Side_of_Brussels ~ ~ B Es A A A A A A A M A A A A A A
+B ~ A ~ BOq Side_of_Cauliflower ~ ~ B Es A A A A A A A M A A A A A A
+B ~ A ~ BOq Side_of_Mac_N'_Cheese ~ ~ B Es A A A A A A B G A A A A A A
+B ~ A ~ 

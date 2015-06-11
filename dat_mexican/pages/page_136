@@ -1,0 +1,54 @@
+vtpos 0 26
+Scotch CI S E P////////+e D A I F K A A K B A C A D/ C A
+m
+C ~ A ag CM DM CE C J U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Modifiers A am l C8 BU C J t E B A t D/ D+ A B D/ D+ A EA B B B4 A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B E A
+J Beer A Tw l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CA A
+J Wine A V5 l CI BU C J t E B A t D/ D+ A B D/ D+ A EA B B CB A
+J Liquor A Rp l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B B/ A
+J Vodka A HM Bs FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C CC A
+J Rum A HM C0 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C CD A
+J Gin A HM D8 FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C CE A
+J Tequila A HM FA FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C CF A
+J Bourbon A HM GI FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C CG A
+J Whiskey A HM HQ FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B CH A
+J Brandy A HM Jm FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B CJ A
+J Other A HM Kz FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B CL A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Scotch A HM Id FU BE C J r A F A B D/ D+ A B D/ D+ A EA B B CI A
+C ~ A M4 CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Balvenie ~ A
+C ~ A M4 Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Dewar's_(well) ~ A
+C ~ A M4 E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Glenfiddich_12 ~ A
+C ~ A M4 GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Glenlivet_12 ~ A
+C ~ A M4 Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Johhny_Walker_RED ~ A
+C ~ A M4 It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Johnny_Walker_Black ~ A
+C ~ A M4 J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Johnny_Walker_BLUE ~ A
+C ~ A M4 LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Lagavullin_12 ~ A
+C ~ A Pl CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Laphroaig_12 ~ A
+C ~ A Pl Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Macallan_12 ~ A
+C ~ A Pl E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Oban ~ A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C BE A
+J Cocktails A YC l Ck BU C J t E B A t D/ D+ A B D/ D+ A EA B B CT A
+M BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Balvenie ~ ~ A V4 A A A A A A D B A B A A A A
+B ~ A ~ BOq Dewar's_(well) Dewar's ~ A GQ A A A A A A D B A B A A A A
+B ~ A ~ BOq Glenfiddich_12 ~ ~ A RM A A A A A A D B A B A A A A
+B ~ A ~ BOq Glenlivet_12 ~ ~ A RM A A A A A A D B A B A A A A
+B ~ A ~ BOq Johhny_Walker_RED ~ ~ A K8 A A A A A A D B A B A A A A
+B ~ A ~ BOq Johnny_Walker_Black ~ ~ A OE A A A A A A D B A B A A A A
+B ~ A ~ BOq Johnny_Walker_BLUE ~ ~ A Bdw A A A A A A D B A B A A A A
+B ~ A ~ BOq Lagavullin_12 ~ ~ A Xc A A A A A A D B A B A A A A
+B ~ A ~ BOq Laphroaig_12 ~ ~ A Sw A A A A A A D B A B A A A A
+B ~ A ~ BOq Macallan_12 ~ ~ A Xc A A A A A A D B A B A A A A
+B ~ A ~ BOq Oban ~ ~ A ZA A A A A A A D B A B A A A A
+B ~ A ~ 

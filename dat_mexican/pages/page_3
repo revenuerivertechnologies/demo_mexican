@@ -1,0 +1,76 @@
+vtpos 0 26
+Breakfast_Flatbreads_&_Sandwiches D H Q P////////+e D A I J K J A K B C C A D/ C J
+u
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+J Modifiers A aU FM DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B B B4 A
+J Pita_Combinations A HU Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C G A
+C ~ A LY E8 EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Baked_French_Toast ~ A
+C ~ A aM o DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Sides A Xk c CQ o F A D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+C ~ A SI BI DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Side:_Paleo_Hollandaise ~ A
+C ~ A SI DQ DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Side:_Seasonal_Potatoes ~ A
+C ~ A Vk DM DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Side:_Bean_Patty ~ A
+C ~ A Vk BI DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Side:_Turkey_Sausage_Patty ~ A
+C ~ A SI FQ DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B X Side:_Local_Egg ~ A
+C ~ A Vk FQ DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B X Side:_Two_Local_Eggs ~ A
+C ~ A OI Hg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Moroccan_Chicken_Sandwich ~ A
+C ~ A Rk Hg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Florentine_Sandwich ~ A
+C ~ A VA Hg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Eugene_Sandwich ~ A
+J Sandwiches A VI c Cw o F A D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+J Baked_Goods_&_Desserts A Zs M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B L A
+J Pitas A Sc g Ck o F A D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+C ~ A aM DE DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A To_Go ~ A
+J Salads_Specials A SU M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B J A
+J Breakfast_Pita_&_Sandwiches A K8 M4 Dc B0 C G r B I A B D/ D+ A B D/ D+ A EA B A A A
+C ~ A HQ Kg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Sausage_&_Potato ~ A
+C ~ A Kw Kg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Bean_Patty_&_Potato ~ A
+C ~ A OI Kg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Moroccan_Chicken_&_Potato ~ A
+C ~ A Rk Kg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Florentine_&_Potato ~ A
+C ~ A VA Kg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Eugene_&_Potato ~ A
+C ~ A HE g DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Florentine_Benny ~ A
+C ~ A Kg g DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Eugene_Benny ~ A
+C ~ A Nw g DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Salmon_Benny ~ A
+C ~ A Ks Hc DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y B&T&E_w/_Side_Salad ~ A
+C ~ A YU Hg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Kirby ~ A
+C ~ A HI E8 EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Biscuit_&_Mushroom_Gravy ~ A
+C ~ A YY Kg DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Quiche_Muffin ~ A
+C ~ A HQ Hg DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Sausage_Sandwich ~ A
+C ~ A HQ Cs EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Quinoa_Breakfast_Bowl ~ A
+J Kebabs_Sandwiches_Soups A Oo M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B F A
+J Beverages A WA M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B o A
+a BOq Baked_French_Toast ~ ~ A Im A A A A A A A H A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Side:_Paleo_Hollandaise ~ Side:_Paleo A D6 A A A A A A A H A A A A A A
+B ~ A ~ BOq Side:_Seasonal_Potatoes ~ Side:_Potatoes A Fe A A A A A A A G A A A A A A
+B ~ A ~ BOq Side:_Bean_Patty ~ Side:_Bn_Patty A DI A A A A A A A G A A A A A A
+B ~ A ~ BOq Side:_Turkey_Sausage_Patty ~ Side:_T_Patty A ET A A A A A A A G A A A A A A
+B ~ A ~ BOq Side:_Local_Egg ~ Side:_Egg A D6 A A A A A A A G A A A A A A
+B ~ A ~ BOq Side:_Two_Local_Eggs ~ Side:_Two_Eggs A GQ A A A A A A A G A A A A A A
+B ~ A ~ BOq Moroccan_Chicken_Sandwich ~ Moroccan_Sand A I/ A A A A A A A H A A A A A A
+B ~ A ~ BOq Florentine_Sandwich ~ Florentine A Im A A A A A A A H A A A A A A
+B ~ A ~ BOq Eugene_Sandwich ~ ~ A JY A A A A A A A H A A A A A A
+B ~ A ~ BOq To_Go ~ ******To_Go****** A P/////////O A A A A A A A X A A A A A A
+B ~ A ~ BOq Sausage_&_Potato ~ Sausage_Potato A OE A A A A A A A H A A A A A A
+B ~ A ~ BOq Bean_Patty_&_Potato ~ Bean_Pty_Potat A M5 A A A A A A A H A A A A A A
+B ~ A ~ BOq Moroccan_Chicken_&_Potato ~ Moroccan_&_Pot A PP A A A A A A A H A A A A A A
+B ~ A ~ BOq Florentine_&_Potato ~ Florentine_Pot A Od A A A A A A A H A A A A A A
+B ~ A ~ BOq Eugene_&_Potato ~ Eugene_Potato A Po A A A A A A A H A A A A A A
+B ~ A ~ BOq Florentine_Benny ~ ~ A Sw A A A A A A A H A A A A A A
+B ~ A ~ BOq Eugene_Benny ~ ~ A Ti A A A A A A A H A A A A A A
+B ~ A ~ BOq Salmon_Benny ~ ~ A XD A A A A A A A H A A A A A A
+B ~ A ~ BOq B&T&E_w/_Side_Salad ~ ~ A Ti A A A A A A A H A A A A A A
+B ~ A ~ BOq Kirby ~ ~ A Im A A A A A A A H A A A A A A
+B ~ A ~ BOq Biscuit_&_Mushroom_Gravy ~ Biscuit_M_Gvy A KK A A A A A A A H A A A A A A
+B ~ A ~ BOq Quiche_Muffin ~ ~ A HC A A A A A A A G A A A A A A
+B ~ A ~ BOq Sausage_Sandwich ~ Sausage_Kirby A Im A A A A A A A H A A A A A A
+B ~ A ~ BOq Quinoa_Breakfast_Bowl ~ ~ A Kj A A A A A A A H A A A A A A
+B ~ A ~ 

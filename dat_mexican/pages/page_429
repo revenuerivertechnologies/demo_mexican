@@ -1,0 +1,83 @@
+vtpos 0 26
+Calzone_Toppings_2 Gt K E P////////+e D A D J K A A U S F C A D/ C A
+4
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+J Split_Check A Lk J4 CI CI C J K N M A U S F A K A B A EA D B P////////+4 A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+BU Rebuild_or\Delete A Eo J8 CI CE C J K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C J K N J A K B Q A U S F A A D A
+J Cocktails A YC l Ck BU C J K N C A B D/ D+ A B D/ D+ A EA B B RZ A
+J Modifiers A am l C8 BU C J K N C A B D/ D+ A B D/ D+ A EA B B Rs A
+J Lunch_Combos E E8 IZ DM BE C I K U D A U S F A B D/ D+ A EA B B Gg A
+J Appetizers F E8 Bo DM BE C I K U C A U S F A B D/ D+ A EA B C Ga A
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B C GV A
+J Pizza E E8 Cw DM BE C I K U J A U S F A B D/ D+ A EA B C Gb A
+J Sandwiches E E8 D4 DM BA C I K U J A U S F A B D/ D+ A EA B C Gc A
+J Wings E E8 E8 DM BE C I K U J A U S F A B D/ D+ A EA B C Gd A
+J Salads E E8 GE DM BE C I K U J A U S F A B D/ D+ A EA B C Ge A
+J Pasta E E8 HM DM BI C I K U J A U S F A B D/ D+ A EA B B Gf A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A ag CM DM CE C A K N Q A U S F A B D/ D+ A EA D A A See_the_Server ~ A
+B Restart A U PI Cw B4 A J K N D A U S F A K A B A EA D E A cancel A ~ A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K N B A U S F A K A B A A D A
+BT Increase A GE PI Cw B4 C J K N B A K B Q A U S F A A D A
+z ~ A I8 PI Cw B4 C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A L0 PI Cw B4 C J K N D A U S F A C D/ D9 A A D B A
+D Item_Printer_Targets A Pc PE DQ B8 A A K N J A U S F A C D/ K A EA D supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K N B A U S F A C D/ D9 A A D A
+D Ordering_is_Complete A X4 PI DY B4 C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+J Seat\Magic A bY PI Cw B4 C J K N M A U S F A K A B A EA D B P////////+4 A
+J Home A JD l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B B A
+J Beer A Kc l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RX A
+J Liquor A L1 l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RW A
+J Cocktails A NO l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RZ A
+J Wine A On l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rv A
+J Modifiers A On Bq BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rs A
+C ~ A Oo Cs BU 8 C M K N Q A U S F A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ E IQ Ch B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Bacon ~ A
+C ~ E IQ Bo B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Anchovies ~ A
+C ~ E IQ Da B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Black_Olives ~ A
+C ~ E IQ ET B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Fresh_Basil ~ A
+C ~ E IQ FM B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Fresh_Garlic ~ A
+C ~ E IQ GF B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Green_Peppers ~ A
+C ~ E IQ G+ B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Ground_Beef ~ A
+C ~ E MQ Bo B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Ham ~ A
+C ~ E MQ Ch B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Jalapenos ~ A
+C ~ E MQ Da B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Mushrooms ~ A
+C ~ E MQ ET B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Red_Onions ~ A
+C ~ E MQ FM B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_White_Onions ~ A
+C ~ E MQ G+ B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Pepperoni ~ A
+C ~ E KQ Bo B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Pineapple ~ A
+C ~ E KQ Ch B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Salami ~ A
+C ~ E KQ Da B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Sausage ~ A
+C ~ E KQ ET B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Spinach ~ A
+C ~ E KQ FM B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Turkey ~ A
+C ~ E KQ GF B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Feta ~ A
+C ~ E KQ G+ B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Cheddar ~ A
+C ~ E MQ GF B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A CZ_Banana_Peppers ~ A
+X BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BWa CZ_Bacon Bacon ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Anchovies Anchovies ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Black_Olives Black_Olives ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Fresh_Basil Fresh_Basil ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Fresh_Garlic Fresh_Garlic ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Green_Peppers Green_Peppers ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Ground_Beef Ground_Beef ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Ham Ham ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Jalapenos Jalapenos ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Mushrooms Mushrooms ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Red_Onions Red_Onions ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_White_Onions White_Onions ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Pepperoni Pepperoni ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Pineapple Pineapple ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Salami Salami ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Sausage Sausage ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Spinach Spinach ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Turkey Turkey ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Feta Feta ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Cheddar Cheddar ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ BWa CZ_Banana_Peppers Banana_Peps ~ B BL A A A A A A B O A A A A A A
+B ~ A ~ 

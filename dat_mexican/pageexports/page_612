@@ -1,0 +1,26 @@
+vtpos 0 27
+Cook_Temp Jk K E P////////+e F A G F K N A K S F C A D/ C A
+R
+J Modifiers E FP f CM BI C I K U M A U S F A B D/ D+ A EA B B Js A
+J Tostadas E FP D6 CM BI C I K U M A U S F A B D/ D+ A EA B B Jn A
+J Fajitas E FP FD CM BI C I K U M A U S F A B D/ D+ A EA B B Jo A
+J Enchiladas E FP Cx CM BI C I K U M A U S F A B D/ D+ A EA B B Jm A
+J Burritos E FP Bo CM BI C I K U M A U S F A B D/ D+ A EA B B Jl A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+e ~ A A g FQ JE A K K U A A q D B A K A B A A B 2 A
+D Send_&_Stay A Ln Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Jd final A ~ A
+D Send_Order A N4 Jk CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Hz final A ~ A
+C ~ F Hc Cx CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Medium_Rare ~ A
+C ~ F Hc D6 CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Medium ~ A
+C ~ F Hc FD CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Medium_Well ~ A
+C ~ F Hc GM CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Well_Done ~ A
+C ~ F Hc Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Rare ~ A
+J American E FP GN CM BI C I K B C A U S F A B D/ D+ A EA B B Ji A
+F BSj Medium_Rare ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Medium ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Medium_Well ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Well_Done ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Rare ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ 

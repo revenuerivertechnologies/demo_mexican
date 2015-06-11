@@ -1,0 +1,43 @@
+vtpos 0 27
+GS_Sauce_Mod gM K E P////////+e D A G F K N A K S F C A D/ C A
+d
+D Send_Order A N4 Jk CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B fP final A ~ A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+H ~ A Fc g B0 BI A I B S M A B D/ F A B D/ D+ A EA B A A B A
+H ~ A Ms g B0 BI A I B S M A B D/ F A B D/ D+ A EA B A A C A
+H ~ A JE g B0 BI A I B S M A B D/ F A B D/ D+ A EA B A A Q A
+H ~ A HQ g B0 BI A I B S M A B D/ F A B D/ D+ A EA B A A I A
+H ~ A K5 g B0 BI A I B S M A B D/ F A B D/ D+ A EA B A A E A
+J Cook E Dn Cx B0 BI C I K U M A U S F A B D/ D+ A EA B B gN A
+J Rice E Dn FD B0 BI C I K U M A U S F A B D/ D+ A EA B B gP A
+J Proteins E Dn GM B0 BI C I K U M A U S F A B D/ D+ A EA B B gU A
+J Nuts E Dn HV B0 BI C I K U M A U S F A B D/ D+ A EA B B gW A
+J Veggies E Dn D6 B0 BI C I K U M A U S F A B D/ D+ A EA B B gO A
+C ~ F Fc HV B0 BI C H K N C A B D/ D+ A B D/ D+ A EA B A A Szechuan_Sauce ~ A
+C ~ F Fc Bo B0 BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Brown_Sauce ~ A
+C ~ F Fc Cx B0 BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Garlic_Sauce ~ A
+C ~ F Fc D6 B0 BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Lemon_Sauce ~ A
+C ~ F Fc FD B0 BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Royal_Sauce ~ A
+C ~ F Fc GM B0 BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Sesame_Sauce ~ A
+C ~ F HR Cx B0 BI C H K N J A B D/ D+ A B D/ D+ A EA B A A White_Sauce ~ A
+C ~ F HR D6 B0 BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Oil ~ A
+C ~ F HR Bo B0 BI C H K N C A B D/ D+ A B D/ D+ A EA B A A TSO's_Sauce ~ A
+C ~ F HR FD B0 BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Sauce ~ A
+J Sauces E Dn Bo B0 BI C I K B C A U S F A B D/ D+ A EA B B gM A
+D Send_&_Stay A Ln Jk CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B gM final A ~ A
+e ~ A A g Do JE A K K U A A q D B A K A B A A B 2 A
+J Food E Do g B0 BI C I K U M A U S F A B D/ D+ A EA B B fi A
+J Extras E Dn Ie B0 BI C I K U M A U S F A B D/ D+ A EA B B gV A
+K BSj Szechuan_Sauce ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Brown_Sauce ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Garlic_Sauce ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Lemon_Sauce ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Royal_Sauce ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Sesame_Sauce ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj White_Sauce ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Oil ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj TSO's_Sauce ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Sauce ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ 

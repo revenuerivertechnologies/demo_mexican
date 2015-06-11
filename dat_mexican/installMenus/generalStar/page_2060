@@ -1,0 +1,37 @@
+vtpos 0 26
+GS_Sauce_Mod gM K E P////////+e D A D F K N A K S F C A D/ C A
+Z
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B B fV A
+H ~ A JI g BY 0 A M B S M A B D/ F A B D/ D+ A EA B A A B A
+H ~ A Oo g BY 0 A M B S M A B D/ F A B D/ D+ A EA B A A C A
+H ~ A L4 g BY 0 A M B S M A B D/ F A B D/ D+ A EA B A A Q A
+H ~ A Kg g BY 0 A M B S M A B D/ F A B D/ D+ A EA B A A I A
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+BU Rebuild_or\Delete A Eo J8 CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C I K N J A K B Q A U S F A A D A
+D Send_&_Stay A Ln J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+C ~ F IQ Bk Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B A A Brown_Sauce ~ A
+C ~ F IQ Cx Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B A A Garlic_Sauce ~ A
+C ~ F IQ D+ Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B A A Lemon_Sauce ~ A
+C ~ F IQ FL Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B A A Royal_Sauce ~ A
+C ~ F IQ GY Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B A A Sesame_Sauce ~ A
+C ~ F IQ Hl Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B A A Szechuan_Sauce ~ A
+C ~ F Kx Bk Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B A A TSO's_Sauce ~ A
+C ~ F Kx Cx Cc BI C I K N P A B D/ D+ A B D/ D+ A EA B A A White_Sauce ~ A
+H ~ A NR g BY 0 A M B S M A B D/ F A B D/ D+ A EA B A A E A
+J Sauces E E8 Bp DM BA C I K U E A U S F A B D/ D+ A EA B B gM A
+J Cook E E8 Cu DM BA C I K U E A U S F A B D/ D+ A EA B B gN A
+J Vegetables E E8 Dz DM BA C I K U E A U S F A B D/ D+ A EA B B gO A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 G A final A ~ A
+I BSj Brown_Sauce ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj Garlic_Sauce ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj Lemon_Sauce ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj Royal_Sauce ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj Sesame_Sauce ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj Szechuan_Sauce ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj TSO's_Sauce ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj White_Sauce ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ 

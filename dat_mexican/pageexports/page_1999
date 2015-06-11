@@ -1,0 +1,40 @@
+vtpos 0 27
+Check_Out_Page fP K E A A A G F K N A U S C C A D/ C A
+k
+e ~ A A g Do JE A K K U A A q D B A K A B A A B 2 A
+J Apps_&_Soups E Dn Cx B0 BI C I K U M A U S F A B D/ D+ A EA B B fa A
+J Modifiers E Dn f B0 BI C I K U M A U S F A B D/ D+ A EA B B gM A
+J Beverages E Dn Bo B0 BI C I K U M A U S F A B D/ D+ A EA B B fV A
+D Enter_Payment_Type A N0 Jk CI CI C F K N Q A U S F A C D/ B A EA D checkbalanced_=_0 A A finalize A ~ A
+E Cash A OA Fw CA B4 C J K N Q A U S F A C D/ B A EA B A A A
+E Coupon A OA g CA Bw C A K N R A U S F A C D/ B A EA B D A A
+J No_Coupons_Are_Defined A OA BA B4 BQ F A K N D+ A U S F A B D/ D+ A EA B A A A
+E Discount A OA CQ CA Bw C A K N R A U S F A C D/ B A EA B I A A
+J No_Discounts_Are_Defined A OE Cw B4 BQ F A K N D+ A U S F A B D/ D+ A EA B A A A
+E Debit\Credit A OA EA CA Bw C A K N R A U S F A C D/ B A EA B C A A
+J No_Debit_or_Credic_Cards_Are_Defined A OE EY B4 BU F A K N D+ A U S F A B D/ D+ A EA B A A A
+B 7 A Iw CQ Bs Bs C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 8 A Kg CQ Bs Bs C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 9 A MQ CQ Bs Bs C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 4 A Iw EA Bs Bs C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 5 A Kg EA Bs Bs C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 6 A MQ EA Bs Bs C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 2 A Kg Fw Bs Bs C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 3 A MQ Fw Bs Bs C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 1 A Iw Fw Bs Bs C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 0 A Iw Hg Bs Bw C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B 00 A Kg Hg Cc Bw C J B U D+ A U S F A K A B A EA B A A ~ A ~ A
+B Clear_All_Entries A MQ g Bs Bs C A B D/ P A B D/ C A K A B A EA B A A undo A ~ A
+B Back\Space A Iw g Bs Bs C A B D/ R A B D/ C A K A B A EA B A A backspace A ~ A
+B Clear_Input_Amount A Kg g Bs Bs C A B D/ Q A B D/ C A K A B A EA B A A clear A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+D Finalize A N0 Jk CI CI C J K N Q A U S F A C D/ B A EA D settle_>_-1 A A finalize A ~ A
+J Entrees E Dn D6 B0 BI C I K U M A U S F A B D/ D+ A EA B B fi A
+J Combos E Dn FD B0 BI C I K U M A U S F A B D/ D+ A EA B B gQ A
+J Kids E Dn GM B0 BI C I K U M A U S F A B D/ D+ A EA B B gS A
+J Catering E Dn HV B0 BI C I K U M A U S F A B D/ D+ A EA B B gT A
+J Print_Receipt A FY II DQ Y F H D D9 D+ A B D/ D+ A B D/ D+ A EA B A A A
+g ~ A Fc c DU JI A E K S F A o A B A K A B A A B 1.5 A
+A 

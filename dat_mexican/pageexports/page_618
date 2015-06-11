@@ -1,0 +1,27 @@
+vtpos 0 27
+Early_Bird_2 Jq K E P////////+e F A G F K N A K S F C A D/ C A
+S
+J Modifiers E FP f CM BI C I K U M A U S F A B D/ D+ A EA B B Js A
+J Appetizers E FP Cx CM BI C I K U M A U S F A B D/ D+ A EA B B Je A
+J Sides E FP FD CM BI C I K U M A U S F A B D/ D+ A EA B B Jg A
+J Salads E FP GM CM BI C I K U M A U S F A B D/ D+ A EA B B Jh A
+J Beverages E FP Bo CM BI C I K U M A U S F A B D/ D+ A EA B B Jd A
+J Tacos E FP HV CM BI C I K U M A U S F A B D/ D+ A EA B B Ji A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+e ~ A A g FQ JE A K K U A A q D B A K A B A A B 2 A
+D Send_&_Stay A Ln Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Jd final A ~ A
+D Send_Order A N4 Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Hz final A ~ A
+C ~ F Hc Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B F A Deluxe_Burrito_Entree ~ A
+C ~ F Hc Cx CI BI C H K N J A B D/ D+ A B D/ D+ A EA B F A Special_Monterrey_Entree ~ A
+C ~ F Hc D6 CI BI C H K N J A B D/ D+ A B D/ D+ A EA B F A Taco_Dinner_Entree ~ A
+C ~ F Hc FD CI BI C H K N J A B D/ D+ A B D/ D+ A EA B F A Mexican_Dinner_Entree ~ A
+C ~ F Hc GM CI BI C H K N J A B D/ D+ A B D/ D+ A EA B F A Triple_Combo_Entree ~ A
+J Specialties E FP D6 CM BI C I K B C A U S F A B D/ D+ A EA B B Jf A
+F BSj Deluxe_Burrito_Entree Deluxe_Burrito ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B H A A A A A A
+B ~ A ~ BSj Special_Monterrey_Entree Special_Monterrey ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B H A A A A A A
+B ~ A ~ BSj Taco_Dinner_Entree Taco_Dinner ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B H A A A A A A
+B ~ A ~ BSj Mexican_Dinner_Entree Mexican_Dinner ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B H A A A A A A
+B ~ A ~ BSj Triple_Combo_Entree Triple_Combo ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B H A A A A A A
+B ~ A ~ 

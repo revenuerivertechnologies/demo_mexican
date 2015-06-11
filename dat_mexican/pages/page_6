@@ -1,0 +1,37 @@
+vtpos 0 26
+Pita_Combinations G H Q P////////+e D A I J K J A K B C C A D/ C J
+Z
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Bakery A Yw Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C L A
+J Salads_Specials A Ro Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C J A
+J Coffee A VM Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C o A
+J Kebabs_Sandwiches_Soups A OI Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C F A
+J Breakfast_Pita_&_Sandwiches A Ko Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C D A
+J Pita_Combinations A HI Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C G A
+C ~ A Ko F4 DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+C ~ A HQ Kg DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B H Garden_of_Plenty ~ A
+C ~ A Nw Kg DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B H Kefte ~ A
+C ~ A RA Kg DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B H Chicken_Salad ~ A
+C ~ A aw Kg DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B H Falafel_Pita ~ A
+C ~ A Xg Kg DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B H Thanksgiving_Meatball ~ A
+C ~ A UQ Kg DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B H Asian_Chicken ~ A
+C ~ A HQ F4 DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A To_Go ~ A
+J Modifiers A OA F4 DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B B B4 A
+I BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq Garden_of_Plenty ~ ~ A Im A A A A A A A C A A A A A A
+B ~ A ~ BOq Kefte ~ ~ A Im A A A A A A A C A A A A A A
+B ~ A ~ BOq Chicken_Salad ~ ~ B A A A A A A A A M A A A A A A
+B ~ A ~ BOq Falafel_Pita ~ ~ A Im A A A A A A A C A A A A A A
+B ~ A ~ BOq Thanksgiving_Meatball ~ Thanksgiving A Im A A A A A A A C A A A A A A
+B ~ A ~ BOq Asian_Chicken ~ ~ A Im A A A A A A A C A A A A A A
+B ~ A ~ BOq To_Go ~ ******To_Go****** A P/////////O A A A A A A A X A A A A A A
+B ~ A ~ 

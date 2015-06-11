@@ -1,0 +1,47 @@
+vtpos 0 26
+General_Journal P////////xS D S A A A D F K J A K B A C A D/ C G
+r
+J General_Journal A EA LE CA 4 A A K D9 T A D D9 C A K A B A EA B A A A
+G Blah,_Blah,_Yada,_Yada...\\May_have_up_to_7_lines/parts.\\This_is_a_2-part_Journal_Entry. A Ec GM Cw Cg F E D D9 A A C D/ B A C D/ B A A B A
+G $_9,999,999.99 A JE Gk Bw Y F E D D9 A A C D/ B A C D/ B A A B A
+G 5000 A Cg Gk B8 Y F E D D9 A A C D/ B A C D/ B A A B A
+G 4000 A Cg GM B8 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Credit A JE Fw B4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Debit A HM Fw B4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Explanation A Ec Fw Cw Y F E D D9 A A C D/ B A C D/ B A A B A
+G Account_# A Cg Fw B8 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Date A I Fw CY Y F E D D9 A A C D/ B A C D/ B A A B A
+G $_9,999,999.99 A HM GM Bw Y F E D D9 A A C D/ B A C D/ B A A B A
+G September_31,_2000 A I GM CY Y F E D D9 A A C D/ B A C D/ B A A B A
+G Blah,_Blah,_Yada,_Yada...\\May_have_up_to_7_lines/parts.\\This_is_a_2-part_Journal_Entry. A Ec Bg Cw Cg F E D D9 A A C D/ B A C D/ B A A B A
+G $_9,999,999.99 A JE B4 Bw Y F E D D9 A A C D/ B A C D/ B A A B A
+G 5000 A Cg B4 B8 Y F E D D9 A A C D/ B A C D/ B A A B A
+G 4000 A Cg Bg B8 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Credit A JE BE B4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Debit A HM BE B4 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Explanation A Ec BE Cw Y F E D D9 A A C D/ B A C D/ B A A B A
+G Account_# A Cg BE B8 Y F E D D9 A A C D/ B A C D/ B A A B A
+G Date A I BE CY Y F E D D9 A A C D/ B A C D/ B A A B A
+G Standard_Entry A D0 FQ EM Y F E D D9 A A C D/ B A C D/ B A A B A
+G General_Journal A D4 k EM Y F E D D9 A A C D/ B A C D/ B A A B A
+G $_9,999,999.99 A HM Bg Bw Y F E D D9 A A C D/ B A C D/ B A A B A
+G September_31,_2000 A I Bg CY Y F E D D9 A A C D/ B A C D/ B A A B A
+B ~ A OQ GQ Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ Hs Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ JI Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B Inactivate_Account A OQ g Bs Bc E A D D9 T A K D9 C A K A B A EA B A A DELETE A ~ A
+B Find A OQ E0 Bs Bc C A D D9 Q A K D9 C A K A B A EA B A A ~ A ~ A
+B Edit_Name A OQ B8 Bs Bc C A D D9 S A K D9 C A K A B A EA B A A ~ A ~ A
+B Add_New_Account A OQ DY Bs Bc C A D D9 U A K D9 C A K A B A EA B A A NEW A ~ A
+J ~ A OQ g Bs Kk C E K A A A K B B A K A B A EA B A A A
+J ~ A E k Lo Eg C E K A A A K B B A K A B A EA B A A A
+J ~ A E FQ Lo Eg C E K A A A K B B A K A B A EA B A A A
+J General_Ledger A A LE CA 4 A A D D9 G A K D9 C A K A B A EA B C P////////xU A
+J Chart_of_Accounts A CA LE CA 4 A A D D9 U A K D9 C A K A B A EA B C P////////xT A
+J CR/CD A GA LE CA 4 A A D D9 R A K D9 C A K A B A EA B C P////////xR A
+J Payables_Ledger A IA LE CA 4 A A D D9 M A K D9 C A K A B A EA B C P////////xQ A
+J Receivables_Ledger A KA LE CA 4 A A D D9 S A K D9 C A K A B A EA B C P////////xP A
+J Fixed_Assets A MA LE CA 4 A A D D9 P A K D9 C A K A B A EA B C P////////xM A
+B Return A OA LE CA 4 C A D D9 Q A K D9 C A K A B A EA B D A save A ~ A
+J ~ A A LE QA 4 C E B D/ A A K B B A K A B A EA B A A A
+A 

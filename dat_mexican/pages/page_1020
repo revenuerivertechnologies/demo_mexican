@@ -1,0 +1,10 @@
+vtpos 0 26
+Settlement_Options P8 A D9 A A A I J K J A K B C C A D/ C E
+G
+E Gift_Card A NI Co DE BY C A B D/ S A B D/ D+ A B D/ D+ A EA B E A A
+E Comp A TY Co DE BY C A B D/ S A B D/ D+ A B D/ D+ A EA B F A A
+E Gratuity\15% A NI BM DE BY C A B D/ S A B D/ D+ A B D/ D+ A EA B V Xc A
+B Tax_Exempt A QQ BM DE BY C A B D/ S A B D/ D+ A B D/ D+ A EA B A A taxexempt A ~ A
+E Employee_Meal A TY BM DE BY C A B D/ S A B D/ D+ A B D/ D+ A EA B K A A
+E Tip_into_Drawer A Wg BM DE BY C A B D/ S A B D/ D+ A B D/ D+ A EA B J A A
+A 

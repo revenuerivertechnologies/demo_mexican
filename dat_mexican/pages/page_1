@@ -1,0 +1,27 @@
+vtpos 0 26
+Quick_Bar B K E P////////+d C D D F K N A U S F C A D/ C A
+X
+B Beverage A Os i BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZI ~ A ~ A
+B Beer A Os DE BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZD ~ A ~ A
+B Liquor A Os EV BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZE ~ A ~ A
+B Cocktails A Os Fm BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZF ~ A ~ A
+B Wine A Os G3 BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZG ~ A ~ A
+B Specials A Os II BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZC ~ A ~ A
+B Happy_Hour A Os JZ BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZH ~ A ~ A
+D Send_Order A CE J8 CA CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 B B final A ~ A
+J 6 A OJ Ks g s A J D D9 M A B D/ D+ A B D/ D+ A EA B A A A
+J 5 A K4 Ks g s A J D D9 M A B D/ D+ A B D/ D+ A EA B A A A
+J 3 A OH E8 g s A J D D9 M A B D/ D+ A B D/ D+ A EA B A A A
+J 2 A K4 E8 g s A J D D9 M A B D/ D+ A B D/ D+ A EA B A A A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+J 4 A Ho Ks g s A J D D9 M A B D/ D+ A B D/ D+ A EA B A A A
+J 1 A Hn E8 g s A J D D9 M A B D/ D+ A B D/ D+ A EA B A A A
+B Restart A A J8 CA CA A J K N D A U S F A K A B A EA D E A cancel A ~ A
+y Check_Detail A E5 GQ DQ Fw A E B S F A K C C A K A B A EA B H 1 B B E D A
+y Check_Detail A IK GQ DQ Fw A E B S F A K C C A K A B A EA B H 1 B B F D A
+y Check_Detail A Lb GQ DQ Fw A E B S F A K C C A K A B A EA B H 1 B B G D A
+y Check_Detail A Lb f DQ Fw A E B S F A K C C A K A B A EA B H 1 B B D D A
+y Check_Detail A IK f DQ Fw A E B S F A K C C A K A B A EA B H 1 B B C D A
+y Check_Detail A E5 f DQ Fw A E B S F A K C C A K A B A EA B H 1 B B B D A
+B Food A Os Bz BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B cI ~ A ~ A
+A 

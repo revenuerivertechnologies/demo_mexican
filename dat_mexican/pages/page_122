@@ -1,0 +1,72 @@
+vtpos 0 26
+Veggie_Mods B6 S E P////////+e D A I F K A A K B A C A D/ C A
+x
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+J Dipping_Sauce A HJ FA FU BE C J t I A A B D/ D+ A B D/ D+ A EA B C B9 A
+J Protiens A HJ GI FU BE C J t I A A B D/ D+ A B D/ D+ A EA B C B+ A
+J Dressings A HJ D8 FU BA C J t I A A B D/ D+ A B D/ D+ A EA B C B8 A
+J Breads A HJ C0 FU BE C J t I A A B D/ D+ A B D/ D+ A EA B C B7 A
+BA ~ A RE RE Co Bk C J K J Q A K B Q A C D/ D9 A A B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A d8 P////////+A Dg CE C A B D/ R A B D/ D+ A B D/ D+ A EA B C R No_Bread ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+J Continue_Ordering A Xg Oo DQ CE C J B O Q A B D/ D+ A B D/ D+ A EA B G A A
+H ~ A Nc k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A B A
+H ~ A Zk k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A C A
+H ~ A Tg k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A Q A
+J Full A Q4 Oo DM CE A J B O Q A B D/ D+ A B D/ D+ A EA B B H A
+J Mega A UM Oo DM CE A J B O Q A B D/ D+ A B D/ D+ A EA B B I A
+H ~ A Qg k DA BA A J B A M A B D/ I A B D/ D+ A EA B A A I A
+H ~ A Wl k DA BA A J B A M A B D/ I A B D/ D+ A EA B A A E A
+BA ~ A RE RE Co Bk C J K J Q A K B Q A C D/ D9 A A B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A d8 P////////+A Dg CE C A B D/ R A B D/ D+ A B D/ D+ A EA B C R No_Bread ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+H ~ A Nc k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A B A
+H ~ A Zk k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A C A
+H ~ A Tg k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A Q A
+J Full A Q4 Oo DM CE A J B O Q A B D/ D+ A B D/ D+ A EA B B H A
+J Mega A UM Oo DM CE A J B O Q A B D/ D+ A B D/ D+ A EA B B I A
+H ~ A Qg k DA BA A J B A M A B D/ I A B D/ D+ A EA B A A I A
+H ~ A Wl k DA BA A J B A M A B D/ I A B D/ D+ A EA B A A E A
+J Dont_'_Make A HJ Kv FU BI C J z K A A B D/ D+ A B D/ D+ A EA B B p A
+J See_Server A HJ L8 FU BI C J z K A A B D/ D+ A B D/ D+ A EA B B p A
+J Fruits A HJ o FU BA C J t I A A B D/ D+ A B D/ D+ A EA B C B5 A
+C ~ A M4 It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Mushrooms ~ A
+C ~ A M4 CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Tomato ~ A
+C ~ A M4 Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Lettuce ~ A
+C ~ A M4 E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Spinach ~ A
+C ~ A M4 GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Onions ~ A
+C ~ A M4 Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Pickles ~ A
+C ~ A M4 J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Olives ~ A
+C ~ A M4 LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Cucumber ~ A
+C ~ A Pl GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Caramelized_Onions ~ A
+C ~ A Pl CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Green_Peppers ~ A
+C ~ A M4 Mg Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Carrots ~ A
+C ~ A Pl Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Red_Peppers ~ A
+C ~ A Pl E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Pepperchinis ~ A
+J Veggies A HJ Bs FU BE C J t I F A B D/ D+ A B D/ D+ A EA B C B6 A
+T BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BPS No_Bread ~ ~ B A A A A A A A A A A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BPS No_Bread ~ ~ B A A A A A A A A A A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq Mushrooms ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Tomato ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Lettuce ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Spinach ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Onions ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Pickles ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Olives ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BPS Cucumber ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Caramelized_Onions ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BPS Green_Peppers ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Carrots ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Red_Peppers ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Pepperchinis ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ 

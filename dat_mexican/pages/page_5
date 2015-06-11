@@ -1,0 +1,84 @@
+vtpos 0 26
+Lunch_Kebabs,_Sandwiches F H Q P////////+e D A I J K J A K B C C A D/ C J
+z
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+J Modifiers A Ko KU DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B B B4 A
+J Pita_Combinations A HU Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C G A
+C ~ A RQ BI DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Soup_du_Jour_(Cup) ~ A
+C ~ A RQ DQ DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Soup_du_Jour_(Bowl) ~ A
+C ~ A N4 Fg DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A V8 CQ DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Apple_Slices ~ A
+C ~ A Zo Gc DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Side:_Broccoli_Slaw ~ A
+e ~ A Y g Gs OQ A E K A A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A E K A A A q D B A K A B A J B 2 A
+C ~ A Zw Ko DM CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Add_Chicken ~ A
+C ~ A WA EU DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Steamed_Veggies ~ A
+C ~ A HQ KU DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Q Veggie_Kebab ~ A
+C ~ A HQ IM DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Q Chicken_Kebab ~ A
+J Chili_&_Soup A MQ g DI o F A D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+J Sides A Wc Bo Ck o F A D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+J Baked_Goods_&_Desserts A Zs M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B L A
+C ~ A HU DQ DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A House_Chili_(Bowl) ~ A
+C ~ A Ko DQ DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A House_Chili_w/_Turkey_(Bowl) ~ A
+C ~ A HQ Fc DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A To_Go ~ A
+J Breakfast_Pita_&_Sandwiches A K8 M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B D A
+J Salads_Specials A SU M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B J A
+C ~ A OM IQ DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B B4 St._Paul ~ A
+C ~ A Rg IQ DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B B4 Black_&_Tan_Burger ~ A
+C ~ A HQ BI DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A House_Chili_(Cup) ~ A
+C ~ A Ko BI DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A House_Chili_w/_Turkey_(Cup) ~ A
+C ~ A RM Fg DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+C ~ A Kk Fg DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Container_Deposit ~ A
+C ~ A Zw Ik DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Avocado_Slices ~ A
+J Sandwich A P4 Hs Ck o F A D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+J Kebab A IE Ho Ck o F A D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+C ~ A V8 Kk DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Two_Alaska_Barley_Pita ~ A
+C ~ A WA Ik DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A One_Alaska_Barley_Pita ~ A
+C ~ A WA Gc DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Curried_Quinoa_Cashew_Salad ~ A
+C ~ A N8 BI DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Avgolemono_(Cup) ~ A
+C ~ A N8 DQ DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Avgolemono_(Bowl) ~ A
+C ~ A Ko IM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A Steve's_Pita ~ A
+C ~ A Zw Cc DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A One_Alaska_Barley_Roll ~ A
+C ~ A Zs Ec DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Two_Alaska_Barley_Rolls ~ A
+C ~ A Zw g DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A World's_Best_Potato_Salad ~ A
+C ~ A Rc Kc DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B B4 Thanksgiving_Meatloaf ~ A
+J Kebabs_Sandwiches_Soups A Oo M4 Dc B0 C G r B R A B D/ D+ A B D/ D+ A EA B A A A
+J Beverages A WA M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B o A
+d BOq Soup_du_Jour_(Cup) ~ ~ A FF A A A A A A A C A A A A A A
+B ~ A ~ BOq Soup_du_Jour_(Bowl) ~ ~ A Im A A A A A A A C A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Apple_Slices ~ ~ A Es A A A A A A A G A A A A A A
+B ~ A ~ BOq Side:_Broccoli_Slaw ~ Side:_Brc_Slaw A Es A A A A A A A G A A A A A A
+B ~ A ~ BOq Add_Chicken ~ ~ B DI A A A A A A A X A A A A A A
+B ~ A ~ BOq Steamed_Veggies ~ Steamed_Veggie A FF A A A A A A A G A A A A A A
+B ~ A ~ BOq Veggie_Kebab ~ ~ A Im A A A A A A A C A A A A A A
+B ~ A ~ BOq Chicken_Kebab ~ ~ A Im A A A A A A A C A A A A A A
+B ~ A ~ BOq House_Chili_(Bowl) ~ Chili_Bowl A I/ A A A A A A A C A A A A A A
+B ~ A ~ BOq House_Chili_w/_Turkey_(Bowl) ~ Chili,_T,_Bowl A KK A A A A A A A C A A A A A A
+B ~ A ~ BOq To_Go ~ ******To_Go****** A P/////////O A A A A A A A X A A A A A A
+B ~ A ~ BOq St._Paul ~ ~ A O2 A A A A A A A C A A A A A A
+B ~ A ~ BOq Black_&_Tan_Burger ~ Blk_&_Tn_Burgr A Po A A A A A A A C A A A A A A
+B ~ A ~ BOq House_Chili_(Cup) ~ Chili_Cup A F3 A A A A A A A C A A A A A A
+B ~ A ~ BOq House_Chili_w/_Turkey_(Cup) ~ Chili,_T,_Cup A GQ A A A A A A A C A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq Container_Deposit ~ Side:_Chips_PG A Z A A A A A A Bj X A A A A A A
+B ~ A ~ BOq Avocado_Slices ~ ~ A DI A A A A A A A G A A A A A A
+B ~ A ~ BOq Two_Alaska_Barley_Pita ~ Two_Pita A DI A A A A A A A G A A A A A A
+B ~ A ~ BOq One_Alaska_Barley_Pita ~ One_Pita A B9 A A A A A A A G A A A A A A
+B ~ A ~ BOq Curried_Quinoa_Cashew_Salad ~ CQ_Salad A F3 A A A A A A A G A A A A A A
+B ~ A ~ BOq Avgolemono_(Cup) ~ ~ A FF A A A A A A A C A A A A A A
+B ~ A ~ BOq Avgolemono_(Bowl) ~ ~ A Im A A A A A A A C A A A A A A
+B ~ A ~ BOq Steve's_Pita ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq One_Alaska_Barley_Roll ~ One_Roll A Bk A A A A A A A G A A A A A A
+B ~ A ~ BOq Two_Alaska_Barley_Rolls ~ Two_Rolls A CW A A A A A A A G A A A A A A
+B ~ A ~ BOq World's_Best_Potato_Salad ~ Potato_Salad A GQ A A A A A A A G A A A A A A
+B ~ A ~ BOq Thanksgiving_Meatloaf ~ ThanksgivinMeatloaf A Ti A A A A A A A C A A A A A A
+B ~ A ~ 

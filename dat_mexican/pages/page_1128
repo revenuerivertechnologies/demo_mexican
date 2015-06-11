@@ -1,0 +1,73 @@
+vtpos 0 26
+Other Ro K E P////////+e D A D J K N M U S F C A D/ C A
+t
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+J Split_Check A Lk J4 CI CI C J K N M A U S F A K A B A EA D B P////////+4 A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+BU Rebuild_or\Delete A Eo J8 CI CE C J K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C J K N J A K B Q A U S F A A D A
+H ~ A IM Bp CA 0 A M B S M A B D/ F A B D/ D+ A EA B A A g A
+C ~ A Oo Cs BU 8 C M K N Q A U S F A B D/ D+ A EA B A A See_the_Server ~ A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+J Home A JD l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B B A
+J Beer A Kc l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RX A
+J Liquor A L1 l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RW A
+J Cocktails A NO l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B RZ A
+J Wine A On l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rv A
+J Modifiers A On Bq BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B Rs A
+J <<_Back A E8 Id DM BA C J K B L A B D/ D+ A B D/ D+ A EA B C HW A
+J Beverages A E9 k DM BA C M K U J A B D/ D+ A B D/ D+ A EA B C GV A
+J Scotch A E8 Bt DM BA C M K U J A B D/ D+ A B D/ D+ A EA B B Rm A
+J Other A E8 D8 DM BA C M K U J A B D/ D+ A B D/ D+ A EA B B Ro A
+J Shots A E8 FE DM BA C M K U J A B D/ D+ A B D/ D+ A EA B B Rp A
+J Brandy A E8 C0 DM BA C M K U J A B D/ D+ A B D/ D+ A EA B C Rn A
+C ~ A MQ De B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B A A 1Pama ~ A
+C ~ A IQ Cl B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Bailey's ~ A
+C ~ A IQ De B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Campari ~ A
+C ~ A IQ EX B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Chartreuse ~ A
+C ~ A IQ FQ B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Courvosier ~ A
+C ~ A IQ GJ B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Drambuie ~ A
+C ~ A IQ HC B8 0 C L K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Domain_De_Canton ~ A
+C ~ A IQ H7 B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Fernet_Branca ~ A
+C ~ A KR H7 B8 0 C L K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Lazzaronii_Amaretto ~ A
+C ~ A KR HC B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Lillet ~ A
+C ~ A KR GJ B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Kahlua ~ A
+C ~ A KR FQ B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Jagermeister ~ A
+C ~ A KR EX B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Grand_Marnier ~ A
+C ~ A KR De B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Goldschlager ~ A
+C ~ A KR Cl B8 0 C L K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Godiva_Choc_Liquer ~ A
+C ~ A KR Bs B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Frangelico ~ A
+C ~ A MQ EX B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Pernod ~ A
+C ~ A MQ FQ B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Pimms ~ A
+C ~ A MQ GJ B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Rhuby ~ A
+C ~ A MQ HC B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Root ~ A
+C ~ A MQ H7 B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Rumchata ~ A
+C ~ A MQ Bs B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Rumplemintz ~ A
+C ~ A MQ Cl B8 0 C M K D/ U A B D/ D+ A B D/ D+ A EA B B Rs Sambuca ~ A
+Y BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq 1Pama Pama ~ B DI A A A A A A D B A B A A A A
+B ~ A ~ BOq Bailey's ~ ~ A Mg A A A A A A D B A B A A A A
+B ~ A ~ BOq Campari ~ ~ A OE A A A A A A D B A B A A A A
+B ~ A ~ BOq Chartreuse ~ ~ A Sw A A A A A A D B A B A A A A
+B ~ A ~ BOq Courvosier ~ ~ A OE A A A A A A D B A B A A A A
+B ~ A ~ BOq Drambuie ~ ~ A Po A A A A A A D B A B A A A A
+B ~ A ~ BOq Domain_De_Canton ~ ~ A OE A A A A A A D B A B A A A A
+B ~ A ~ BOq Fernet_Branca ~ ~ A K8 A A A A A A D B A B A A A A
+B ~ A ~ BOq Lazzaronii_Amaretto ~ ~ A K8 A A A A A A D B A B A A A A
+B ~ A ~ BOq Lillet ~ ~ A Mg A A A A A A D B A B A A A A
+B ~ A ~ BOq Kahlua ~ ~ A K8 A A A A A A D B A B A A A A
+B ~ A ~ BOq Jagermeister ~ ~ A K8 A A A A A A D B A B A A A A
+B ~ A ~ BOq Grand_Marnier ~ ~ A Po A A A A A A D B A B A A A A
+B ~ A ~ BOq Goldschlager ~ ~ A JY A A A A A A D B A B A A A A
+B ~ A ~ BOq Godiva_Choc_Liquer ~ ~ A K8 A A A A A A D B A B A A A A
+B ~ A ~ BOq Frangelico ~ ~ A K8 A A A A A A D B A B A A A A
+B ~ A ~ BOq Pernod ~ ~ A OE A A A A A A D B A B A A A A
+B ~ A ~ BOq Pimms ~ ~ A Mg A A A A A A D B A B A A A A
+B ~ A ~ BOq Rhuby ~ ~ A OE A A A A A A D B A B A A A A
+B ~ A ~ BOq Root ~ ~ A OE A A A A A A D B A B A A A A
+B ~ A ~ BOq Rumchata ~ ~ A Mg A A A A A A D B A B A A A A
+B ~ A ~ BOq Rumplemintz ~ ~ A K8 A A A A A A D B A B A A A A
+B ~ A ~ BOq Sambuca ~ ~ A K8 A A A A A A D B A B A A A A
+B ~ A ~ 

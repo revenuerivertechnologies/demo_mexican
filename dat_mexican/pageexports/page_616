@@ -1,0 +1,47 @@
+vtpos 0 27
+Fajitas Jo K E P////////+e D A G F K N A K S F C A D/ C A
+c
+J Modifiers E FP f CM BI C I K U M A U S F A B D/ D+ A EA B B Js A
+J More E FP Ie CM BI C I K R A A U S F A B D/ D+ A EA B B Ji A
+J American E FP GN CM BI C I K U M A U S F A B D/ D+ A EA B B Ji A
+J Burritos E FP Bo CM BI C I K U M A U S F A B D/ D+ A EA B B Jl A
+J Tostadas E FP D6 CM BI C I K U M A U S F A B D/ D+ A EA B B Jn A
+J Enchiladas E FP Cx CM BI C I K U M A U S F A B D/ D+ A EA B B Jm A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+e ~ A A g FQ JE A K K U A A q D B A K A B A A B 2 A
+D Send_&_Stay A Ln Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Jd final A ~ A
+D Send_Order A N4 Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Hz final A ~ A
+J Fajitas E FP FD CM BI C I K B C A U S F A B D/ D+ A EA B B Jo A
+C ~ F Hc Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Single_Beef_Fajita_Combo ~ A
+C ~ F Jl Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Grande_Beef_Fajita_Combo ~ A
+C ~ F Hc Cx CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Single_Chicken_Fajita_Combo ~ A
+C ~ F Jl Cx CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Grande_Chicken_Fajita_Combo ~ A
+C ~ F Hc D6 CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Single_Sausage_Fajita_Combo ~ A
+C ~ F Jl D6 CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Grande_Sausage_Fajita_Combo ~ A
+C ~ F Hc FD CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Single_Shrimp_Fajita_Combo ~ A
+C ~ F Jl FD CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Grande_Shrimp_Fajita_Combo ~ A
+C ~ F Hc GM CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Ultimate_Fajitas ~ A
+C ~ F Lu Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Single_Beef_Fajita ~ A
+C ~ F N3 Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Grande_Beef_Fajita ~ A
+C ~ F Lu Cx CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Single_Chicken_Fajita ~ A
+C ~ F N3 Cx CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Grande_Chicken_Fajita ~ A
+C ~ F Lu D6 CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Single_Sausage_Fajita ~ A
+C ~ F N3 D6 CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Grande_Sausage_Fajita ~ A
+P BSj Single_Beef_Fajita_Combo ~ ~ A ~ January_1,_2015 100 100 Adult V3 A A A A A A B O A A A A A A
+B ~ A ~ BSj Grande_Beef_Fajita_Combo ~ ~ A ~ January_1,_2015 100 100 Adult dr A A A A A A B O A A A A A A
+B ~ A ~ BSj Single_Chicken_Fajita_Combo ~ ~ A ~ January_1,_2015 100 100 Adult V3 A A A A A A B O A A A A A A
+B ~ A ~ BSj Grande_Chicken_Fajita_Combo Grande_Chicken_Fajita ~ A ~ January_1,_2015 100 100 Adult dr A A A A A A B O A A A A A A
+B ~ A ~ BSj Single_Sausage_Fajita_Combo ~ ~ A ~ January_1,_2015 100 100 Adult V3 A A A A A A B O A A A A A A
+B ~ A ~ BSj Grande_Sausage_Fajita_Combo Grande_Sausage_Fajita ~ A ~ January_1,_2015 100 100 Adult dr A A A A A A B O A A A A A A
+B ~ A ~ BSj Single_Shrimp_Fajita_Combo ~ ~ A ~ January_1,_2015 100 100 Adult Xb A A A A A A B O A A A A A A
+B ~ A ~ BSj Grande_Shrimp_Fajita_Combo Grande_Shrimp_Fajita ~ A ~ January_1,_2015 100 100 Adult fP A A A A A A B O A A A A A A
+B ~ A ~ BSj Ultimate_Fajitas ~ ~ A ~ January_1,_2015 100 100 Adult gz A A A A A A B O A A A A A A
+B ~ A ~ BSj Single_Beef_Fajita ~ ~ A ~ January_1,_2015 100 100 Adult UT A A A A A A B O A A A A A A
+B ~ A ~ BSj Grande_Beef_Fajita ~ ~ A ~ January_1,_2015 100 100 Adult cH A A A A A A B O A A A A A A
+B ~ A ~ BSj Single_Chicken_Fajita ~ ~ A ~ January_1,_2015 100 100 Adult UT A A A A A A B O A A A A A A
+B ~ A ~ BSj Grande_Chicken_Fajita ~ ~ A ~ January_1,_2015 100 100 Adult cH A A A A A A B O A A A A A A
+B ~ A ~ BSj Single_Sausage_Fajita ~ ~ A ~ January_1,_2015 100 100 Adult UT A A A A A A B O A A A A A A
+B ~ A ~ BSj Grande_Sausage_Fajita ~ ~ A ~ January_1,_2015 100 100 Adult cH A A A A A A B O A A A A A A
+B ~ A ~ 

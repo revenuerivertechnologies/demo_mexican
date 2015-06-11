@@ -1,0 +1,45 @@
+vtpos 0 26
+Whiskey_2 Za K E P////////+e D A D J K N M U S F C A D/ C A
+e
+D Send_&_Stay A KX J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+C ~ A FB B0 B8 0 C L K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Kentucky_Gentelman ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Modifiers A Os JZ BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZJ ~ A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Food A Os Bz BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B cI ~ A ~ A
+B Beverage A Os i BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZI ~ A ~ A
+B Beer A Os DE BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZD ~ A ~ A
+B Liquor A Os EV BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZE ~ A ~ A
+B Cocktails A Os Fm BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZF ~ A ~ A
+B Wine A Os G3 BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZG ~ A ~ A
+B Specials A Os II BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZC ~ A ~ A
+D Send_Order A MY J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 B B final A ~ A
+z ~ A GM J8 CA CA C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A IQ J8 CA CA C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+B Restart A A J8 CA CA A J K N D A U S F A K A B A EA D G A cancel A ~ A
+BT Increase A CE J8 CA CA C I K N R A K B Q A U S F A A D A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A FA HK B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Seagram's_7 ~ A
+C ~ A FA GR B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Koval_Rye ~ A
+C ~ A FA FY B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Jameson ~ A
+C ~ A FA Ef B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Jack_Daniels ~ A
+C ~ A FA Dm B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Fireball ~ A
+C ~ A FA Ct B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Crown_Royal ~ A
+C ~ A HA Dk B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Bulleit_Rye ~ A
+C ~ A HB B0 B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Templeton_Rye ~ A
+C ~ A HB Ct B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Wild_Turkey ~ A
+C ~ A FA ID B8 0 C L K D/ A A B D/ D+ A B D/ D+ A EA B A A 1Southern_Comfort ~ A
+BU Rebuild_or\Delete A EI J8 CA CA C I K N S A U S F A K A B A A D A
+L BOq 1Kentucky_Gentelman Kentucky_Gent_(well) ~ B A A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Seagram's_7 Seagram's_7 ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Koval_Rye Koval_Rye ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Jameson Jameson ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Jack_Daniels Jack_Daniels ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Fireball Fireball ~ B DI A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Crown_Royal Crown_Royal ~ B GQ A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Bulleit_Rye Bulleit_Rye ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Templeton_Rye Templeton_Rye ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Wild_Turkey Wild_Turkey ~ B Es A A A A A A D B A B A A A A
+B ~ A ~ BOq 1Southern_Comfort Southern_Comfort ~ B GQ A A A A A A D B A B A A A A
+B ~ A ~ 

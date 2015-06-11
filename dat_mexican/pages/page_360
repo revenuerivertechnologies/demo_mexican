@@ -1,0 +1,41 @@
+vtpos 0 26
+IHOP_2_x_2_x_2_1 Fo S E P////////+e D A I J K A A K B A C A D/ C A
+f
+J Pancakes A HM D4 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C E2 A
+J Omelettes A HM FA FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C E3 A
+J French_Toast A HM HM FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C E5 A
+J Belgian_Waffles A HM IV FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B E6 A
+J Crepes A HM Je FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B E7 A
+J Griddle_Melts A HM Kr FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B E8 A
+J Sandwiches A HM L4 FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B E9 A
+J Appetizers A HM Bt FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C FH A
+J Featured_Items A HM Cy FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C FJ A
+J >>_NEXT_>> A HM NF FU BI C J o K Q A B D/ D+ A B D/ D+ A EA B B Et A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Breakfast_Combos A HM GI FU BA C J r A F A B D/ D+ A B D/ D+ A EA B C E4 A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B Es A
+C ~ A M4 CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fp Over_Easy_Eggs_2x2x2 ~ A
+C ~ A M4 Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fp Over_Medium_Eggs_2x2x2 ~ A
+C ~ A M4 FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fp Over_Hard_Eggs_2x2x2 ~ A
+C ~ A M4 Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fp Scrambled_Eggs_2x2x2 ~ A
+C ~ A M4 H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fp Soft_Boiled_Eggs_2x2x2 ~ A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C Ex A
+G BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Over_Easy_Eggs_2x2x2 Over_Easy_Eggs ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Over_Medium_Eggs_2x2x2 Over_Medium_Eggs ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Over_Hard_Eggs_2x2x2 Over_Hard_Eggs ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Scrambled_Eggs_2x2x2 Scrambled_Eggs ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Soft_Boiled_Eggs_2x2x2 Soft_Boiled_Eggs ~ B A A A A A A A B X A A A A A A
+B ~ A ~ 

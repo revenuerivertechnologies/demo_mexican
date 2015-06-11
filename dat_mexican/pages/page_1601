@@ -1,0 +1,42 @@
+vtpos 0 26
+Quick_Bar_2 ZB K E P////////+e D A D F K N A U S F C A D/ C A
+c
+z ~ A GM J8 CA CA C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A IQ J8 CA CA C J K N D A U S F A C D/ D9 A A D B A
+J Split_Check A KU J8 CA CA C J K N M A U S F A K A B A EA D B P////////+4 A
+B Food A Jq h EY CU C J K U R A B D/ D+ A B D/ D+ A EA D B B ~ A ~ A
+C ~ A Or k BU BA C M K D/ G A B D/ D+ A B D/ D+ A EA B A A Bud_Light ~ A
+C ~ A Or Bl BU BA C L K D/ G A B D/ D+ A B D/ D+ A EA B A A Budweiser ~ A
+C ~ A Or Cm BU BA C M K D/ G A B D/ D+ A B D/ D+ A EA B A A Miller_Lite ~ A
+C ~ A Or Dn BU BA C M K D/ G A B D/ D+ A B D/ D+ A EA B A A Blue_Moon ~ A
+C ~ A Or Eo BU BA C M K D/ G A B D/ D+ A B D/ D+ A EA B A A Long_Island ~ A
+C ~ A Or Fp BU BA C M K D/ G A B D/ D+ A B D/ D+ A EA B A A Margarita ~ A
+C ~ A Or Gq BU BA C M K D/ G A B D/ D+ A B D/ D+ A EA B A A Bloody_Mary ~ A
+C ~ A Or Hr BU BA C M K D/ G A B D/ D+ A B D/ D+ A EA B A A Pinot_Noir ~ A
+C ~ A Or Is BU BA C L K D/ G A B D/ D+ A B D/ D+ A EA B A A Chardonnay ~ A
+C ~ A Or Jt BU BA C M K D/ G A B D/ D+ A B D/ D+ A EA B A A Jager_Bomb ~ A
+B ~ A PX D o Y C M K D/ G A B D/ D+ A B D/ D+ A EA B B y ~ A ~ A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+B Beer A FS C3 EY CU C J K U J A B D/ D+ A B D/ D+ A EA D B ZD ~ A ~ A
+B Cocktails A FS FM EY CU C J K U E A B D/ D+ A B D/ D+ A EA D B ZF ~ A ~ A
+B Wine A Jr FM EY CU C J K U E A B D/ D+ A B D/ D+ A EA D B ZG ~ A ~ A
+B Happy_Hour A Jr Hh EY CU C J K U R A B D/ D+ A B D/ D+ A EA D B ZH ~ A ~ A
+B Specials A FT Hi EY CU C J K U O A B D/ D+ A B D/ D+ A EA D B ZC ~ A ~ A
+B Restart A A J8 CA CA A J K N D A U S F A K A B A EA D G A cancel A ~ A
+B Beverage A FS e EY CU C J K U O A B D/ D+ A B D/ D+ A EA D B ZI ~ A ~ A
+BU Rebuild_or\Delete A EI J8 CA CA C J K N S A U S F A K A B A A D A
+BT Increase A CE J8 CA CA C I K N R A K B Q A U S F A A D A
+B --> A Or Ku BU BU C J K B C A B D/ D+ A B D/ D+ A EA B B ZA ~ A ~ A
+B Liquor A Jr C3 EY CU C J K U J A K B M A B D/ D+ A EA D B ZE ~ A ~ A
+D Send_Order A MY J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 B ZA final A ~ A
+K BOq Bud_Light ~ ~ A GQ A A A A A A D R A B A A A A
+B ~ A ~ BOq Budweiser ~ ~ A GQ A A A A A A D R A B A A A A
+B ~ A ~ BOq Miller_Lite ~ ~ A GQ A A A A A A D R A B A A A A
+B ~ A ~ BOq Blue_Moon ~ ~ A GQ A A A A A A D R A B A A A A
+B ~ A ~ BOq Long_Island ~ ~ A JY A A A A A A D U A B A A A A
+B ~ A ~ BOq Margarita ~ ~ A H0 A A A A A A D U A B A A A A
+B ~ A ~ BOq Bloody_Mary ~ ~ A H0 A A A A A A D U A B A A A A
+B ~ A ~ BOq Pinot_Noir ~ ~ A H0 A A A A A A D R A B A A A A
+B ~ A ~ BOq Chardonnay ~ ~ A H0 A A A A A A D R A B A A A A
+B ~ A ~ BOq Jager_Bomb ~ ~ A H0 A A A A A A D R A B A A A A
+B ~ A ~ 

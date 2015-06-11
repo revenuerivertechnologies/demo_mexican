@@ -1,0 +1,61 @@
+vtpos 0 26
+Breakfast K G Q P////////+e D A I J K J A q B C C A D/ C J
+l
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Pita_Combinations A HU Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C G A
+C ~ A aM o DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+J Sides A UM g Ck o F A D D9 F A B D/ D+ A B D/ D+ A EA B A A A
+J Coffee A WA M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B o A
+C ~ A H8 Kg EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Joe's_Oatmeal ~ A
+C ~ A H8 II EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Biscuits_&_Turkey_Gravy ~ A
+C ~ A MU II EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Biscuits_&_Mushroom_Gravy ~ A
+C ~ A SI DM DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Side:_Seasonal_Potatoes ~ A
+C ~ A Vk DM DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Side:_Bean_Patty ~ A
+C ~ A Vk BI DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Side:_Turkey_Sausage_Patty ~ A
+C ~ A MU Kg EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Baked_French_Toast ~ A
+C ~ A SI FQ DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B X Side:_Local_Egg ~ A
+C ~ A Vk FQ DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B X Side:_Two_Local_Eggs ~ A
+J Baked_Goods_&_Desserts A Zs M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B L A
+C ~ A aM DE DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A To_Go ~ A
+J Breakfast_Pita_&_Sandwiches A K8 M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B D A
+J Kebabs_Pitas_Soups A Oo M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B F A
+J Salads_Speicals A SU M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B J A
+C ~ A Vk HQ DM B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B X Goose_Egg_Om ~ A
+C ~ A aM FM DQ CE C A B O S A B D/ D+ A B D/ D+ A EA B A A Make_it_nice ~ A
+C ~ A Hg Fw Ek CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Biscuits,_Turkey_Gravy,_1_Egg ~ A
+C ~ A MU Fw Ek CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Biscuits,_Mushroom_Gravy,_1_Egg ~ A
+C ~ A H0 Dk EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Greta's ~ A
+C ~ A MQ BY EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Attlin ~ A
+C ~ A MM Dk EI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Eggs_Attlin ~ A
+C ~ A Hk BY Ek CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B B Y Greatland_BnG ~ A
+C ~ A UQ Kg DI CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Asian_Chicken ~ A
+U BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Joe's_Oatmeal ~ ~ A LV A A A A A A A H A A A A A A
+B ~ A ~ BOq Biscuits_&_Turkey_Gravy ~ Biscuits,T_Gvy A H0 A A A A A A A H A A A A A A
+B ~ A ~ BOq Biscuits_&_Mushroom_Gravy ~ Biscuits_M_Gvy A Im A A A A A A A H A A A A A A
+B ~ A ~ BOq Side:_Seasonal_Potatoes ~ Side:_Potatoes A Fe A A A A A A A G A A A A A A
+B ~ A ~ BOq Side:_Bean_Patty ~ Side:_Bn_Patty A DI A A A A A A A G A A A A A A
+B ~ A ~ BOq Side:_Turkey_Sausage_Patty ~ Side:_T_Patty A ET A A A A A A A G A A A A A A
+B ~ A ~ BOq Baked_French_Toast ~ ~ A Im A A A A A A A H A A A A A A
+B ~ A ~ BOq Side:_Local_Egg ~ Side:_Egg A D6 A A A A A A A G A A A A A A
+B ~ A ~ BOq Side:_Two_Local_Eggs ~ Side:_Two_Eggs A GQ A A A A A A A G A A A A A A
+B ~ A ~ BOq To_Go ~ ******To_Go****** A P/////////O A A A A A A A X A A A A A A
+B ~ A ~ BOq Goose_Egg_Om ~ ~ A fQ A A A A A A A G A A A A A A
+B ~ A ~ BOq Make_it_nice ~ ~ A A A A A A A A A C A A A A A A
+B ~ A ~ BOq Biscuits,_Turkey_Gravy,_1_Egg ~ Bisc,_T_G,_1_E A JY A A A A A A A H A A A A A A
+B ~ A ~ BOq Biscuits,_Mushroom_Gravy,_1_Egg ~ Bisc,_M_G,_1_E A JY A A A A A A A H A A A A A A
+B ~ A ~ BOq Greta's ~ ~ A Qz A A A A A A A H A A A A A A
+B ~ A ~ BOq Attlin ~ ~ A Lu A A A A A A A H A A A A A A
+B ~ A ~ BOq Eggs_Attlin ~ ~ A Lu A A A A A A A H A A A A A A
+B ~ A ~ BOq Greatland_BnG ~ ~ A NS A A A A A A A H A A A A A A
+B ~ A ~ BOq Asian_Chicken ~ ~ A Im A A A A A A A C A A A A A A
+B ~ A ~ 

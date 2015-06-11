@@ -1,0 +1,30 @@
+vtpos 0 27
+American Jj K E P////////+e D A G F K N A K S F C A D/ C A
+T
+J Modifiers E FP f CM BI C I K U M A U S F A B D/ D+ A EA B B Js A
+J Tostadas E FP D6 CM BI C I K U M A U S F A B D/ D+ A EA B B Jn A
+J Fajitas E FP FD CM BI C I K U M A U S F A B D/ D+ A EA B B Jo A
+J Enchiladas E FP Cx CM BI C I K U M A U S F A B D/ D+ A EA B B Jm A
+J Burritos E FP Bo CM BI C I K U M A U S F A B D/ D+ A EA B B Jl A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+e ~ A A g FQ JE A K K U A A q D B A K A B A A B 2 A
+D Send_&_Stay A Ln Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Jd final A ~ A
+D Send_Order A N4 Jk CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Hz final A ~ A
+C ~ F Hc Cx CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Chicken_Strips ~ A
+C ~ F Hc D6 CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Classic_Hamburger ~ A
+C ~ F Jl D6 CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Classic_Double_Hamburger ~ A
+C ~ F Hc FD CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Classic_Cheeseburger ~ A
+C ~ F Jl FD CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Classic_Double_Cheeseburger ~ A
+C ~ F Hc GM CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Spicy_Chicken_Sandwich ~ A
+C ~ F Hc Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B F A Chopped_Sirloin_Steak 612 A
+J American E FP GN CM BI C I K B C A U S F A B D/ D+ A EA B B Ji A
+H BSj Chicken_Strips ~ ~ A ~ January_1,_2015 100 100 Adult NH A A A A A A B F A A A A A A
+B ~ A ~ BSj Classic_Hamburger ~ ~ A ~ January_1,_2015 100 100 Adult JD A A A A A A B K A A A A A A
+B ~ A ~ BSj Classic_Double_Hamburger ~ ~ A ~ January_1,_2015 100 100 Adult Mf A A A A A A B K A A A A A A
+B ~ A ~ BSj Classic_Cheeseburger ~ ~ A ~ January_1,_2015 100 100 Adult Kn A A A A A A B K A A A A A A
+B ~ A ~ BSj Classic_Double_Cheeseburger ~ ~ A ~ January_1,_2015 100 100 Adult OD A A A A A A B K A A A A A A
+B ~ A ~ BSj Spicy_Chicken_Sandwich ~ ~ A ~ January_1,_2015 100 100 Adult KJ A A A A A A B F A A A A A A
+B ~ A ~ BSj Chopped_Sirloin_Steak ~ ~ A ~ January_1,_2015 100 100 Adult OD A A A A A A B F A A A A A A
+B ~ A ~ 

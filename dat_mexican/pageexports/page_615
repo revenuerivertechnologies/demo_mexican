@@ -1,0 +1,32 @@
+vtpos 0 27
+Tostadas Jn K E P////////+e D A G F K N A K S F C A D/ C A
+U
+J Modifiers E FP f CM BI C I K U M A U S F A B D/ D+ A EA B B Js A
+J Fajitas E FP FD CM BI C I K U M A U S F A B D/ D+ A EA B B Jo A
+J Enchiladas E FP Cx CM BI C I K U M A U S F A B D/ D+ A EA B B Jm A
+J American E FP GN CM BI C I K U M A U S F A B D/ D+ A EA B B Ji A
+J Burritos E FP Bo CM BI C I K U M A U S F A B D/ D+ A EA B B Jl A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+e ~ A A g FQ JE A K K U A A q D B A K A B A A B 2 A
+D Send_&_Stay A Ln Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Jd final A ~ A
+D Send_Order A N4 Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Hz final A ~ A
+C ~ F Hc Bl CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Special_Montery_Tostada ~ A
+C ~ F Jl Bl CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Special_Montery_Tostada_Lunch ~ A
+C ~ F Lu Bl CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Montery_Tostada ~ A
+C ~ F N3 Bl CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Montery_Tostada_Lunch ~ A
+C ~ F Hc Cu CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A El_Mexico_Classic ~ A
+C ~ F Jl Cu CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Avacado_Tostada ~ A
+C ~ F Lu Cu CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Chicken_Tostada ~ A
+C ~ F N3 Cu CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Beef_Tostada ~ A
+J Tostadas E FP D6 CM BI C I K B C A U S F A B D/ D+ A EA B B Jn A
+I BSj Special_Montery_Tostada Sp_Montery_Tostada ~ A ~ January_1,_2015 100 100 Adult RB A A A A A A B L A A A A A A
+B ~ A ~ BSj Special_Montery_Tostada_Lunch Sp_Montery_Tostada_Lunch ~ A ~ January_1,_2015 100 100 Adult Pd A A A A A A B L A A A A A A
+B ~ A ~ BSj Montery_Tostada ~ ~ A ~ January_1,_2015 100 100 Adult Nb A A A A A A B L A A A A A A
+B ~ A ~ BSj Montery_Tostada_Lunch ~ ~ A ~ January_1,_2015 100 100 Adult L3 A A A A A A B L A A A A A A
+B ~ A ~ BSj El_Mexico_Classic ~ ~ A ~ January_1,_2015 100 100 Adult FJ A A A A A A B L A A A A A A
+B ~ A ~ BSj Avacado_Tostada ~ ~ A ~ January_1,_2015 100 100 Adult Hz A A A A A A B L A A A A A A
+B ~ A ~ BSj Chicken_Tostada ~ ~ A ~ January_1,_2015 100 100 Adult HL A A A A A A B L A A A A A A
+B ~ A ~ BSj Beef_Tostada ~ ~ A ~ January_1,_2015 100 100 Adult HL A A A A A A B L A A A A A A
+B ~ A ~ 

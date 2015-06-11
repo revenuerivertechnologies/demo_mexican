@@ -1,0 +1,62 @@
+vtpos 0 26
+Dressings_Mods B8 S E P////////+e D A I F K A A K B A C A D/ C A
+s
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+J Protiens A HJ GI FU BE C J t I A A B D/ D+ A B D/ D+ A EA B C B+ A
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+J Continue_Ordering A Xg Oo DQ CE C J B O Q A B D/ D+ A B D/ D+ A EA B G A A
+J Full A Q4 Oo DM CE A J B O Q A B D/ D+ A B D/ D+ A EA B B H A
+J Mega A UM Oo DM CE A J B O Q A B D/ D+ A B D/ D+ A EA B B I A
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+J Full A Q4 Oo DM CE A J B O Q A B D/ D+ A B D/ D+ A EA B B H A
+J Mega A UM Oo DM CE A J B O Q A B D/ D+ A B D/ D+ A EA B B I A
+J Fruits A HJ o FU BA C J t I A A B D/ D+ A B D/ D+ A EA B C B5 A
+J Dont_'_Make A HJ Kv FU BI C J z K A A B D/ D+ A B D/ D+ A EA B B p A
+J See_Server A HJ L8 FU BI C J z K A A B D/ D+ A B D/ D+ A EA B B p A
+J Dipping_Sauce A HJ FA FU BE C J t I A A B D/ D+ A B D/ D+ A EA B C B9 A
+J Breads A HJ C0 FU BE C J t I A A B D/ D+ A B D/ D+ A EA B C B7 A
+J Veggies A HJ Bs FU BE C J t I A A B D/ D+ A B D/ D+ A EA B C B6 A
+BA ~ A RE RE Co Bk C J K J Q A K B Q A C D/ D9 A A B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+C ~ A d8 P////////+A Dg CE C A B D/ R A B D/ D+ A B D/ D+ A EA B C R No_Bread ~ A
+H ~ A Nc k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A B A
+H ~ A Zk k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A C A
+H ~ A Tg k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A Q A
+H ~ A Qg k DA BA A J B A M A B D/ I A B D/ D+ A EA B A A I A
+H ~ A Wl k DA BA A J B A M A B D/ I A B D/ D+ A EA B A A E A
+BA ~ A RE RE Co Bk C J K J Q A K B Q A C D/ D9 A A B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+C ~ A d8 P////////+A Dg CE C A B D/ R A B D/ D+ A B D/ D+ A EA B C R No_Bread ~ A
+H ~ A Nc k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A B A
+H ~ A Zk k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A C A
+H ~ A Tg k DE BA A J B A M A B D/ I A B D/ D+ A EA B A A Q A
+H ~ A Qg k DA BA A J B A M A B D/ I A B D/ D+ A EA B A A I A
+H ~ A Wl k DA BA A J B A M A B D/ I A B D/ D+ A EA B A A E A
+J Dressings A HJ D8 FU BA C J t I F A B D/ D+ A B D/ D+ A EA B C B8 A
+C ~ A M4 CY Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Ranch ~ A
+C ~ A M4 Dp Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Blue_Cheese ~ A
+C ~ A M4 E6 Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Honey_Mustard ~ A
+C ~ A M4 GL Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Thousand_Island ~ A
+C ~ A M4 Hc Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Itialian ~ A
+C ~ A M4 It Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Rasberry_Vinagrette ~ A
+C ~ A M4 J+ Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Basalmic_Vinagrette ~ A
+C ~ A M4 LP Co BM C I K D/ A A B D/ D+ A B D/ D+ A EA B B E Oil_&_Vineger ~ A
+O BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BPS No_Bread ~ ~ B A A A A A A A A A A A A A A A
+B ~ A ~ BPS No_Bread ~ ~ B A A A A A A A A A A A A A A A
+B ~ A ~ BSj Ranch ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj Blue_Cheese ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Honey_Mustard ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj Thousand_Island ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BSj Itialian ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BSj Rasberry_Vinagrette ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BSj Basalmic_Vinagrette ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BSj Oil_&_Vineger ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ 

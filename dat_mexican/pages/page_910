@@ -1,0 +1,59 @@
+vtpos 0 26
+Sharables_Mod_1 OO S E P////////+e D A I J K A A K B A C A D/ C A
+c
+J Soft_Drinks A M4 Rr DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OK A
+C ~ A M4 FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Chips_&_Salsa ~ A
+C ~ A M4 Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Chili_Con_Queso_Dip ~ A
+C ~ A M4 H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Mini_Corn_Dogs ~ A
+C ~ A M4 JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OP Slammers ~ A
+C ~ A M4 Ku DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Hotdog_Slammers ~ A
+C ~ A QV Ku DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Hotdog_Slammers_w/Cheese ~ A
+C ~ A QV JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Soft_Pretzels ~ A
+C ~ A QV H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A The_Sampler ~ A
+C ~ A QV Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Table_Gating_Sampler ~ A
+C ~ A QV FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Roasted_Garlic_Mushrooms ~ A
+C ~ A QV Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Fried_Pickles ~ A
+C ~ A QV CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Spinach_Artichoke_Dip ~ A
+C ~ A Ty CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Chicken_Quesadilla ~ A
+C ~ A Ty Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Jalepeno_Pepper_Bites ~ A
+C ~ A Ty FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Molten_Dip ~ A
+C ~ A Ty Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OQ Fries ~ A
+C ~ A Ty H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OR BWW_Potato_Wedges ~ A
+C ~ A XO Qt DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OS Buffalo_Chips ~ A
+C ~ A Ty Ku DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Veggie_Boat ~ A
+C ~ A XP CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A BWW_Onion_Rings ~ A
+C ~ A XP Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A BWW_Onion_Rings_Basket ~ A
+C ~ A XP FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A BWW_Mac_&_Cheese ~ A
+C ~ A XP Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A BWW_Side_Salad ~ A
+C ~ A XP H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A BWW_Cole_Slaw ~ A
+C ~ A M4 Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B OE Mozarella_Sticks ~ A
+C ~ A Ty JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A BWW_Ultimate_Nachos_w/Chicken ~ A
+C ~ A M4 CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B A A Ultimate_Nachos ~ A
+b BOq Chips_&_Salsa ~ ~ A Gj A A A A A A A A A A A A A A
+B ~ A ~ BZv Chili_Con_Queso_Dip ~ ~ A Kn A A A A A A A A A A A A A A
+B ~ A ~ BOq Mini_Corn_Dogs ~ ~ A GP A A A A A A A L A A A A A A
+B ~ A ~ BZv Slammers ~ ~ A N5 A A A A A A A A A A A A A A
+B ~ A ~ BZv Hotdog_Slammers ~ ~ A K7 A A A A A A A A A A A A A A
+B ~ A ~ BZv Hotdog_Slammers_w/Cheese ~ ~ A NR A A A A A A A A A A A A A A
+B ~ A ~ BZv Soft_Pretzels ~ ~ A Hz A A A A A A A A A A A A A A
+B ~ A ~ BOq The_Sampler ~ ~ A UT A A A A A A A A A A A A A A
+B ~ A ~ BZv Table_Gating_Sampler ~ ~ A UT A A A A A A A A A A A A A A
+B ~ A ~ BZv Roasted_Garlic_Mushrooms ~ ~ A JD A A A A A A A A A A A A A A
+B ~ A ~ BOq Fried_Pickles ~ ~ A Hz A A A A A A A A A A A A A A
+B ~ A ~ BZv Spinach_Artichoke_Dip ~ ~ A KJ A A A A A A A A A A A A A A
+B ~ A ~ BZv Chicken_Quesadilla ~ ~ A Mf A A A A A A A A A A A A A A
+B ~ A ~ BZv Jalepeno_Pepper_Bites ~ ~ A Hz A A A A A A A A A A A A A A
+B ~ A ~ BZv Molten_Dip ~ ~ A KT A A A A A A A A A A A A A A
+B ~ A ~ BOq Fries ~ ~ B A A A A A A A A A A A A A A A
+B ~ A ~ BZv BWW_Potato_Wedges Potato_Wedges ~ B A A A A A A A A A A A A A A A
+B ~ A ~ BZv Buffalo_Chips ~ ~ B A A A A A A A A A A A A A A A
+B ~ A ~ BZv Veggie_Boat ~ ~ A Er A A A A A A A A A A A A A A
+B ~ A ~ BZv BWW_Onion_Rings Onion_Rings_Regular ~ A Hf A A A A A A A A A A A A A A
+B ~ A ~ BZv BWW_Onion_Rings_Basket Onion_Rings_Basket ~ A K7 A A A A A A A A A A A A A A
+B ~ A ~ BZv BWW_Mac_&_Cheese Mac_&_Cheese ~ A Er A A A A A A A A A A A A A A
+B ~ A ~ BZv BWW_Side_Salad Side_Salad ~ A GZ A A A A A A A A A A A A A A
+B ~ A ~ BZv BWW_Cole_Slaw Cole_Slaw ~ A Bj A A A A A A A A A A A A A A
+B ~ A ~ BZv Mozarella_Sticks ~ ~ A Jr A A A A A A A A A A A A A A
+B ~ A ~ BZv BWW_Ultimate_Nachos_w/Chicken Ultimate_Nachos_w/Chicken ~ A Nl A A A A A A A A A A A A A A
+B ~ A ~ BZv Ultimate_Nachos ~ ~ A Lj A A A A A A A A A A A A A A
+B ~ A ~ 

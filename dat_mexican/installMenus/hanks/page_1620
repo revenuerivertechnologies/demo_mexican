@@ -1,0 +1,33 @@
+vtpos 0 26
+Shots ZU K E P////////+e D A D J K N M U S F C A D/ C A
+Y
+D Send_&_Stay A KX J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Modifiers A Os JZ BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZJ ~ A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Food A Os Bz BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B cI ~ A ~ A
+B Beverage A Os i BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZI ~ A ~ A
+B Beer A Os DE BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZD ~ A ~ A
+B Liquor A Os EV BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZE ~ A ~ A
+B Cocktails A Os Fm BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZF ~ A ~ A
+B Wine A Os G3 BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZG ~ A ~ A
+B Specials A Os II BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZC ~ A ~ A
+D Send_Order A MY J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 B B final A ~ A
+z ~ A GM J8 CA CA C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A IQ J8 CA CA C J K N D A U S F A C D/ D9 A A D B A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+B Restart A A J8 CA CA A J K N D A U S F A K A B A EA D G A cancel A ~ A
+BT Increase A CE J8 CA CA C I K N R A K B Q A U S F A A D A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A FA B0 B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Single_Shot ~ A
+C ~ A FA Ct B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Double_Shot ~ A
+C ~ A FA FY B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Chilled ~ A
+C ~ A FA Dm B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Garnish ~ A
+C ~ A FA Ef B8 0 C M K D/ A A B D/ D+ A B D/ D+ A EA B A A Salt ~ A
+BU Rebuild_or\Delete A EI J8 CA CA C I K N S A U S F A K A B A A D A
+F BOq Single_Shot ~ ~ B A A A A A A A D B A B A A A A
+B ~ A ~ BOq Double_Shot ~ ~ B DI A A A A A A D B A B A A A A
+B ~ A ~ BOq Chilled ~ ~ B A A A A A A A D B A B A A A A
+B ~ A ~ BOq Garnish ~ ~ B A A A A A A A D B A B A A A A
+B ~ A ~ BOq Salt ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ 

@@ -1,0 +1,37 @@
+vtpos 0 26
+Default_Start_Page y K E P/////////8 K A D J K A A K B C C A D/ C A
+h
+B Return_To_Start A A I4 C8 Bk A J K N C A K S F A K A B A EA B A A logout A ~ b
+B ~ A Eg IY Fo Q A I K H A A B D/ D+ A B D/ D+ A EA B A A ~ A ~ A
+F T1 A ER o BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T4 A ER B5 BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T2 A Fy o BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T5 A Fy B5 BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T3 A HP o BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T6 A HP B5 BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T7 A ER DK BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T8 A Fy DK BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T9 A HP DK BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T10 A ER ET BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T11 A Fy Eb BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T12 A HP EX BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T13 A ER Fk BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T14 A Fy Fk BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T15 A HP Fk BU BA C N K N A A B D/ D+ A B D/ D+ A EA C B A
+F T16 A Jc BJ BU BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T17 A Jc Cm BU BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T18 A Jg EL BU BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F T19 A Jg Fk BU BA C I K N A A B D/ D+ A B D/ D+ A EA B B A
+F Bar1 A Eh Hh 4 w C L K N A A B D/ D+ A B D/ D+ A EA D B A
+F Bar2 A Fe Hh 4 w C L K N A A B D/ D+ A B D/ D+ A EA D B A
+F Bar3 A Gb Hh 4 w C L K N A A B D/ D+ A B D/ D+ A EA D B A
+F Bar4 A HY Hh 4 w C L K N A A B D/ D+ A B D/ D+ A EA D B A
+F Bar5 A IV Hh 4 w C L K N A A B D/ D+ A B D/ D+ A EA D B A
+F Bar6 A JS Hh 4 w C L K N A A B D/ D+ A B D/ D+ A EA D B A
+B More A KX Hp BM 4 C I K S P A U S F A B D/ D+ A EA B B z ~ A ~ A
+J Server_Report A KJ Kc C8 Bk C J K N D A B D/ D+ A K A B A EA B B P/////////X A
+J Kitchen_Display A NG I3 C8 Bk C J K N M A B D/ D+ A K A B A EA B B P////////x7 A
+D Transfer_Tables A C8 Kc C8 Bk C J K N S A B D/ D+ A K A B A EA B supervisor_>_0 H P////////+o Hello A ~ A
+J Guest_Checks A KJ I3 C8 Bk C J K N I A B D/ D+ A K A B A EA B B P////////+w A
+D Manager_Reports A C9 I4 C8 Bk C J K N G A B D/ D+ A K A B A EA B supervisor_>_0 H P////////9q Hello A ~ A
+A 

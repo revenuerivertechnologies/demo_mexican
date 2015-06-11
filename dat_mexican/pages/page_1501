@@ -1,0 +1,20 @@
+vtpos 0 26
+junk Xd G E A A A D F K A A K B A C A D/ C A
+Q
+J Menu_Board A Ck DE C4 BU A I B N U A B D/ D+ A K A B A EA B B BG A
+B Management_Operations A Ck Ec C4 BU A I B N G A B D/ D+ A K A B A EA B A A start A ~ A
+J Book_Balancing_&_End_of_Day A FU Ig Ck Bw A A K N D+ A U S F A K A B A EA B B P////////9q A
+J Closed_Checks_&_Timeclock A NU Ig Cc Bo C A K N S A U S F A K A B A EA B B P/////////X A
+J Shift_Reports A Ks Ig Cc Bo C A K N S A U S F A K A B A EA B B P/////////Q A
+J Pay_Expenses A NQ Ew Cc Bo A A K N D+ A U S F A K A B A EA B B P/////////n A
+J Transfer_Tables A IE Gs Cg Bo A A K N D+ A U S F A K A B A EA B B P////////+o A
+J Captured_Tips_Payout A IE Ig Cg Bo A A K N D+ A U S F A K A B A EA B B P////////9g A
+J Drawer_&_Bank_Balancing A Cs Ig Cg Bw A A K N D+ A U S F A K A B A EA B B P/////////O A
+D Manager A I Gs CY Bo A A K N U A U S F A C D/ D+ A EA B manager_>_0 C P/////////1 ~ A ~ V
+J Supervisor A I Ig CY Bo A A K N D+ A U S F A K A B A EA B A A A
+D Author A I E4 CY Bo A A K N M A U S F A C D/ D+ A EA B developer_>_0 C P/////////0 ~ A ~ A
+D System_Editor A I BQ CY Bo A A K N P A U S F A C D/ B A EA B superuser_>_0 C P/////////y ~ A ~ A
+D Media_Drawers A Cw G0 CY Bk A A K N D+ A U S F A C D/ D+ A EA B assigned_=_1 B P////////+n ~ A ~ A
+J Media_Drawer_Assignment_Is_Automatic A Cs Gs Cg Bw A I K N Q A U S F A K A D+ A EA B A A A
+D Executive A I DE CY Bo A A K N S A U S F A C D/ D+ A EA B superuser_>_0 C P/////////z ~ A ~ E
+A 

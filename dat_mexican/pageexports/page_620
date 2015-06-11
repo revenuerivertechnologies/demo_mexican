@@ -1,0 +1,33 @@
+vtpos 0 27
+Extras_Mods Js K E P////////+e D A G F K N A K S F C A D/ C A
+W
+D Send_Order A N4 Jk CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B Hz final A ~ A
+B Back_To_Tables A E Jk CI CI A J K N D A U S F A K A B A EA D B 1 cancel A ~ A
+BU Rebuild_or\Delete A Eo Jo CI CE C I K N J A U S F A K A B A A D A
+BT Increase A CU Jk CI CI C I K N J A K B Q A U S F A A D A
+H ~ A Hc g Bs BI A I B S M A B D/ F A B D/ D+ A EA B A A B A
+H ~ A OM g Bs BI A I B S M A B D/ F A B D/ D+ A EA B A A C A
+H ~ A K0 g Bs BI A I B S M A B D/ F A B D/ D+ A EA B A A Q A
+H ~ A JI g Bs BI A I B S M A B D/ F A B D/ D+ A EA B A A I A
+H ~ A Mh g Bs BI A I B S M A B D/ F A B D/ D+ A EA B A A E A
+e ~ A A g FQ JE A K K U A A q D B A K A B A A B 2 A
+D Send_&_Stay A Ln Jo CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 B IF final A ~ A
+J Veggies E FP Cx CM BI C I K U M A U S F A B D/ D+ A EA B B Jt A
+J Sauce E FP FD CM BI C I K U M A U S F A B D/ D+ A EA B B Jv A
+C ~ F Hc Bo CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A American_Cheese ~ A
+C ~ F Hc Cx CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Bun ~ A
+C ~ F Hc D6 CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Corn_Tortillas ~ A
+C ~ F Hc FD CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Flour_Tortillas ~ A
+C ~ F Hc GM CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A French_Fries ~ A
+C ~ F Hc HV CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Rice ~ A
+C ~ F Hc Ie CI BI C H K N J A B D/ D+ A B D/ D+ A EA B A A Taco_Shells ~ A
+J Proteins E FP D6 CM BI C I K U M A U S F A B D/ D+ A EA B B Ju A
+J Extras E FP Bo CM BI C I K B C A U S F A B D/ D+ A EA B B Js A
+H BSj American_Cheese ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Bun ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Corn_Tortillas ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Flour_Tortillas ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj French_Fries ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Rice ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ BSj Taco_Shells ~ ~ B ~ January_1,_2015 100 100 Adult A A A A A A A B X A A A A A A
+B ~ A ~ 

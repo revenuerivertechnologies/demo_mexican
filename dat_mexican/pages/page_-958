@@ -1,0 +1,39 @@
+vtpos 0 26
+System_Chart_of_Accounts P////////xC D S A A A D F K J A K B A C A D/ C G
+j
+G Cost_of_Sales_-_Inventory_Replenish:_5000_-_5999 B Fs F8 F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Short_Term_Notes_Payable:_2010_-_2199 A Fs DI F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Gift_Certificate_Redemption:_2000_-_2009 A Fs C0 F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Notes_Receivable:_1900_-_1999 B Fs Cg F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Leasehold_Improvements:_1810_-_1899 B Fs CM F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Accumulated_Depreciation:_1800_-_1809 B Fs B4 F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Equity_Account:_3000_-_3009 B Fs EY F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Capital_Reserve_Account:_3600_-_3699 B Fs FU F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Retained_Earnings_Account:_3500_-_3599 B Fs FA F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Shareholders:_3010_-_3499 B Fs Es F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Accrued_Payroll_Taxes:_2500_-_2899 B Fs Dw F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Other_Accrued_Taxes:_2901_-_2999 B Fs EE F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Balancing_Account:_9999 B Fs Hg F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Other_Income:_9500_-_9998 B Fs HM F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Other_Expenses:_9000_-_9499 B Fs G4 F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Operating_Expenses:_7000_-_8999 B Fs Gk F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Payroll_Expenses:_6000_-_6999 B Fs GQ F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Revenue_Families:_4000_-_4999 B Fs Fo F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Long_Term_Notes_Payable:_2200-2499 B Fs Dc F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Fixed_Assets:_1500_-_1999 B Fs Bk F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Current_Assets:_Inventory:_1100_-_1199 B Fs BQ F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Current_Assets:_Checking_Account:_1000 B Fs o F8 U F E D D9 A A C D/ B A C D/ B A A B A
+G Current_Assets:_Cash,_etc.:_1010_-_1099 B Fs 8 F8 U F E D D9 A A C D/ B A C D/ B A A B A
+B ~ A OQ GQ Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ Hs Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ JI Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+J ~ A Fo k GE KU C E K A A A K B B A K A B A EA B A A A
+BS Test_Chart_Of_Accounts A E k Fc KU C E K A D+ A B D/ D+ A B D/ D+ A EA B A
+B Return A OA LE CA 4 C A D D9 Q A K D9 C A K A B A EA B D A save A ~ A
+J ~ A A LE QA 4 C E B D/ A A K B B A K A B A EA B A A A
+B Add_New_Account A OQ DY Bs Bc C A D D9 U A K D9 C A K A B A EA B A A new A ~ A
+B Edit_Name A OQ B8 Bs Bc C A D D9 S A K D9 C A K A B A EA B A A edit A ~ A
+B Inactivate_Account A OQ g Bs Bc E A D D9 T A K D9 C A K A B A EA B A A delete A ~ A
+B Find A OQ E0 Bs Bc C A D D9 Q A K D9 C A K A B A EA B A A find A ~ A
+J ~ A OQ g Bs Kk C E K A A A K B B A K A B A EA B A A A
+A 

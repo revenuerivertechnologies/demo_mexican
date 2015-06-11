@@ -1,0 +1,37 @@
+vtpos 0 26
+Crepes Hb K E P////////+e D A D J K U A U S F C A D/ C A
+Z
+B Restart A E J4 CI CI A J K N D A U S F A K A B A EA D E A cancel A ~ A
+z ~ A G8 J4 CI CI C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A JQ J4 CI CI C J K N D A U S F A C D/ D9 A A D B A
+J Split_Check A Lk J4 CI CI C J K N M A U S F A K A B A EA D B P////////+4 A
+D Send_Order A N4 J4 CE CI C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+BU Rebuild_or\Delete A Eo J8 CI CE C J K N J A U S F A K A B A A D A
+BT Increase A CU J4 CI CI C J K N J A K B Q A U S F A A D A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A Oo Cs BU 8 C M K N Q A U S F A B D/ D+ A EA B A A See_the_Server ~ A
+J Home A JD l BU 8 C H K N C A B D/ D+ A B D/ D+ A EA B B HW A
+J Beverages E E8 k DM BA C I K U E A U S F A B D/ D+ A EA B B Hh A
+J Sides A E8 Bp DM BA C I K U H A B D/ D+ A B D/ D+ A EA B C HX A
+J Pancakes A E8 Cw DM BA C I K U D A B D/ D+ A B D/ D+ A EA B C HY A
+J Belgian_Waffles A E8 D1 DM BA C I K U J A B D/ D+ A B D/ D+ A EA B B HZ A
+J French_Toast A E8 E8 DM BA C I K U I A B D/ D+ A B D/ D+ A EA B C Ha A
+J Crepes A E8 GC DM BE C I K U C A B D/ D+ A B D/ D+ A EA B B Hb A
+J Omelettes A E8 HM DM BA C I K U N A B D/ D+ A B D/ D+ A EA B C Hc A
+J Next_>> A E8 IR DM BA C J K B L A B D/ D+ A B D/ D+ A EA B C HV A
+C ~ A IQ HA B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B B Hl Create-a-Crepe ~ A
+C ~ A IQ GH B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Chicken_Florentine_Crepes ~ A
+C ~ A IQ FO B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B B Hi Fruit_Topped_Crepes ~ A
+C ~ A IQ EV B8 0 C M K N P A B D/ D+ A B D/ D+ A EA B A A Swedish_Crepes ~ A
+C ~ A IQ Da B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Chicken,_Bacon,_&_White_Cheddar_Crepes ~ A
+C ~ A IQ Ch B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B A A Classic_Breakfast_Crepes ~ A
+C ~ A IQ Bo B8 0 C L K N P A B D/ D+ A B D/ D+ A EA B B Es Strawberries_&_Cream_Crepes ~ A
+I BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Create-a-Crepe ~ ~ A OD A A A A A A B H A A A A A A
+B ~ A ~ BOq Chicken_Florentine_Crepes ~ ~ A OD A A A A A A B H A A A A A A
+B ~ A ~ BOq Fruit_Topped_Crepes ~ ~ A Mf A A A A A A B H A A A A A A
+B ~ A ~ BOq Swedish_Crepes ~ ~ A J1 A A A A A A B H A A A A A A
+B ~ A ~ BOq Chicken,_Bacon,_&_White_Cheddar_Crepes Chicken,_Bacon,_&_White_Cheddar ~ A OD A A A A A A B H A A A A A A
+B ~ A ~ BOq Classic_Breakfast_Crepes ~ ~ A JX A A A A A A B H A A A A A A
+B ~ A ~ BOq Strawberries_&_Cream_Crepes ~ ~ A K7 A A A A A A B H A A A A A A
+B ~ A ~ 

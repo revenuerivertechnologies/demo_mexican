@@ -1,0 +1,52 @@
+vtpos 0 26
+IHOP_Create_Om._3 Fg S E P////////+e D A I J K A A K B A C A D/ C A
+i
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+J Continue_Ordering A Xg Oo DQ CE C J B O Q A B D/ D+ A B D/ D+ A EA B G A A
+C ~ A Nk Oo DM CE C J B O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+C ~ A KM Oo DQ CE C J B O S A B D/ D+ A B D/ D+ A EA B A A Ignore_me! ~ A
+J Pancakes A HM D4 FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C E2 A
+J Breakfast_Combos A HM GI FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C E4 A
+J French_Toast A HM HM FU BE C J r A A A B D/ D+ A B D/ D+ A EA B C E5 A
+J Belgian_Waffles A HM IV FU BE C J r A A A B D/ D+ A B D/ D+ A EA B B E6 A
+J Crepes A HM Je FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B E7 A
+J Griddle_Melts A HM Kr FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B E8 A
+J Sandwiches A HM L4 FU BI C J r A A A B D/ D+ A B D/ D+ A EA B B E9 A
+J Appetizers A HM Bt FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C FH A
+J Featured_Items A HM Cy FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C FJ A
+J >>_NEXT_>> A HM NF FU BI C J o K Q A B D/ D+ A B D/ D+ A EA B B Et A
+C ~ A ag CM DM CE C A U O Q A B D/ D+ A B D/ D+ A EA B A A See_the_Server ~ A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Omelettes A HM FA FU BE C J r A F A B D/ D+ A B D/ D+ A EA B C E3 A
+J Food A Pi l CI BU C J t E B A B D/ D+ A B D/ D+ A EA B B Es A
+C ~ A M4 CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fh Onions ~ A
+C ~ A M4 Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fh Peppers ~ A
+C ~ A M4 FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fh Mushrooms ~ A
+C ~ A M4 Gj DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fh Brocoli ~ A
+C ~ A M4 H8 DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fh Carrots ~ A
+C ~ A M4 JV DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fh Spinach ~ A
+C ~ A QV Dx DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fh Ham ~ A
+C ~ A QV FK DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fh Bacon ~ A
+C ~ A QV CY DY BU C I K D/ A A B D/ D+ A B D/ D+ A EA B B Fh Sausage ~ A
+J Beverages A HM o FU BA C J r A A A B D/ D+ A B D/ D+ A EA B C Ex A
+O BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Ignore_me! ~ ~ A A A A A A A A A X A A A A A A
+B ~ A ~ BOq See_the_Server ~ ~ B A A A A A A A A X A A A A A A
+B ~ A ~ BOq Onions ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Peppers ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Mushrooms ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Brocoli ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Carrots ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Spinach ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BSj Ham ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Bacon ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ BOq Sausage ~ ~ B A A A A A A A B X A A A A A A
+B ~ A ~ 

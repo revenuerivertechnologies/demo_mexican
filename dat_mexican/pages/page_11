@@ -1,0 +1,84 @@
+vtpos 0 26
+Baked_Goods_&_Desserts L H Q P////////+e D A I J K J A r B C C A D/ C J
+w
+z ~ A I8 PI Cw B4 C J K J G A K B G A C D/ D9 A E B P////////// A
+z ~ A L0 PI Cw B4 C J K J G A K B G A C D/ D9 A E B B A
+BU Rebuild_or\Delete A DM PI Cw B4 C J K J P A K B P A K A B A E B A
+BT Increase A GE PI Cw B4 C J K J Q A K B Q A K A B A E B A
+J Seat\Magic A bY PI Cw B4 C J K J G A K B C A K A B A EA B B P////////+4 A
+B Restart A U PI Cw B4 A J B J T A e B T A K A B A EA B E A cancel A ~ A
+D Ordering_is_Complete A X4 PI DY B4 C J B J Q A e B R A C D/ D9 A EA B flow_=_1 A A final A ~ A
+D Item_Printer_Targets A Pc PE DQ B8 A A t J P A B D/ D+ A C D/ K A EA B supervisor_>_1 B P////////9M ~ A ~ R
+BA ~ A UY PI DY B4 C J K J Q A K B Q A C D/ D9 A E B A
+e ~ A Y g Gs OQ A F K J A A q D B A K A B A J B 2 A
+J Pita_Combinations A HU Mo Dc CM C A t I Q A B D/ D+ A B D/ D+ A EA B C G A
+C ~ A U Mw DU B4 C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Container_Deposit ~ A
+J Coffee A WA M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B o A
+C ~ A O0 FI C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A -40_Peanut_Butter_Cookie ~ A
+J Bakery A Zs M4 Dc B0 C G r B S A B D/ D+ A B D/ D+ A EA B A A A
+C ~ A I0 FI C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Cookie ~ A
+C ~ A L0 FI C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Cookie ~ A
+C ~ A L0 DA C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Mayan_Brownie ~ A
+C ~ A a0 FQ C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A AK_Rhubarb_Crisp ~ A
+J Breakfast_Pita_&_Sandwiches A Ks M0 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B D A
+J Kebabs_Pitas_Soups A Oo M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B F A
+J Salads_Specials A SU M4 Dc B0 C G t I Q A B D/ D+ A B D/ D+ A EA B B J A
+C ~ A R0 DA C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Tiramisu ~ A
+C ~ A X0 Jk C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Pie ~ A
+C ~ A R0 HY C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Raw_Cheesecake ~ A
+C ~ A X0 Hc C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A RawKstar ~ A
+C ~ A I0 4 C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Cupcake ~ A
+C ~ A O0 4 C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Muffin ~ A
+C ~ A L0 4 C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Doughnut ~ A
+C ~ A a0 4 C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Bialy ~ A
+C ~ A X0 FQ C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Solstice_Cake ~ A
+C ~ A Ec Ms C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Viennese_Pastry ~ A
+C ~ A O0 DA C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Biscotto ~ A
+C ~ A X0 DI C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Bagel ~ A
+C ~ A a0 Jk C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Parfait ~ A
+C ~ A a0 DI C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Lox_Bagel ~ A
+C ~ A a0 Hc C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A 3_Truffles ~ A
+C ~ A U0 DI C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Bagel ~ A
+C ~ A R0 FM C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Pavlova ~ A
+C ~ A X0 4 C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Focaccia ~ A
+C ~ A U0 4 C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Focaccia ~ A
+C ~ A R0 4 C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Brioche ~ A
+C ~ A I0 DA C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Brioche ~ A
+C ~ A O0 HY C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Bread_Pudding ~ A
+C ~ A I4 HQ C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Donut_Sandwiches ~ A
+C ~ A U4 HY C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A GF_Cinnamon_Roll ~ A
+C ~ A U0 FQ C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Cinnamon_Pullapart ~ A
+C ~ A U0 Jk C8 CE C A B D/ D+ A B D/ D+ A B D/ D+ A EA B A A Cinnamon_Roll ~ A
+g BOq Container_Deposit ~ Side:_Chips_PG A Z A A A A A A Bj X A A A A A A
+B ~ A ~ BOq -40_Peanut_Butter_Cookie ~ ~ A DI A A A A A A A E A A A A A A
+B ~ A ~ BOq Cookie ~ ~ A DI A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Cookie ~ ~ A ET A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Mayan_Brownie ~ ~ A Gp A A A A A A A E A A A A A A
+B ~ A ~ BOq AK_Rhubarb_Crisp ~ ~ A HC A A A A A A A E A A A A A A
+B ~ A ~ BOq Tiramisu ~ ~ A Gp A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Pie ~ ~ A IN A A A A A A A E A A A A A A
+B ~ A ~ BOq Raw_Cheesecake ~ ~ A I/ A A A A A A A E A A A A A A
+B ~ A ~ BOq RawKstar ~ ~ A IN A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Cupcake ~ ~ A F3 A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Muffin ~ ~ A Es A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Doughnut ~ ~ A Es A A A A A A A E A A A A A A
+B ~ A ~ BOq Bialy ~ ~ A D6 A A A A A A A E A A A A A A
+B ~ A ~ BOq Solstice_Cake ~ ~ A HC A A A A A A A E A A A A A A
+B ~ A ~ BOq Viennese_Pastry ~ ~ A I/ A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Biscotto ~ ~ A FF A A A A A A A E A A A A A A
+B ~ A ~ BOq Bagel ~ ~ A DI A A A A A A Bj E A A A A A A
+B ~ A ~ BOq Parfait ~ ~ A I/ A A A A A A A E A A A A A A
+B ~ A ~ BOq Lox_Bagel ~ ~ A MH A A A A A A A E A A A A A A
+B ~ A ~ BOq 3_Truffles ~ ~ A H0 A A A A A A A E A A A A A A
+B ~ A ~ BO/ GF_Bagel ~ ~ A D6 A A A A A A Bj E A A A A A A
+B ~ A ~ BOq Pavlova ~ ~ A HC A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Focaccia ~ ~ A Es A A A A A A A E A A A A A A
+B ~ A ~ BOq Focaccia ~ ~ A D6 A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Brioche ~ ~ A GQ A A A A A A A E A A A A A A
+B ~ A ~ BOq Brioche ~ ~ A FF A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Bread_Pudding ~ ~ A HC A A A A A A A E A A A A A A
+B ~ A ~ BOq Donut_Sandwiches ~ ~ A GQ A A A A A A A E A A A A A A
+B ~ A ~ BOq GF_Cinnamon_Roll ~ ~ A H0 A A A A A A A E A A A A A A
+B ~ A ~ BOq Cinnamon_Pullapart ~ ~ A GQ A A A A A A A E A A A A A A
+B ~ A ~ BOq Cinnamon_Roll ~ ~ A HC A A A A A A A E A A A A A A
+B ~ A ~ 

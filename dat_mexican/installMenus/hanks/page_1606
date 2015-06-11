@@ -1,0 +1,66 @@
+vtpos 0 26
+Wine ZG K E P////////+e D A D F K N A U S F C A D/ C A
+o
+D Send_&_Stay A KX J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 A A final A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Modifiers A Os JZ BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZJ ~ A ~ A
+B --> A NT i BU BQ C J K B C A B D/ D+ A B D/ D+ A EA B B B ~ A ~ A
+B Food A Os Bz BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B cI ~ A ~ A
+B Beverage A Os i BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZI ~ A ~ A
+B Beer A Os DE BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZD ~ A ~ A
+B Liquor A Os EV BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZE ~ A ~ A
+B Cocktails A Os Fm BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZF ~ A ~ A
+B Wine A Os G3 BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZG ~ A ~ A
+B Specials A Os II BU BQ C H K F O A B D/ D+ A B D/ D+ A EA B B ZC ~ A ~ A
+D Send_Order A MY J8 B8 CA C J B N U A U S F A C D/ D9 A EA D flow_=_1 B B final A ~ A
+z ~ A GM J8 CA CA C J K N C A U S F A C D9 D9 A A D P////////// A
+z ~ A IQ J8 CA CA C J K N D A U S F A C D/ D9 A A D B A
+C ~ A I8 Bw B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Valpolicella ~ A
+C ~ A K9 Cp B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Two_Left_Feet ~ A
+C ~ A I8 Di B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Hedges_CMS ~ A
+C ~ A I8 Eb B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Josh_Cab ~ A
+C ~ A I8 HG B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Volver ~ A
+C ~ A I8 H/ B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Sasyr ~ A
+C ~ A E8 Bw B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Rocca_PG ~ A
+C ~ A E8 Cp B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Borsao_Rose ~ A
+C ~ A E8 Di B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A C&C_Chard ~ A
+C ~ A E8 Eb B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Walnut_Block_SB ~ A
+C ~ A E8 FU B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Albarino ~ A
+C ~ A E8 H/ B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Gewurtz ~ A
+C ~ A G9 Bw B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A FFV_Chard ~ A
+C ~ A G9 Di B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Dr._L_Sekt ~ A
+C ~ A G9 Eb B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Gruet_Rose ~ A
+e ~ A A g E4 JA A F K U A A q D B A K A B A A B 2 A
+C ~ A E8 GN B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Valmasca_Moscato ~ A
+C ~ A E8 HG B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Stefan_B_Reisling ~ A
+C ~ A G9 Cp B8 0 C L K D/ K A B D/ D+ A B D/ D+ A EA B A A Carpene_Prosecco ~ A
+C ~ A I8 Cp B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Cannonball_Merlot ~ A
+C ~ A I8 FU B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Don_Martino_Malb ~ A
+C ~ A K9 Bw B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Sean_Minor_Napa ~ A
+C ~ A I8 GN B8 0 C L K D/ P A B D/ D+ A B D/ D+ A EA B A A Wallace_Brook_Malb ~ A
+B Restart A A J8 CA CA A J K N D A U S F A K A B A EA D G A cancel A ~ A
+BT Increase A CE J8 CA CA C I K N R A K B Q A U S F A A D A
+BU Rebuild_or\Delete A EI J8 CA CA C I K N S A U S F A K A B A A D A
+W BOq Valpolicella ~ ~ A K8 A A A A A A D S A B A A A A
+B ~ A ~ BOq Two_Left_Feet ~ ~ A ak A A A A A A D S A B A A A A
+B ~ A ~ BOq Hedges_CMS ~ ~ A Po A A A A A A D T A B A A A A
+B ~ A ~ BOq Josh_Cab ~ ~ A Po A A A A A A D T A B A A A A
+B ~ A ~ BOq Volver ~ ~ A UU A A A A A A D T A B A A A A
+B ~ A ~ BOq Sasyr ~ ~ A Sw A A A A A A D T A B A A A A
+B ~ A ~ BOq Rocca_PG ~ ~ A K8 A A A A A A D T A B A A A A
+B ~ A ~ BOq Borsao_Rose ~ ~ A K8 A A A A A A D T A B A A A A
+B ~ A ~ BOq C&C_Chard ~ ~ A Mg A A A A A A D T A B A A A A
+B ~ A ~ BOq Walnut_Block_SB ~ ~ A OE A A A A A A D T A B A A A A
+B ~ A ~ BOq Albarino ~ ~ A Po A A A A A A D T A B A A A A
+B ~ A ~ BOq Gewurtz ~ ~ A UU A A A A A A D T A B A A A A
+B ~ A ~ BOq FFV_Chard ~ ~ A ak A A A A A A D T A B A A A A
+B ~ A ~ BOq Dr._L_Sekt ~ ~ A UU A A A A A A D T A B A A A A
+B ~ A ~ BOq Gruet_Rose ~ ~ A V4 A A A A A A D T A B A A A A
+B ~ A ~ BOq Valmasca_Moscato Valmasca ~ A Po A A A A A A D T A B A A A A
+B ~ A ~ BOq Stefan_B_Reisling Stefan_B ~ A RM A A A A A A D T A B A A A A
+B ~ A ~ BOq Carpene_Prosecco Carpene ~ A Po A A A A A A D T A B A A A A
+B ~ A ~ BOq Cannonball_Merlot Cannonball ~ A OE A A A A A A D T A B A A A A
+B ~ A ~ BOq Don_Martino_Malb Con_Martino ~ A RM A A A A A A D T A B A A A A
+B ~ A ~ BOq Sean_Minor_Napa Sean_Minor ~ A V4 A A A A A A D T A B A A A A
+B ~ A ~ BOq Wallace_Brook_Malb Wallace_Brook ~ A Sw A A A A A A D T A B A A A A
+B ~ A ~ 

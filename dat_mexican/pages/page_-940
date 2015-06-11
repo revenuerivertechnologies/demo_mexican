@@ -1,0 +1,34 @@
+vtpos 0 26
+General_Ledger P////////xU D S A A A D F K J A K B A C A D/ C G
+e
+G Balance_Sheet A GQ Co H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+G Unit_Income_Statement A GQ CA H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+G Consolidated_Income_Statement A GQ BY H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+G Financial_Reports A GQ s H0 k F J D D9 A A C D/ C A C D/ B A EA B A
+G Journal_&_Ledger_Reports A GQ D0 H0 k F J D D9 A A C D/ C A C D/ B A EA B A
+B ~ A OQ GQ Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ Hs Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+B ~ A OQ JI Bs Bc C A D D9 T A K D9 C A K A B A EA B A A ~ A ~ A
+G Chart_of_Accounts A GQ Ho H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+G Trial_Balances A GQ IQ H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+G The_Standard_Entries_Journal A GQ GY H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+G The_General_Entries_Journal A GQ Fw H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+G The_Cash_Receipts_Journal A GQ FI H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+G The_Cash_Disbursements_Journal A GQ Eg H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+G The_General_Ledger A GQ HA H0 o F A D D9 A A C D/ C A C D/ B A EA B A
+J ~ A GE g IM Ig C A K A A A B D/ D+ A B D/ D+ A EA B A A A
+J General_Ledger A A LE CA 4 A A K D9 G A D D9 C A K A B A EA B A A A
+B Inactivate_Account A OQ g Bs Bc E A D D9 T A K D9 C A K A B A EA B A A DELETE A ~ A
+B Find A OQ E0 Bs Bc C A D D9 Q A K D9 C A K A B A EA B A A ~ A ~ A
+B Edit_Name A OQ B8 Bs Bc C A D D9 S A K D9 C A K A B A EA B A A ~ A ~ A
+J Chart_of_Accounts A CA LE CA 4 A A D D9 U A K D9 C A K A B A EA B C P////////xT A
+J General_Journal A EA LE CA 4 A A D D9 T A K D9 C A K A B A EA B C P////////xR A
+J CR/CD A GA LE CA 4 A A D D9 R A K D9 C A K A B A EA B C P////////xR A
+J Payables_Ledger A IA LE CA 4 A A D D9 M A K D9 C A K A B A EA B C P////////xQ A
+J Receivables_Ledger A KA LE CA 4 A A D D9 S A K D9 C A K A B A EA B C P////////xP A
+J Fixed_Assets A MA LE CA 4 A A D D9 P A K D9 C A K A B A EA B C P////////xM A
+B Return A OA LE CA 4 C A D D9 Q A K D9 C A K A B A EA B D A save A ~ A
+J ~ A A LE QA 4 C E B D/ A A K B B A K A B A EA B A A A
+B Add_New_Account A OQ DY Bs Bc C A D D9 U A K D9 C A K A B A EA B A A new A ~ A
+J ~ A OQ g Bs Kk C E K A A A K B B A K A B A EA B A A A
+A 
